@@ -9,19 +9,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stone.Cobranca", "Stone.Cob
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stone.Util", "Stone.Util", "{D3F87910-482E-450C-964A-39F3FFD1C085}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.API", "src\Stone.Clientes\Stone.Clientes.API\Stone.Clientes.API.csproj", "{DBC7988A-4F3A-4B9C-A9C4-F3A904F735BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.API", "src\Stone.Clientes\Stone.Clientes.API\Stone.Clientes.API.csproj", "{DBC7988A-4F3A-4B9C-A9C4-F3A904F735BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.Application", "src\Stone.Clientes\Stone.Clientes.Application\Stone.Clientes.Application.csproj", "{5EB0B180-CF9E-4498-AF1F-4883D1C6198F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Application", "src\Stone.Clientes\Stone.Clientes.Application\Stone.Clientes.Application.csproj", "{5EB0B180-CF9E-4498-AF1F-4883D1C6198F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.Data", "src\Stone.Clientes\Stone.Clientes.Data\Stone.Clientes.Data.csproj", "{4FBA4672-FB00-4554-9E5A-E64E749331AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Data", "src\Stone.Clientes\Stone.Clientes.Data\Stone.Clientes.Data.csproj", "{4FBA4672-FB00-4554-9E5A-E64E749331AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobranca.API", "src\Stone.Cobranca\Stone.Cobranca.API\Stone.Cobranca.API.csproj", "{B6247EDD-35F5-48B5-A27B-78A68CB2487B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.API", "src\Stone.Cobranca\Stone.Cobranca.API\Stone.Cobranca.API.csproj", "{B6247EDD-35F5-48B5-A27B-78A68CB2487B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobranca.Worker", "src\Stone.Cobranca\Stone.Cobranca.Worker\Stone.Cobranca.Worker.csproj", "{C86E52C5-5F82-46DC-807D-9B74D098514E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.Worker", "src\Stone.Cobranca\Stone.Cobranca.Worker\Stone.Cobranca.Worker.csproj", "{C86E52C5-5F82-46DC-807D-9B74D098514E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobranca.Data", "src\Stone.Cobranca\Stone.Cobranca.Data\Stone.Cobranca.Data.csproj", "{82EDA603-C14D-4002-A076-3E5A51CA7BDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.Data", "src\Stone.Cobranca\Stone.Cobranca.Data\Stone.Cobranca.Data.csproj", "{82EDA603-C14D-4002-A076-3E5A51CA7BDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobranca.Application", "src\Stone.Cobranca\Stone.Cobranca.Application\Stone.Cobranca.Application.csproj", "{D3C94926-2A64-406A-B369-DF80719F97B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.Application", "src\Stone.Cobranca\Stone.Cobranca.Application\Stone.Cobranca.Application.csproj", "{D3C94926-2A64-406A-B369-DF80719F97B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D21A8052-58D6-46A0-AF7C-5FC3B1C5A1A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{09F87E40-D467-4E56-B760-A73BD201A6DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +66,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{8582272C-17B2-4812-9A1A-44D8D7EF8FC4} = {D21A8052-58D6-46A0-AF7C-5FC3B1C5A1A1}
+		{59B6362C-775A-4992-A6A4-F635D4B171DB} = {D21A8052-58D6-46A0-AF7C-5FC3B1C5A1A1}
+		{D3F87910-482E-450C-964A-39F3FFD1C085} = {D21A8052-58D6-46A0-AF7C-5FC3B1C5A1A1}
 		{DBC7988A-4F3A-4B9C-A9C4-F3A904F735BD} = {8582272C-17B2-4812-9A1A-44D8D7EF8FC4}
 		{5EB0B180-CF9E-4498-AF1F-4883D1C6198F} = {8582272C-17B2-4812-9A1A-44D8D7EF8FC4}
 		{4FBA4672-FB00-4554-9E5A-E64E749331AE} = {8582272C-17B2-4812-9A1A-44D8D7EF8FC4}
