@@ -5,13 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="10.1.1" />
     <PackageReference Include="FluentValidation" Version="9.5.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Stone.Clientes.Data\Stone.Clientes.Data.csproj" />
-    <ProjectReference Include="..\Stone.Clientes.Domain\Stone.Clientes.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Stone.Utils\Stone.Utils.csproj" />
   </ItemGroup>
 
   <ItemGroup>
