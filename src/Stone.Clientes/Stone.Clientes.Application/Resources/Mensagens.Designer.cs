@@ -61,6 +61,15 @@ namespace Stone.Clientes.Application.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Os valores informados para busca são inválidos..
+        /// </summary>
+        internal static string BUSCA_INVALIDA {
+            get {
+                return ResourceManager.GetString("BUSCA_INVALIDA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to O CPF do cliente é obrigatório..
         /// </summary>
         internal static string CLIENTE_CPF_OBRIGATORIO {

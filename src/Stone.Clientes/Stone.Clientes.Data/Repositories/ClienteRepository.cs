@@ -7,6 +7,7 @@ using Stone.Clientes.Domain.Models;
 using Stone.Clientes.Domain.Repositories;
 using Stone.Clientes.Domain.Enums;
 using System.Threading;
+using System.Collections.Generic;
 
 namespace Stone.Clientes.Data.Repositories
 {
@@ -42,6 +43,24 @@ namespace Stone.Clientes.Data.Repositories
             return RetornaClienteDomain(clienteDb);
         }
 
+        public Task<bool> VerificaSeClienteExisteAsync(long cpf, CancellationToken cancellationToken)
+        {
+            return this.clientesContext.AnyAsync(c => c.CPF == cpf, cancellationToken);
+        }
+
+        public async Task<List<Cliente>> BuscaPaginadaAsync(int Pagina, int Quantidade, CancellationToken cancellationToken)
+        {
+            int skip = (Pagina - 1) * Quantidade;
+
+            var data = await this.clientesContext
+                                .Skip(skip)
+                                .Take(Quantidade)
+                                .OrderBy(e => e.Id)
+                                .ToListAsync(cancellationToken);
+
+            return data.Select(e => RetornaClienteDomain(e)).ToList();
+        }
+
         private static Cliente RetornaClienteDomain(ClienteEntity clienteDb)
         {
             if (clienteDb == null)
@@ -51,11 +70,6 @@ namespace Stone.Clientes.Data.Repositories
                                             clienteDb.Nome,
                                             (EstadoEnum)Enum.Parse(typeof(EstadoEnum), clienteDb.Estado),
                                             clienteDb.CPF);
-        }
-
-        public Task<bool> VerificaSeClienteExisteAsync(long cpf, CancellationToken cancellationToken)
-        {
-            return this.clientesContext.AnyAsync(c => c.CPF == cpf, cancellationToken);
         }
     }
 }

@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 using Xunit;
 using FluentValidation.TestHelper;
 using FluentValidation;
+using System.Linq;
 
 namespace Stone.Clientes.Domain.Tests.Services
 {
@@ -112,7 +113,28 @@ namespace Stone.Clientes.Domain.Tests.Services
             Assert.Equal(clienteMock.Id, clienteBusca.Id);
             Assert.Equal(clienteMock.Nome, clienteBusca.Nome);
             Assert.Equal(clienteMock.CPF, clienteBusca.CPF);
+        }
 
+        [Fact]
+        public async Task ClienteServices_BuscaPaginadaAsync_ExecutaComSucessoAsync()
+        {
+            //Arrange
+            var clienteMock1 = new Cliente(Guid.NewGuid(), "Cliente 1", Enums.EstadoEnum.AC, "815.768.817-50");
+            var clienteMock2 = new Cliente(Guid.NewGuid(), "Cliente 2", Enums.EstadoEnum.BA, "128.537.736-20");
+            var clienteMock3 = new Cliente(Guid.NewGuid(), "Cliente 3", Enums.EstadoEnum.RO, "430.505.276-84");
+            clienteRepositoryMock.Setup(c => c.BuscaPaginadaAsync(1, 5, CancellationToken.None))
+                                 .ReturnsAsync(new List<Cliente>()
+                                 {
+                                     clienteMock1,clienteMock2, clienteMock3
+                                 });
+
+
+            //Act
+            var buscaClientes = await clienteService.BuscaPaginadaAsync(1, 5, CancellationToken.None);
+
+            //Assert
+            Assert.NotEmpty(buscaClientes);
+            Assert.Equal(3, buscaClientes.Count());
         }
     }
 }

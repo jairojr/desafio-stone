@@ -13,5 +13,6 @@ namespace Stone.Clientes.Domain.Repositories
         public Task<Cliente> ObterPorIdAsync(Guid idCliente, CancellationToken cancellationToken);
         public Task<Cliente> ObterPorCpfAsync(long cpf, CancellationToken cancellationToken);
         public Task<bool> VerificaSeClienteExisteAsync(long cpf, CancellationToken cancellationToken);
+        public Task<List<Cliente>> BuscaPaginadaAsync(int Pagina, int Quantidade, CancellationToken cancellationToken);
     }
 }

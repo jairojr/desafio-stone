@@ -14,12 +14,12 @@ namespace Stone.Clientes.Application.ViewModel
         public string Nome { get; set; }
 
         /// <summary>
-        /// Estado 
+        /// Estado
         /// </summary>
         public string Estado { get; set; }
 
         /// <summary>
-        /// CPF, com ou sem mascara .
+        /// CPF
         /// </summary>
         public string CPF { get; set; }
     }

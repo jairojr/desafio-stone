@@ -9,6 +9,7 @@ using Stone.Clientes.Domain.Models;
 using Stone.Clientes.Domain.Services;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -106,6 +107,25 @@ namespace Stone.Clientes.Application.Tests
             //Assert
             Assert.NotNull(clienteRetornado);
             Assert.Equal(clienteMock.Nome, clienteRetornado.Nome);
+        }
+
+
+        [Fact]
+        public async System.Threading.Tasks.Task ClienteApplication_BuscaPaginadaAsync_ExecutaComSucesso()
+        {
+            //Arrange
+            var clienteMock1 = new Cliente(Guid.NewGuid(), "Daniela Eloá Mariana de Paula", Domain.Enums.EstadoEnum.CE, "393.819.426-09");
+            var clienteMock2 = new Cliente(Guid.NewGuid(), "Sueli Rebeca Pereira", Domain.Enums.EstadoEnum.CE, "583.500.531-86");
+            var clienteMock3 = new Cliente(Guid.NewGuid(), "Melissa Isabela Moreira", Domain.Enums.EstadoEnum.CE, "712.268.066-51");
+            this.clienteServiceMock.Setup(c => c.BuscaPaginadaAsync(1, 5, CancellationToken.None))
+                                    .ReturnsAsync(new List<Cliente>() { clienteMock1, clienteMock2, clienteMock3 });
+
+            //Act
+            var resultadoClientes = await application.BuscaPaginadaAsync(1, 5, CancellationToken.None);
+
+            //Assert
+            Assert.NotEmpty(resultadoClientes);
+            Assert.Equal(3, resultadoClientes.Count());
         }
     }
 }

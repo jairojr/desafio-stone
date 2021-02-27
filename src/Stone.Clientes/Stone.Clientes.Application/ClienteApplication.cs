@@ -13,6 +13,7 @@ using FluentValidation.Results;
 using Stone.Utils;
 using System.Threading;
 using Stone.Clientes.Domain.Services;
+using Stone.Clientes.Application.Resources;
 
 namespace Stone.Clientes.Application
 {
@@ -30,6 +31,7 @@ namespace Stone.Clientes.Application
             this.clienteService = clienteService;
             this.validation = validation;
         }
+
 
         public async Task<ClienteViewModel> CriarAsync(ClienteViewModel clienteViewModel, CancellationToken cancellationToken)
         {
@@ -55,6 +57,16 @@ namespace Stone.Clientes.Application
             var cliente = await clienteService.ObterPorIdAsync(idCliente, cancellationToken);
 
             return this.mapper.Map<ClienteViewModel>(cliente);
+        }
+
+        public async Task<IEnumerable<ClienteViewModel>> BuscaPaginadaAsync(int pagina, int tamanho, CancellationToken cancellationToken)
+        {
+            if (pagina < 0 || tamanho <= 0)
+                throw new ValidacaoException(nameof(Mensagens.BUSCA_INVALIDA), Mensagens.BUSCA_INVALIDA);
+
+            var result = await this.clienteService.BuscaPaginadaAsync(pagina, tamanho, cancellationToken);
+
+            return this.mapper.Map<IEnumerable<ClienteViewModel>>(result);
         }
     }
 }

@@ -24,9 +24,9 @@ namespace Stone.Clientes.API.Configuration
                     });
 
                 var pasta = AppContext.BaseDirectory;
-                var caminhoXml = Path.Combine(pasta, $"{env.ApplicationName}.xml");
-
-                c.IncludeXmlComments(caminhoXml);
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Clientes.API.xml"));
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Clientes.Application.xml"));
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Utils.xml"));
             });
 
             return services;

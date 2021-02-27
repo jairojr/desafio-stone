@@ -106,5 +106,18 @@ namespace Stone.Clientes.Data.Tests
             //Assert
             Assert.False(verificaSeClienteExiste);
         }
+
+        [Fact]
+        public async Task ClienteRepository_BuscaPaginada_RetornaLista()
+        {
+            //Arrange
+            var repository = new ClienteRepository(ContextFixture);
+
+            //Act
+            var verificaSeClienteExiste = await repository.BuscaPaginadaAsync(1, 5, CancellationToken.None);
+
+            //Assert
+            Assert.NotEmpty(verificaSeClienteExiste);
+        }
     }
 }

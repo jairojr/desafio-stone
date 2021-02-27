@@ -1,6 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Stone.Clientes.API.Models;
 using Stone.Clientes.Application.Interfaces;
 using Stone.Clientes.Application.ViewModel;
+using Stone.Utils;
+using System.Linq;
+using System.Net;
 using System.Threading;
 
 namespace Stone.Clientes.API.Controllers
@@ -20,22 +24,21 @@ namespace Stone.Clientes.API.Controllers
         }
 
         /// <summary>
-        /// Listagem de clientes clientes
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok();
-        }
-
-        /// <summary>
         /// Cria um novo cliente
         /// </summary>
         /// <param name="novoCliente">Novo cliente a ser inserido</param>
         /// <param name="cancellationToken">Cacellation token</param>
+        /// <response code="201">Cliente inserido com sucesso</response>
+        /// <response code="400">
+        /// CLIENTE_NOME_OBRIGATORIO - O Nome do cliente é obrigatório.<br/>
+        /// CLIENTE_CPF_OBRIGATORIO - O CPF do cliente é obrigatório.<br/>
+        /// CLIENTE_ESTADO_OBRIGATORIO - O Estado do cliente é obrigatório.<br/>
+        /// CLIENTE_ESTADO_INVALIDO - O Estado do cliente é inválido.<br/>
+        /// </response>
         /// <returns></returns>
         [HttpPost]
+        [ProducesResponseType((int)HttpStatusCode.Created, Type = typeof(ClienteViewModel))]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(ErrorModel))]
         public async System.Threading.Tasks.Task<IActionResult> PostAsync(ClienteViewModel novoCliente, CancellationToken cancellationToken)
         {
             var cliente = await this.clienteApplication.CriarAsync(novoCliente, cancellationToken);
@@ -48,8 +51,14 @@ namespace Stone.Clientes.API.Controllers
         /// </summary>
         /// <param name="cpf">Cpf a ser buscado</param>
         /// <param name="cancellationToken">Cacellation token</param>
+        /// <response code="200">Cliente </response>
+        /// <response code="400">
+        /// CLIENTE_CPF_INVALIDO - O cpf informado para o cliente é inválido
+        /// </response>
         /// <returns></returns>
         [HttpGet("{cpf}")]
+        [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(ClienteViewModel))]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(ErrorModel))]
         public async System.Threading.Tasks.Task<IActionResult> Get(long cpf, CancellationToken cancellationToken)
         {
             var cliente = await this.clienteApplication.ObterPorCpfAsync(cpf, cancellationToken);
@@ -58,6 +67,33 @@ namespace Stone.Clientes.API.Controllers
                 return NotFound();
 
             return Ok(cliente);
+        }
+
+        /// <summary>
+        /// Retorna uma listagem paginada de clientes
+        /// </summary>
+        /// <param name="page">Página</param>
+        /// <param name="size">Quantidade de resultados a retornar</param>
+        /// <param name="cancellationToken"></param>
+        /// <response code="200">Lista de clientes paginados</response>
+        /// <response code="400">
+        /// BUSCA_INVALIDA - Os valores informados para busca são inválidos.
+        /// </response>
+        /// <returns></returns>
+        [HttpGet]
+        [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(ResultadoPaginado<ClienteViewModel>))]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(ErrorModel))]
+        public async System.Threading.Tasks.Task<IActionResult> Get(int page, int size, CancellationToken cancellationToken)
+        {
+            var resultados = await this.clienteApplication.BuscaPaginadaAsync(page, size, cancellationToken);
+
+            return Ok(new ResultadoPaginado<ClienteViewModel>()
+            {
+                Data = resultados.ToArray(),
+                Size = size,
+                Page = page,
+                Next = this.Url.Action(nameof(Get), new { pagina = page++, quantidade = size })
+            });
         }
     }
 }

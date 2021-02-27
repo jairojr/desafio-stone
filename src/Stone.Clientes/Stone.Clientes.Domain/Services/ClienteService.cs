@@ -20,7 +20,7 @@ namespace Stone.Clientes.Domain.Services
         private readonly IClienteRepository clienteRepository;
         private readonly ClienteInsertValidation validationInsert;
 
-        public ClienteService(IClienteRepository clienteRepository,  ClienteInsertValidation validation)
+        public ClienteService(IClienteRepository clienteRepository, ClienteInsertValidation validation)
         {
             this.clienteRepository = clienteRepository;
             this.validationInsert = validation;
@@ -48,6 +48,11 @@ namespace Stone.Clientes.Domain.Services
         public async Task<Cliente> ObterPorIdAsync(Guid idCliente, CancellationToken cancellationToken)
         {
             return await clienteRepository.ObterPorIdAsync(idCliente, cancellationToken);
+        }
+
+        public async Task<IEnumerable<Cliente>> BuscaPaginadaAsync(int pagina, int quantidade, CancellationToken cancellationToken)
+        {
+            return await clienteRepository.BuscaPaginadaAsync(pagina, quantidade, cancellationToken);
         }
     }
 }
