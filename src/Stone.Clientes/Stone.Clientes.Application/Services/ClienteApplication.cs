@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using Stone.Clientes.Application.Validation;
+using Stone.Clientes.Domain.Repositories;
 
 namespace Stone.Clientes.Application.Services
 {

@@ -18,10 +18,7 @@ namespace Stone.Clientes.Domain.Validation
         public ClienteInsertValidation(IClienteRepository clienteRepository)
         {
             this.clienteRepository = clienteRepository;
-        }
 
-        public ClienteInsertValidation()
-        {
             RuleFor(d => d.CPF)
              .Must(d => d.EhValido)
              .WithErrorCode(nameof(Mensagens.CLIENTE_CPF_INVALIDO))
