@@ -20,7 +20,7 @@ namespace Stone.Clientes.Domain.Services
         private readonly IClienteRepository clienteRepository;
         private readonly ClienteInsertValidation validationInsert;
 
-        public ClienteService(IClienteRepository clienteRepository, ClienteInsertValidation validation)
+        public ClienteService(IClienteRepository clienteRepository,  ClienteInsertValidation validation)
         {
             this.clienteRepository = clienteRepository;
             this.validationInsert = validation;

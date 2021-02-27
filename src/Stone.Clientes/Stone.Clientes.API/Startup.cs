@@ -1,23 +1,23 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Stone.Clientes.API.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Stone.Clientes.Application;
+using Stone.Clientes.Data;
 
 namespace Stone.Clientes.API
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Startup
     {
-        public IConfiguration Configuration { get; }
-        public IWebHostEnvironment Env { get; }
+        private IConfiguration Configuration { get; }
+        private IWebHostEnvironment Env { get; }
+
         public Startup(IConfiguration configuration, IWebHostEnvironment env)
         {
             Configuration = configuration;
@@ -29,6 +29,10 @@ namespace Stone.Clientes.API
             services.AddControllers();
 
             services.AddSwagger(Env);
+
+            services.ConfigurarIoc();
+
+            services.AddDbContext<ClientesContext>(opt => opt.UseSqlite(Configuration["ConnectionStrings:SqliteConnectionString"]));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
