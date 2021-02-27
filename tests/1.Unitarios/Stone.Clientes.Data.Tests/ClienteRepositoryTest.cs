@@ -22,7 +22,7 @@ namespace Stone.Clientes.Data.Tests
         public async Task ClienteRepository_CriaCliente_ExecutaComSucessoAsync()
         {
             //Arrange
-            var novoCliente = new Cliente("Novo Cliente", Domain.Enums.EnumEstado.PR, 85648448422);
+            var novoCliente = new Cliente("Novo Cliente", Domain.Enums.EstadoEnum.PR, 85648448422);
             var repository = new ClienteRepository(ContextFixture);
 
             //Act

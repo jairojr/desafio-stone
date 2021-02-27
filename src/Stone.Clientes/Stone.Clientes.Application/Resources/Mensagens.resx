@@ -120,6 +120,9 @@
   <data name="CLIENTE_CPF_OBRIGATORIO" xml:space="preserve">
     <value>O CPF do cliente é obrigatório.</value>
   </data>
+  <data name="CLIENTE_ESTADO_INVALIDO" xml:space="preserve">
+    <value>O Estado do cliente é inválido.</value>
+  </data>
   <data name="CLIENTE_ESTADO_OBRIGATORIO" xml:space="preserve">
     <value>O Estado do cliente é obrigatório.</value>
   </data>

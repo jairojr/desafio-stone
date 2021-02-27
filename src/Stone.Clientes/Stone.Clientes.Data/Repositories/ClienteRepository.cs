@@ -49,7 +49,7 @@ namespace Stone.Clientes.Data.Repositories
 
             return new Cliente(clienteDb.Id,
                                             clienteDb.Nome,
-                                            (EnumEstado)Enum.Parse(typeof(EnumEstado), clienteDb.Estado),
+                                            (EstadoEnum)Enum.Parse(typeof(EstadoEnum), clienteDb.Estado),
                                             clienteDb.CPF);
         }
 

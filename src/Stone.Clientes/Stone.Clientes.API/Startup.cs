@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Stone.Clientes.API.Configuration;
+using Stone.Clientes.API.Middleware;
 using Stone.Clientes.Application;
 using Stone.Clientes.Data;
 
@@ -28,6 +29,7 @@ namespace Stone.Clientes.API
         {
             services.AddControllers();
 
+
             services.AddSwagger(Env);
 
             services.ConfigurarIoc();
@@ -41,6 +43,8 @@ namespace Stone.Clientes.API
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseMiddleware(typeof(ErrorHandlingMiddleware));
 
             app.UseSwaggerStone();
 

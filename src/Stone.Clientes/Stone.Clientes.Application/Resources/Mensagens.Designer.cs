@@ -70,6 +70,15 @@ namespace Stone.Clientes.Application.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to O Estado do cliente é inválido..
+        /// </summary>
+        internal static string CLIENTE_ESTADO_INVALIDO {
+            get {
+                return ResourceManager.GetString("CLIENTE_ESTADO_INVALIDO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to O Estado do cliente é obrigatório..
         /// </summary>
         internal static string CLIENTE_ESTADO_OBRIGATORIO {

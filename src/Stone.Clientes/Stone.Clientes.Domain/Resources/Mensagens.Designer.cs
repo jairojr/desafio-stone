@@ -70,7 +70,7 @@ namespace Stone.Clientes.Domain.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to O Cliente com o cpf informado já existe..
+        ///   Looks up a localized string similar to O cliente com o cpf informado já existe..
         /// </summary>
         public static string CLIENTE_JA_EXISTENTE {
             get {

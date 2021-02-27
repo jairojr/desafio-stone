@@ -7,6 +7,8 @@ namespace Stone.Clientes.Application.Enums
 {
     public enum EstadoEnum
     {
+        [Description("Não Informado")]
+        NaoInformado = 0,
         [Description("Acre")]
         AC,
         [Description("Alagoas")]

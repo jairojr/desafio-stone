@@ -121,6 +121,6 @@
     <value>O cpf informado para o cliente é inválido.</value>
   </data>
   <data name="CLIENTE_JA_EXISTENTE" xml:space="preserve">
-    <value>O Cliente com o cpf informado já existe.</value>
+    <value>O cliente com o cpf informado já existe.</value>
   </data>
 </root>

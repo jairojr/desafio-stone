@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Stone.Clientes.Application.Mapping;
 using Stone.Clientes.Application.ViewModel;
+using Stone.Clientes.Domain.Enums;
 using Stone.Clientes.Domain.Models;
 using Xunit;
 
@@ -42,10 +43,30 @@ namespace Stone.Clientes.Application.Tests.Mapping
         }
 
         [Fact]
+        public void Automappers_MappperClienteViewModelComEstadoCompleto_ClienteDomain()
+        {
+            //Arrange
+            var clienteViewModel = new ClienteViewModel
+            {
+                Nome = "Novo Cliente",
+                CPF = "282.490.822-06",
+                Estado = "Paraná"
+            };
+
+            //Act
+            var clienteDomain = this.mapper.Map<ClienteViewModel, Cliente>(clienteViewModel);
+
+            //Assert
+            Assert.Equal(clienteViewModel.Nome, clienteDomain.Nome);
+            Assert.Equal(clienteViewModel.CPF, clienteDomain.CPF.ObterComMascara());
+            Assert.Equal(EstadoEnum.PR.ToString(), clienteDomain.Estado.ToString());
+        }
+
+        [Fact]
         public void Automappers_MappperClienteDomainComCpfComMascara_ClienteViewModel()
         {
             //Arrange
-            var clienteDomain = new Cliente("Nome Cliente", Domain.Enums.EnumEstado.AM, "190.161.779-30");
+            var clienteDomain = new Cliente("Nome Cliente", Domain.Enums.EstadoEnum.AM, "190.161.779-30");
 
             //Act
             var clienteViewModel = this.mapper.Map<ClienteViewModel>(clienteDomain);
@@ -60,7 +81,7 @@ namespace Stone.Clientes.Application.Tests.Mapping
         public void Automappers_MappperClienteDomainSemCpfComMascara_ClienteViewModel()
         {
             //Arrange
-            var clienteDomain = new Cliente("Nome Cliente", Domain.Enums.EnumEstado.AM, "47938659096");
+            var clienteDomain = new Cliente("Nome Cliente", Domain.Enums.EstadoEnum.AM, "47938659096");
 
             //Act
             var clienteViewModel = this.mapper.Map<ClienteViewModel>(clienteDomain);

@@ -46,7 +46,7 @@ namespace Stone.Clientes.Application.Tests
         {
             //Arrange
             var novoCliente = new ClienteViewModel() { Nome = "Cliente", Estado = "PB", CPF = "081.245.325-59" };
-            var clienteInseridoMock = new Cliente(novoCliente.Nome, Domain.Enums.EnumEstado.PB, novoCliente.CPF);
+            var clienteInseridoMock = new Cliente(novoCliente.Nome, Domain.Enums.EstadoEnum.PB, novoCliente.CPF);
             clienteViewModelValidationMock.Setup(e => e.Validate(It.IsAny<ValidationContext<ClienteViewModel>>())).Returns(new ValidationResult());
             clienteServiceMock.Setup(c => c.CriarAsync(It.IsAny<Cliente>(), CancellationToken.None))
                                  .ReturnsAsync(clienteInseridoMock);
@@ -82,7 +82,7 @@ namespace Stone.Clientes.Application.Tests
         public async System.Threading.Tasks.Task ClienteApplication_ObterPorCpfAsync_ExecutaComSucesso()
         {
             //Arrange
-            var clienteMock = new Cliente("Cliente", Domain.Enums.EnumEstado.CE, "118.131.288-47");
+            var clienteMock = new Cliente("Cliente", Domain.Enums.EstadoEnum.CE, "118.131.288-47");
             this.clienteServiceMock.Setup(c => c.ObterPorCpfAsync(It.IsAny<long>(), CancellationToken.None)).ReturnsAsync(clienteMock);
 
             //Act
@@ -97,7 +97,7 @@ namespace Stone.Clientes.Application.Tests
         public async System.Threading.Tasks.Task ClienteApplication_ObterPorIdAsync_ExecutaComSucesso()
         {
             //Arrange
-            var clienteMock = new Cliente(Guid.NewGuid(), "Cliente", Domain.Enums.EnumEstado.CE, "118.131.288-47");
+            var clienteMock = new Cliente(Guid.NewGuid(), "Cliente", Domain.Enums.EstadoEnum.CE, "118.131.288-47");
             this.clienteServiceMock.Setup(c => c.ObterPorIdAsync(It.IsAny<Guid>(), CancellationToken.None)).ReturnsAsync(clienteMock);
 
             //Act

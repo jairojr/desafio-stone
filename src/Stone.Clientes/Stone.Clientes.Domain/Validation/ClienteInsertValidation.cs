@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using Stone.Clientes.Domain.Enums;
 using Stone.Clientes.Domain.Models;
 using Stone.Clientes.Domain.Repositories;
 using Stone.Clientes.Domain.Resources;
@@ -17,7 +18,7 @@ namespace Stone.Clientes.Domain.Validation
 
         public ClienteInsertValidation(IClienteRepository clienteRepository)
         {
-            this.clienteRepository = clienteRepository;
+            this.clienteRepository = clienteRepository;        
 
             RuleFor(d => d.CPF)
              .Must(d => d.EhValido)

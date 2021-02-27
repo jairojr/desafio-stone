@@ -9,14 +9,14 @@ namespace Stone.Clientes.Domain.Models
         public Guid Id { get; set; }
         public string Nome { get; private set; }
 
-        public EnumEstado Estado { get; private set; }
+        public EstadoEnum Estado { get; private set; }
 
         public Cpf CPF { get; private set; }
 
 
         #region Construtores
 
-        public Cliente(string nome, EnumEstado estado, string cPF)
+        public Cliente(string nome, EstadoEnum estado, string cPF)
         {
             Id = Guid.NewGuid();
             Nome = nome;
@@ -24,11 +24,11 @@ namespace Stone.Clientes.Domain.Models
             CPF = cPF;
         }
 
-        public Cliente(string nome, EnumEstado estado, long cPF) : this(nome, estado, cPF.ToString())
+        public Cliente(string nome, EstadoEnum estado, long cPF) : this(nome, estado, cPF.ToString())
         {
         }
 
-        public Cliente(Guid id, string nome, EnumEstado estado, string cPF)
+        public Cliente(Guid id, string nome, EstadoEnum estado, string cPF)
         {
             Id = id;
             Nome = nome;
@@ -36,7 +36,7 @@ namespace Stone.Clientes.Domain.Models
             CPF = cPF;
         }
 
-        public Cliente(Guid id, string nome, EnumEstado estado, long cPF) : this(id, nome, estado, cPF.ToString())
+        public Cliente(Guid id, string nome, EstadoEnum estado, long cPF) : this(id, nome, estado, cPF.ToString())
         {
         }
 

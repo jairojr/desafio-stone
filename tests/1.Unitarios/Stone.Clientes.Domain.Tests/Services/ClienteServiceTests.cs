@@ -34,7 +34,7 @@ namespace Stone.Clientes.Domain.Tests.Services
         {
             //Arrange
             clienteRepositoryMock.Setup(e => e.VerificaSeClienteExisteAsync(It.IsAny<long>(), CancellationToken.None)).ReturnsAsync(false);
-            var novoClienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EnumEstado.PB, "081.245.325-59");
+            var novoClienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EstadoEnum.PB, "081.245.325-59");
             clienteInsertValidationMock.Setup(e => e.Validate(It.IsAny<ValidationContext<Cliente>>())).Returns(new ValidationResult());
             clienteRepositoryMock.Setup(c => c.CriarAsync(It.IsAny<Cliente>(), CancellationToken.None))
                                  .ReturnsAsync(novoClienteMock);
@@ -53,7 +53,7 @@ namespace Stone.Clientes.Domain.Tests.Services
         {
             //Arrange
             clienteRepositoryMock.Setup(e => e.VerificaSeClienteExisteAsync(It.IsAny<long>(), CancellationToken.None)).ReturnsAsync(false);
-            var novoClienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EnumEstado.PB, "081.245.325-59");
+            var novoClienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EstadoEnum.PB, "081.245.325-59");
             clienteInsertValidationMock.Setup(e => e.Validate(It.IsAny<ValidationContext<Cliente>>()))
                                         .Returns(new ValidationResult(new List<ValidationFailure>()
                                                      {
@@ -72,7 +72,7 @@ namespace Stone.Clientes.Domain.Tests.Services
         public async Task ClienteServices_ObterPorCpfAsync_ExecutaComSucessoAsync()
         {
             //Arrange
-            var clienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EnumEstado.PB, "081.245.325-59");
+            var clienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EstadoEnum.PB, "081.245.325-59");
             clienteRepositoryMock.Setup(c => c.ObterPorCpfAsync(It.IsAny<long>(), CancellationToken.None))
                                  .ReturnsAsync(clienteMock);
 
@@ -100,7 +100,7 @@ namespace Stone.Clientes.Domain.Tests.Services
         public async Task ClienteServices_ObterPorIdAsync_ExecutaComSucessoAsync()
         {
             //Arrange
-            var clienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EnumEstado.AC, "815.768.817-50");
+            var clienteMock = new Cliente(Guid.NewGuid(), "Cliente", Enums.EstadoEnum.AC, "815.768.817-50");
             clienteRepositoryMock.Setup(c => c.ObterPorIdAsync(It.IsAny<Guid>(), CancellationToken.None))
                                  .ReturnsAsync(clienteMock);
 

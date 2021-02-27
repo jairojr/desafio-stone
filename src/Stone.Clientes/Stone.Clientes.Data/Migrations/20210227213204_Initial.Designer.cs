@@ -9,7 +9,7 @@ using Stone.Clientes.Data;
 namespace Stone.Clientes.Data.Migrations
 {
     [DbContext(typeof(ClientesContext))]
-    [Migration("20210227212151_Initial")]
+    [Migration("20210227213204_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
