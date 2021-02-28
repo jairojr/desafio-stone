@@ -24,7 +24,7 @@ namespace Stone.Clientes.Data.Repositories
 
         public async Task<Cliente> CriarAsync(Cliente cliente, CancellationToken cancellationToken)
         {
-            await clientesContext.AddAsync(new ClienteEntity(cliente.Nome, cliente.Estado.ToString(), cliente.CPF.ObterApenasNumeros()),
+            await clientesContext.AddAsync(new ClienteEntity(cliente.Id, cliente.Nome, cliente.Estado.ToString(), cliente.CPF.ObterApenasNumeros()),
                                             cancellationToken);
             await context.SaveChangesAsync();
             return cliente;
@@ -58,7 +58,7 @@ namespace Stone.Clientes.Data.Repositories
                                 .OrderBy(e => e.Id)
                                 .ToListAsync(cancellationToken);
 
-            return data.Select(e => RetornaClienteDomain(e)).ToList();
+            return data.Select(RetornaClienteDomain).ToList();
         }
 
         private static Cliente RetornaClienteDomain(ClienteEntity clienteDb)

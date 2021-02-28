@@ -6,10 +6,10 @@ namespace Stone.Clientes.Data.Models
 {
     public class ClienteEntity
     {
-        public Guid Id { get; set; }
-        public string Nome { get; set; }
-        public string Estado { get; set; }
-        public long CPF { get; set; }
+        public Guid Id { get; private set; }
+        public string Nome { get; private set; }
+        public string Estado { get; private set; }
+        public long CPF { get; private set; }
 
         public ClienteEntity()
         {
@@ -19,14 +19,6 @@ namespace Stone.Clientes.Data.Models
         public ClienteEntity(Guid id, string nome, string estado, long cPF)
         {
             Id = id;
-            Nome = nome;
-            Estado = estado;
-            CPF = cPF;
-        }
-
-        public ClienteEntity(string nome, string estado, long cPF)
-        {
-            Id = Guid.NewGuid();
             Nome = nome;
             Estado = estado;
             CPF = cPF;

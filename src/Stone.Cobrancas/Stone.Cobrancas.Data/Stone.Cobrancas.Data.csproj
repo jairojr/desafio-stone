@@ -6,6 +6,13 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="9.5.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <PackageReference Include="MongoDB.Bson" Version="2.11.6" />
+    <PackageReference Include="MongoDB.Driver" Version="2.11.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stone.Cobrancas.Domain\Stone.Cobrancas.Domain.csproj" />
   </ItemGroup>
 
 </Project>
