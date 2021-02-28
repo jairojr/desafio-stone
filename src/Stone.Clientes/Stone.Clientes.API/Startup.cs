@@ -38,7 +38,6 @@ namespace Stone.Clientes.API
         {
             services.AddControllers();
 
-
             services.AddSwagger(Env);
 
             services.ConfigurarIoc();
@@ -61,8 +60,6 @@ namespace Stone.Clientes.API
             app.UseMiddleware(typeof(ErrorHandlingMiddleware));
 
             app.UseSwaggerStone();
-
-            app.UseHttpsRedirection();
 
             app.UseRouting();
 

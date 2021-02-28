@@ -51,11 +51,13 @@ namespace Stone.Clientes.Data.Repositories
         public async Task<List<Cliente>> BuscaPaginadaAsync(int Pagina, int Quantidade, CancellationToken cancellationToken)
         {
             int skip = (Pagina - 1) * Quantidade;
+            if (skip < 0)
+                skip = 0;
 
             var data = await this.clientesContext
+                                .OrderBy(e => e.Id)
                                 .Skip(skip)
                                 .Take(Quantidade)
-                                .OrderBy(e => e.Id)
                                 .ToListAsync(cancellationToken);
 
             return data.Select(RetornaClienteDomain).ToList();

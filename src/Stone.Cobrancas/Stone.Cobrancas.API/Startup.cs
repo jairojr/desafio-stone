@@ -62,8 +62,6 @@ namespace Stone.Cobrancas.API
 
             app.UseSwaggerStone();
 
-            app.UseHttpsRedirection();
-
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>

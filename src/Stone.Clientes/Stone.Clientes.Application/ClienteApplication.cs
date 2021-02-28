@@ -92,7 +92,7 @@ namespace Stone.Clientes.Application
         /// <returns></returns>
         public async Task<IEnumerable<ClienteViewModel>> BuscaPaginadaAsync(int pagina, int tamanho, CancellationToken cancellationToken)
         {
-            if (pagina < 0 || tamanho <= 0)
+            if (pagina <= 0 || tamanho <= 0)
                 throw new ValidacaoException(nameof(Mensagens.BUSCA_INVALIDA), Mensagens.BUSCA_INVALIDA);
 
             var result = await this.clienteService.BuscaPaginadaAsync(pagina, tamanho, cancellationToken);
