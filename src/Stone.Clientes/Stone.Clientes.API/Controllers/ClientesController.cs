@@ -95,7 +95,7 @@ namespace Stone.Clientes.API.Controllers
                 Data = resultados.ToArray(),
                 Size = size,
                 Page = page,
-                Next = this.Url.Action(nameof(Get), new { pagina = page++, quantidade = size })
+                Next = Url.RouteUrl(nameof(Get), new { pagina = page++, quantidade = size })
             });
         }
     }

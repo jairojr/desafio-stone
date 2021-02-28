@@ -51,8 +51,8 @@ namespace Stone.Cobrancas.API.Controllers
                 CPF = cobranca.CPF,
                 Ano = cobranca.Data.Year,
                 Mes = cobranca.Data.Month,
-                Quantidade = 1,
-                Pagina = 0,
+                Pagina = 1,
+                Quantidade = 10,
             }, cobranca);
         }
 
@@ -76,13 +76,14 @@ namespace Stone.Cobrancas.API.Controllers
         {
             var resultados = await this.cobrancaApplication.BuscarAsync(busca, cancellationToken);
 
+            var paginaAtual = busca.Pagina;
             busca.Pagina++;
 
             return Ok(new ResultadoPaginado<CobrancaViewModel>()
             {
                 Data = resultados.ToArray(),
                 Size = busca.Quantidade,
-                Page = busca.Pagina,
+                Page = paginaAtual,
                 Next = this.Url.Action(nameof(Get), busca)
             });
         }
