@@ -25,3 +25,17 @@ duas APIs construídas nos passos anteriores). O cálculo é feito da seguinte m
 dígitos do CPF concatenados aos 2 últimos dígitos do CPF do cliente. Por exemplo, no CPF
 12345678, o valor cobrado será R$ 1278,00.
 
+
+# Projeto Desenvolvido
+
+O Desafio foi desenvolvido criando API Stone.Clientes, API Stone.Cobrancas e um WorkerServices StoneCobrancas que utiliza o domain da Stone.Cobrancas.
+
+A API Stone.Clientes é executada na porta 5000 e o Stone.Cobrancas na porta 5200. 
+
+Dentro do da aplicação Stone.Cobrancas.Worker existe a configuração da url das aplicações de clientes e cobrancas.
+
+Para realizar a execução das aplicações é necessario ter acesso a internet e executar Stone.Clientes.API, Stone.Cobrancas.API e Stone.Cobrancas.Worker.
+Ao iniciar o Stone.Cobrancas.Worker, ele irá aguardar 10s para iniciar e então irá utilizar o endpoint da Stone.Clientes "GET /api/Clientes", para buscar clientes e então inserir uma cobrança do Stone.Cobrancas no endpoint "POST /api/Cobranca". 
+
+Após finalizado a inserção de cobranças para todos clientes, o woker aguardará 5 minutos para executar o processo novamente.
+As configurações de tempo do worker estão disponíveis para personalização dentro do appsettings de Stone.Cobrancas.Worker.
