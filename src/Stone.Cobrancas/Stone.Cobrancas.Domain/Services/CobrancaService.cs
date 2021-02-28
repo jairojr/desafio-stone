@@ -22,15 +22,14 @@ namespace Stone.Cobrancas.Domain.Services
             this.validationInsert = validationInsert;
         }
 
-
-        public Task<IEnumerable<Cobranca>> BuscarAsync(long cpf, int Pagina, int Quantidade, CancellationToken cancellationToken)
+        public Task<IEnumerable<Cobranca>> BuscarPorCpfAsync(long cpf, int Pagina, int Quantidade, CancellationToken cancellationToken)
         {
-            return cobrancaRepository.BuscarAsync(cpf, Pagina, Quantidade, cancellationToken);
+            return cobrancaRepository.BuscarPorCpfAsync(cpf, Pagina, Quantidade, cancellationToken);
         }
 
-        public Task<IEnumerable<Cobranca>> BuscarAsync(int ano, int mes, int Pagina, int Quantidade, CancellationToken cancellationToken)
+        public Task<IEnumerable<Cobranca>> BuscarPorMesAsync(int ano, int mes, int Pagina, int Quantidade, CancellationToken cancellationToken)
         {
-            return cobrancaRepository.BuscarAsync(ano, mes, Pagina, Quantidade, cancellationToken);
+            return cobrancaRepository.BuscarPorMesAsync(ano, mes, Pagina, Quantidade, cancellationToken);
         }
 
         public async Task<Cobranca> CriarAsync(Cobranca cobranca, CancellationToken cancellationToken)

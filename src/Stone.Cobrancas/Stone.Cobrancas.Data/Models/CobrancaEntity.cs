@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Stone.Cobrancas.Data.Models
 {
-    public class Cobranca
+    public class CobrancaEntity
     {
         public Guid Id { get; set; }
         public DateTimeOffset Data { get; private set; }

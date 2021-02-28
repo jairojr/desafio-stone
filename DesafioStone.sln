@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Utils", "src\Stone.Ut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Utils.Tests", "tests\1.Unitarios\Utils\Stone.Utils.Tests\Stone.Utils.Tests.csproj", "{6D8169DE-C74F-47F8-994A-5DCBACD7D5C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobrancas.Domain.Tests", "tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\Stone.Cobrancas.Domain.Tests.csproj", "{1847C789-CC0C-456B-A4DD-FE4F38C35735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{6D8169DE-C74F-47F8-994A-5DCBACD7D5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D8169DE-C74F-47F8-994A-5DCBACD7D5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D8169DE-C74F-47F8-994A-5DCBACD7D5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1847C789-CC0C-456B-A4DD-FE4F38C35735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1847C789-CC0C-456B-A4DD-FE4F38C35735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1847C789-CC0C-456B-A4DD-FE4F38C35735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1847C789-CC0C-456B-A4DD-FE4F38C35735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 		{3634F5C7-48A6-4028-9C18-69A02B716A5C} = {A8653CE0-4D21-4D81-AFFD-AE145ADDDA8D}
 		{1EB7D83F-BA9A-43B2-8359-F6B485AF9FA2} = {D3F87910-482E-450C-964A-39F3FFD1C085}
 		{6D8169DE-C74F-47F8-994A-5DCBACD7D5C4} = {E3681BD8-024C-4B14-826F-9C597F1F06F4}
+		{1847C789-CC0C-456B-A4DD-FE4F38C35735} = {3634F5C7-48A6-4028-9C18-69A02B716A5C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B604D13C-4F1F-4B09-AD3E-EF36EA71ECB6}

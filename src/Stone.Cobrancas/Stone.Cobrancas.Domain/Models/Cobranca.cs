@@ -26,11 +26,18 @@ namespace Stone.Cobrancas.Domain.Models
 
         public static Cobranca CriarCobranca(Cpf cPF)
         {
+            return CriarCobranca(cPF, DateTime.Now);
+        }
+
+        public static Cobranca CriarCobranca(Cpf cPF, DateTime data)
+        {
             var strCpf = cPF.ObterComMascara();
 
-            string valor = $"{strCpf[0]}{strCpf[1]}{strCpf[13]}{strCpf[14]}";
+            strCpf = strCpf.Remove(2, strCpf.Length - 4);
 
-            return new Cobranca(DateTime.Now, cPF, Convert.ToDecimal(valor));
+            string valor = strCpf;
+
+            return new Cobranca(data, cPF, Convert.ToDecimal(valor));
         }
     }
 }
