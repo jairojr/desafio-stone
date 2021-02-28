@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Stone.Cobranca.API": {
+    "Stone.Cobrancas.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

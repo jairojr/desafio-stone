@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.IO;
 
-namespace Stone.Cobranca.API.Configuration
+namespace Stone.Cobrancas.API.Configuration
 {
     internal static class SwaggerConfiguration
     {
@@ -15,15 +15,15 @@ namespace Stone.Cobranca.API.Configuration
                 c.SwaggerDoc("v1",
                     new Microsoft.OpenApi.Models.OpenApiInfo()
                     {
-                        Title = "Stone.Cobranca",
+                        Title = "Stone.Cobrancas",
                         Description = "API que registra uma cobrança para um determinado clien.",
                         Version = "v1"
                     });
 
                 var pasta = AppContext.BaseDirectory;
-                var caminhoXml = Path.Combine(pasta, $"{env.ApplicationName}.xml");
-
-                c.IncludeXmlComments(caminhoXml);
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Cobrancas.API.xml"));
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Clientes.Application.xml"));
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Utils.xml"));
             });
 
             return services;
@@ -34,7 +34,7 @@ namespace Stone.Cobranca.API.Configuration
             SwaggerBuilderExtensions.UseSwagger(app)
                .UseSwaggerUI(setup =>
                {
-                   setup.SwaggerEndpoint("/swagger/v1/swagger.json", "Stone.Cobranca");
+                   setup.SwaggerEndpoint("/swagger/v1/swagger.json", "Stone.Cobrancas");
                });
 
             return app;

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Stone.Cobranca.Worker
+namespace Stone.Cobrancas.Worker
 {
     public class Worker : BackgroundService
     {

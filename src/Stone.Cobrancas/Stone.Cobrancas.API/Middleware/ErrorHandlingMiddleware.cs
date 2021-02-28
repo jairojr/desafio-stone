@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace Stone.Clientes.API.Middleware
+namespace Stone.Cobrancas.API.Middleware
 {
     /// <summary>
     /// Middleware responsavel por gerenciar erros da api

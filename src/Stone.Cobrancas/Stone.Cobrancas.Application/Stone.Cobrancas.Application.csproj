@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="FluentValidation" Version="9.5.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Stone.Utils\Stone.Utils.csproj" />
+    <ProjectReference Include="..\Stone.Cobrancas.Data\Stone.Cobrancas.Data.csproj" />
+    <ProjectReference Include="..\Stone.Cobrancas.Domain\Stone.Cobrancas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

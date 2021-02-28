@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "Stone.Cobranca.Worker": {
+    "Stone.Cobrancas.Worker": {
       "commandName": "Project",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"

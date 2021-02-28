@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stone.Clientes", "Stone.Clientes", "{8582272C-17B2-4812-9A1A-44D8D7EF8FC4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stone.Cobranca", "Stone.Cobranca", "{59B6362C-775A-4992-A6A4-F635D4B171DB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stone.Cobrancas", "Stone.Cobrancas", "{59B6362C-775A-4992-A6A4-F635D4B171DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{D3F87910-482E-450C-964A-39F3FFD1C085}"
 EndProject
@@ -15,13 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Application"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Data", "src\Stone.Clientes\Stone.Clientes.Data\Stone.Clientes.Data.csproj", "{4FBA4672-FB00-4554-9E5A-E64E749331AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.API", "src\Stone.Cobranca\Stone.Cobranca.API\Stone.Cobranca.API.csproj", "{B6247EDD-35F5-48B5-A27B-78A68CB2487B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobrancas.API", "src\Stone.Cobrancas\Stone.Cobrancas.API\Stone.Cobrancas.API.csproj", "{B6247EDD-35F5-48B5-A27B-78A68CB2487B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.Worker", "src\Stone.Cobranca\Stone.Cobranca.Worker\Stone.Cobranca.Worker.csproj", "{C86E52C5-5F82-46DC-807D-9B74D098514E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobrancas.Worker", "src\Stone.Cobrancas\Stone.Cobrancas.Worker\Stone.Cobrancas.Worker.csproj", "{C86E52C5-5F82-46DC-807D-9B74D098514E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.Data", "src\Stone.Cobranca\Stone.Cobranca.Data\Stone.Cobranca.Data.csproj", "{82EDA603-C14D-4002-A076-3E5A51CA7BDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobrancas.Data", "src\Stone.Cobrancas\Stone.Cobrancas.Data\Stone.Cobrancas.Data.csproj", "{82EDA603-C14D-4002-A076-3E5A51CA7BDB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobranca.Application", "src\Stone.Cobranca\Stone.Cobranca.Application\Stone.Cobranca.Application.csproj", "{D3C94926-2A64-406A-B369-DF80719F97B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Cobrancas.Application", "src\Stone.Cobrancas\Stone.Cobrancas.Application\Stone.Cobrancas.Application.csproj", "{D3C94926-2A64-406A-B369-DF80719F97B5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D21A8052-58D6-46A0-AF7C-5FC3B1C5A1A1}"
 EndProject
@@ -33,13 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Utils", "Stone.Utils\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stone.Clientes", "Stone.Clientes", "{526E2FB1-5BBF-4095-920D-E6793BD8F148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.Data.Tests", "tests\1.Unitarios\Stone.Clientes.Data.Tests\Stone.Clientes.Data.Tests.csproj", "{F6E37762-0FCA-4DEE-BD36-1D53F85DD712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Data.Tests", "tests\1.Unitarios\Stone.Clientes.Data.Tests\Stone.Clientes.Data.Tests.csproj", "{F6E37762-0FCA-4DEE-BD36-1D53F85DD712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.Domain.Tests", "tests\1.Unitarios\Stone.Clientes.Domain.Tests\Stone.Clientes.Domain.Tests.csproj", "{1259DDBA-32B3-4362-8787-2D4C91A56A0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Domain.Tests", "tests\1.Unitarios\Stone.Clientes.Domain.Tests\Stone.Clientes.Domain.Tests.csproj", "{1259DDBA-32B3-4362-8787-2D4C91A56A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.Application.Tests", "tests\1.Unitarios\Stone.Clientes.Application.Tests\Stone.Clientes.Application.Tests.csproj", "{7A76E641-70E1-4788-B8FB-ECD9853FA4E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Application.Tests", "tests\1.Unitarios\Stone.Clientes.Application.Tests\Stone.Clientes.Application.Tests.csproj", "{7A76E641-70E1-4788-B8FB-ECD9853FA4E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.API.Tests", "tests\1.Unitarios\Stone.Clientes.API.Tests\Stone.Clientes.API.Tests.csproj", "{D11E6606-0D88-45D5-9193-387F127D0F27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.API.Tests", "tests\1.Unitarios\Stone.Clientes.API.Tests\Stone.Clientes.API.Tests.csproj", "{D11E6606-0D88-45D5-9193-387F127D0F27}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Unitarios", "1.Unitarios", "{A8653CE0-4D21-4D81-AFFD-AE145ADDDA8D}"
 EndProject
@@ -49,7 +49,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Performance", "3.Performa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{E3681BD8-024C-4B14-826F-9C597F1F06F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Utils.Tests", "Stone.Utils.Tests\Stone.Utils.Tests.csproj", "{10004477-9877-48CE-AD88-D0639408FDFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Utils.Tests", "Stone.Utils.Tests\Stone.Utils.Tests.csproj", "{10004477-9877-48CE-AD88-D0639408FDFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobrancas.Domain", "src\Stone.Cobrancas\Stone.Cobrancas.Domain\Stone.Cobrancas.Domain.csproj", "{ECF9AD6B-9D5C-4EFF-94E6-E335686FB90F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,6 +115,10 @@ Global
 		{10004477-9877-48CE-AD88-D0639408FDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10004477-9877-48CE-AD88-D0639408FDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10004477-9877-48CE-AD88-D0639408FDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF9AD6B-9D5C-4EFF-94E6-E335686FB90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF9AD6B-9D5C-4EFF-94E6-E335686FB90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF9AD6B-9D5C-4EFF-94E6-E335686FB90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF9AD6B-9D5C-4EFF-94E6-E335686FB90F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +146,7 @@ Global
 		{E5FFB60F-078A-4C26-A67C-4CA29338B0FC} = {09F87E40-D467-4E56-B760-A73BD201A6DD}
 		{E3681BD8-024C-4B14-826F-9C597F1F06F4} = {A8653CE0-4D21-4D81-AFFD-AE145ADDDA8D}
 		{10004477-9877-48CE-AD88-D0639408FDFC} = {E3681BD8-024C-4B14-826F-9C597F1F06F4}
+		{ECF9AD6B-9D5C-4EFF-94E6-E335686FB90F} = {59B6362C-775A-4992-A6A4-F635D4B171DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B604D13C-4F1F-4B09-AD3E-EF36EA71ECB6}

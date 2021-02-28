@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Stone.Cobranca.API
+namespace Stone.Cobrancas.API
 {
     public class Program
     {

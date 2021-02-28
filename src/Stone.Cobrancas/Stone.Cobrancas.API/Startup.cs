@@ -4,12 +4,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Stone.Clientes.API.Configuration;
-using Stone.Clientes.API.Middleware;
-using Stone.Clientes.Application;
-using Stone.Clientes.Data;
+using Stone.Cobrancas.API.Configuration;
+using Stone.Cobrancas.API.Middleware;
 
-namespace Stone.Clientes.API
+namespace Stone.Cobrancas.API
 {
     /// <summary>
     /// Startup com configurações da API
@@ -41,9 +39,10 @@ namespace Stone.Clientes.API
 
             services.AddSwagger(Env);
 
-            services.ConfigurarIoc();
+            ///TODO - Configurar
+            //services.ConfigurarIoc();
 
-            services.AddDbContext<ClientesContext>(opt => opt.UseSqlite(Configuration["ConnectionStrings:SqliteConnectionString"]));
+            //services.AddDbContext<CobrancaContext>(opt => opt.UseSqlite(Configuration["ConnectionStrings:SqliteConnectionString"]));
         }
 
         /// <summary>

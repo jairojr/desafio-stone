@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Stone.Cobranca.Worker
+namespace Stone.Cobrancas.Worker
 {
     public class Program
     {

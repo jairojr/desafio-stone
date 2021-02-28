@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
 
-namespace Stone.Cobranca.API.Controllers
+namespace Stone.Cobrancas.API.Controllers
 {
     /// <summary>
     /// Api que registra cobranças de um determinado cliente
