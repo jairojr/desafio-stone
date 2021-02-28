@@ -87,7 +87,7 @@ namespace Stone.Clientes.API.Controllers
         [HttpGet]
         [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(ResultadoPaginado<ClienteViewModel>))]
         [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(ErrorModel))]
-        public async System.Threading.Tasks.Task<IActionResult> Get(int page, int size, CancellationToken cancellationToken)
+        public async System.Threading.Tasks.Task<IActionResult> GetLista(int page, int size, CancellationToken cancellationToken)
         {
             var resultados = await this.clienteApplication.BuscaPaginadaAsync(page, size, cancellationToken);
 
@@ -96,7 +96,7 @@ namespace Stone.Clientes.API.Controllers
                 Data = resultados.ToArray(),
                 Size = size,
                 Page = page,
-                Next = Url.RouteUrl(nameof(Get), new { pagina = page++, quantidade = size })
+                Next = Url.Action(nameof(GetLista), new { page = ++page, size = size })
             });
         }
     }

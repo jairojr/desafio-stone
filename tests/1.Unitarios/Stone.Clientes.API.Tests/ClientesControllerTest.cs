@@ -110,7 +110,7 @@ namespace Stone.Clientes.API.Tests
             };
             this.application.Setup(e => e.BuscaPaginadaAsync(1, 5, CancellationToken.None)).ReturnsAsync(listClientes);
             //Act
-            var result = await this.controller.Get(1, 5, CancellationToken.None);
+            var result = await this.controller.GetLista(1, 5, CancellationToken.None);
             var okResult = result as OkObjectResult;
 
             //Assert

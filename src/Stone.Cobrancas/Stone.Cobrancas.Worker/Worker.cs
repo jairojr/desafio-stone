@@ -11,6 +11,7 @@ using System.Linq;
 using System.Collections.Generic;
 using Stone.Utils;
 using System.Collections.Concurrent;
+using Microsoft.Extensions.Configuration;
 
 namespace Stone.Cobrancas.Worker
 {
@@ -19,18 +20,28 @@ namespace Stone.Cobrancas.Worker
         private readonly ILogger<Worker> _logger;
         private readonly ClienteService clienteService;
         private readonly CobrancaService cobrancaService;
+        private readonly int intervaloEntreCobrancasEmMinutos;
+        private readonly int clientesQuantidadeBusca;
+        private readonly int delayInicioEmSegundos;
 
-        public Worker(ILogger<Worker> logger, ClienteService clienteService, CobrancaService cobrancaService)
+        public Worker(ILogger<Worker> logger,
+                      ClienteService clienteService,
+                      CobrancaService cobrancaService,
+                      IConfiguration configuration)
         {
             _logger = logger;
             this.clienteService = clienteService;
             this.cobrancaService = cobrancaService;
+
+            this.intervaloEntreCobrancasEmMinutos = configuration.GetValue<int>("IntervaloEntreCobrancasEmMinutos");
+            this.clientesQuantidadeBusca = configuration.GetValue<int>("StoneApiClientes:Paginacao.QuantidadeBusca");
+            this.delayInicioEmSegundos = configuration.GetValue<int>("DelayInicioEmSegundos");
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            _logger.LogInformation("Worker cobrança - Aguardando 10s para iniciar");
-            await Task.Delay(1000 * 10);
+            _logger.LogInformation("Worker cobrança - Aguardando {delay}s para iniciar", delayInicioEmSegundos);
+            await Task.Delay(TimeSpan.FromSeconds(delayInicioEmSegundos));
             while (!stoppingToken.IsCancellationRequested)
             {
                 _logger.LogInformation("Worker cobrança - executando: {time}", DateTimeOffset.Now);
@@ -41,7 +52,7 @@ namespace Stone.Cobrancas.Worker
                 do
                 {
                     _logger.LogInformation("Worker cobrança - Realizando busca de clientes. Pagina: {pagina}", pagina);
-                    listaCpfs = await clienteService.GetClientes(pagina, 5, stoppingToken);
+                    listaCpfs = await clienteService.GetClientes(pagina, clientesQuantidadeBusca, stoppingToken);
                     foreach (var cliente in listaCpfs.Data)
                     {
                         var task = EnviarCobrancaParaCliente(cliente, stoppingToken);
@@ -53,8 +64,8 @@ namespace Stone.Cobrancas.Worker
 
                 await Task.WhenAll(insercoesCobranca);
                 _logger.LogInformation("Worker cobrança - Foram Inseridos {cobrancas} cobranças", insercoesCobranca.Count);
-
-                await Task.Delay(1000 * 3 * 60, stoppingToken);
+                _logger.LogInformation("Worker cobrança - Aguardando {intervaloEntreCobrancasEmMinutos} min para inserir novas cobranças", intervaloEntreCobrancasEmMinutos);
+                await Task.Delay(TimeSpan.FromMinutes(intervaloEntreCobrancasEmMinutos));
             }
         }
 

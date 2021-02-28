@@ -88,7 +88,7 @@ namespace Stone.Cobrancas.API.Controllers
                 Data = resultados.ToArray(),
                 Size = busca.Quantidade,
                 Page = paginaAtual,
-                Next = this.Url.Action(nameof(Get), busca)
+                Next = Url.Action(nameof(Get), busca)
             });
         }
     }
