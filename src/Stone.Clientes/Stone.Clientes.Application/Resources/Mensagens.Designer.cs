@@ -22,7 +22,7 @@ namespace Stone.Clientes.Application.Resources {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Mensagens {
+    public class Mensagens {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Stone.Clientes.Application.Resources {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Stone.Clientes.Application.Resources.Mensagens", typeof(Mensagens).Assembly);
@@ -51,7 +51,7 @@ namespace Stone.Clientes.Application.Resources {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,16 +63,25 @@ namespace Stone.Clientes.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to Os valores informados para busca são inválidos..
         /// </summary>
-        internal static string BUSCA_INVALIDA {
+        public static string BUSCA_INVALIDA {
             get {
                 return ResourceManager.GetString("BUSCA_INVALIDA", resourceCulture);
             }
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to O Cpf do cliente é inválido..
+        /// </summary>
+        public static string CLIENTE_CPF_INVALIDO {
+            get {
+                return ResourceManager.GetString("CLIENTE_CPF_INVALIDO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to O CPF do cliente é obrigatório..
         /// </summary>
-        internal static string CLIENTE_CPF_OBRIGATORIO {
+        public static string CLIENTE_CPF_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("CLIENTE_CPF_OBRIGATORIO", resourceCulture);
             }
@@ -81,7 +90,7 @@ namespace Stone.Clientes.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to O Estado do cliente é inválido..
         /// </summary>
-        internal static string CLIENTE_ESTADO_INVALIDO {
+        public static string CLIENTE_ESTADO_INVALIDO {
             get {
                 return ResourceManager.GetString("CLIENTE_ESTADO_INVALIDO", resourceCulture);
             }
@@ -90,7 +99,7 @@ namespace Stone.Clientes.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to O Estado do cliente é obrigatório..
         /// </summary>
-        internal static string CLIENTE_ESTADO_OBRIGATORIO {
+        public static string CLIENTE_ESTADO_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("CLIENTE_ESTADO_OBRIGATORIO", resourceCulture);
             }
@@ -99,7 +108,7 @@ namespace Stone.Clientes.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to O Nome do cliente é obrigatório..
         /// </summary>
-        internal static string CLIENTE_NOME_OBRIGATORIO {
+        public static string CLIENTE_NOME_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("CLIENTE_NOME_OBRIGATORIO", resourceCulture);
             }

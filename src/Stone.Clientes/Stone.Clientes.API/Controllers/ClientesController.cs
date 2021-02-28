@@ -37,6 +37,7 @@ namespace Stone.Clientes.API.Controllers
         /// CLIENTE_CPF_OBRIGATORIO - O CPF do cliente é obrigatório.<br/>
         /// CLIENTE_ESTADO_OBRIGATORIO - O Estado do cliente é obrigatório.<br/>
         /// CLIENTE_ESTADO_INVALIDO - O Estado do cliente é inválido.<br/>
+        /// CLIENTE_CPF_INVALIDO - O cpf informado para o cliente é inválido
         /// </response>
         /// <returns></returns>
         [HttpPost]

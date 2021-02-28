@@ -6,6 +6,7 @@ using Stone.Utils;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static Stone.Utils.CpfExtensions;
 
 namespace Stone.Clientes.Application.Validation
 {
@@ -29,6 +30,12 @@ namespace Stone.Clientes.Application.Validation
                 .WithErrorCode(nameof(Mensagens.CLIENTE_CPF_OBRIGATORIO))
                 .WithMessage(Mensagens.CLIENTE_CPF_OBRIGATORIO);
 
+            RuleFor(v => v.CPF)
+              .Must(c => Cpf.ValidarCPF(c))
+              .WithErrorCode(nameof(Mensagens.CLIENTE_CPF_INVALIDO))
+              .WithMessage(Mensagens.CLIENTE_CPF_INVALIDO)
+              .When(c => !string.IsNullOrEmpty(c.CPF));
+
             RuleFor(v => v.Estado)
                .NotEmpty()
                .WithErrorCode(nameof(Mensagens.CLIENTE_ESTADO_OBRIGATORIO))
@@ -37,7 +44,8 @@ namespace Stone.Clientes.Application.Validation
             RuleFor(d => d.Estado)
              .Must(EstadoValido)
              .WithErrorCode(nameof(Mensagens.CLIENTE_ESTADO_INVALIDO))
-             .WithMessage(Mensagens.CLIENTE_ESTADO_INVALIDO);
+             .WithMessage(Mensagens.CLIENTE_ESTADO_INVALIDO)
+             .When(c => !string.IsNullOrWhiteSpace(c.Estado));
         }
 
         private bool EstadoValido(string strEstado)

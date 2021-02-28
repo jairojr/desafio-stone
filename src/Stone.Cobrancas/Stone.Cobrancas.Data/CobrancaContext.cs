@@ -18,8 +18,6 @@ namespace Stone.Cobrancas.Data
         {
             this.client = new MongoClient(configuration["ConnectionStrings:MongoDb"]);
             this.database = client.GetDatabase("stone-cobrancas");
-
-
         }
 
         public IMongoCollection<CobrancaEntity> Cobrancas

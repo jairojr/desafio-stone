@@ -33,10 +33,12 @@ namespace Stone.Cobrancas.API.Controllers
         /// <param name="cancellationToken">Cacellation token</param>
         /// <response code="201">Cobranca inserido com sucesso</response>
         /// <response code="400">
-        /// cobranca_NOME_OBRIGATORIO - O Nome do cobranca é obrigatório.<br/>
-        /// cobranca_CPF_OBRIGATORIO - O CPF do cobranca é obrigatório.<br/>
-        /// cobranca_ESTADO_OBRIGATORIO - O Estado do cobranca é obrigatório.<br/>
-        /// cobranca_ESTADO_INVALIDO - O Estado do cobranca é inválido.<br/>
+        /// COBRANCA_CPF_OBRIGATORIO - O CPF da cobrança é obrigatório.<br/>
+        /// COBRANCA_DATA_OBRIGATORIO - A data da cobrança é obrigatória.<br/>
+        /// COBRANCA_VALOR_OBRIGATORIO - O valor da cobrança é obrigatório.<br/>
+        /// COBRANCA_VALOR_INVALIDO - O valor da cobrança deve ser maior que 0.<br/>
+        /// COBRANCA_DATA_INVALIDA - A data da cobrança deve ter o ano maior que 1900.<br/>
+        /// COBRANCA_CPF_INVALIDO - O cpf informado na cobrança é inválido.<br/>
         /// </response>
         /// <returns></returns>
         [HttpPost]
@@ -66,6 +68,8 @@ namespace Stone.Cobrancas.API.Controllers
         /// BUSCA_INVALIDA_PAGINA - O valor informado em página é invalido para a busca. <br/>
         /// BUSCA_INVALIDA_QUANTIDADE - O valor informado em quantidade é invalido para a busca.<br/>
         /// BUSCA_CPF_INVALIDO - O cpf informado na busca é inválido. <br/>
+        /// BUSCA_INVALIDA_ANO - O ano informado na busca deve ser maior que 1900. <br/>
+        /// BUSCA_INVALIDA_MES - O mês informado na busca deve estar entre 1 e 12. <br/>
         /// BUSCA_INVALIDA - Para realizar a busca é necessario informar um cpf ou ano/mês de referência. <br/>
         /// </response>
         /// <returns></returns>

@@ -123,20 +123,32 @@
   <data name="BUSCA_INVALIDA" xml:space="preserve">
     <value>Para realizar a busca é necessario informar um cpf ou ano/mês de referência.</value>
   </data>
+  <data name="BUSCA_INVALIDA_ANO" xml:space="preserve">
+    <value>O ano informado na busca deve ser maior que 1900.</value>
+  </data>
+  <data name="BUSCA_INVALIDA_MES" xml:space="preserve">
+    <value>O mês informado na busca deve estar entre 1 e 12.</value>
+  </data>
   <data name="BUSCA_INVALIDA_PAGINA" xml:space="preserve">
     <value>O valor informado em página é invalido para a busca.</value>
   </data>
   <data name="BUSCA_INVALIDA_QUANTIDADE" xml:space="preserve">
     <value>O valor informado em quantidade é invalido para a busca.</value>
   </data>
+  <data name="COBRANCA_CPF_INVALIDO" xml:space="preserve">
+    <value>O cpf informado na cobrança é inválido.</value>
+  </data>
   <data name="COBRANCA_CPF_OBRIGATORIO" xml:space="preserve">
     <value>O CPF da cobrança é obrigatório.</value>
   </data>
   <data name="COBRANCA_DATA_INVALIDA" xml:space="preserve">
-    <value>A data da cobrança é inválida.</value>
+    <value>A data da cobrança deve ter o ano maior que 1900.</value>
   </data>
   <data name="COBRANCA_DATA_OBRIGATORIO" xml:space="preserve">
     <value>A data da cobrança é obrigatória.</value>
+  </data>
+  <data name="COBRANCA_VALOR_INVALIDO" xml:space="preserve">
+    <value>O valor da cobrança deve ser maior que 0.</value>
   </data>
   <data name="COBRANCA_VALOR_OBRIGATORIO" xml:space="preserve">
     <value>O valor da cobrança é obrigatório.</value>

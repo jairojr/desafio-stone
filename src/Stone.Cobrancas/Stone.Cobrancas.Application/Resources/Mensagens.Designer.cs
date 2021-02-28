@@ -22,7 +22,7 @@ namespace Stone.Cobrancas.Application.Resources {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Mensagens {
+    public class Mensagens {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Stone.Cobrancas.Application.Resources {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Stone.Cobrancas.Application.Resources.Mensagens", typeof(Mensagens).Assembly);
@@ -51,7 +51,7 @@ namespace Stone.Cobrancas.Application.Resources {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace Stone.Cobrancas.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to O cpf informado na busca é inválido..
         /// </summary>
-        internal static string BUSCA_CPF_INVALIDO {
+        public static string BUSCA_CPF_INVALIDO {
             get {
                 return ResourceManager.GetString("BUSCA_CPF_INVALIDO", resourceCulture);
             }
@@ -72,16 +72,34 @@ namespace Stone.Cobrancas.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to Para realizar a busca é necessario informar um cpf ou ano/mês de referência..
         /// </summary>
-        internal static string BUSCA_INVALIDA {
+        public static string BUSCA_INVALIDA {
             get {
                 return ResourceManager.GetString("BUSCA_INVALIDA", resourceCulture);
             }
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to O ano informado na busca deve ser maior que 1900..
+        /// </summary>
+        public static string BUSCA_INVALIDA_ANO {
+            get {
+                return ResourceManager.GetString("BUSCA_INVALIDA_ANO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to O mês informado na busca deve estar entre 1 e 12..
+        /// </summary>
+        public static string BUSCA_INVALIDA_MES {
+            get {
+                return ResourceManager.GetString("BUSCA_INVALIDA_MES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to O valor informado em página é invalido para a busca..
         /// </summary>
-        internal static string BUSCA_INVALIDA_PAGINA {
+        public static string BUSCA_INVALIDA_PAGINA {
             get {
                 return ResourceManager.GetString("BUSCA_INVALIDA_PAGINA", resourceCulture);
             }
@@ -90,25 +108,34 @@ namespace Stone.Cobrancas.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to O valor informado em quantidade é invalido para a busca..
         /// </summary>
-        internal static string BUSCA_INVALIDA_QUANTIDADE {
+        public static string BUSCA_INVALIDA_QUANTIDADE {
             get {
                 return ResourceManager.GetString("BUSCA_INVALIDA_QUANTIDADE", resourceCulture);
             }
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to O cpf informado na cobrança é inválido..
+        /// </summary>
+        public static string COBRANCA_CPF_INVALIDO {
+            get {
+                return ResourceManager.GetString("COBRANCA_CPF_INVALIDO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to O CPF da cobrança é obrigatório..
         /// </summary>
-        internal static string COBRANCA_CPF_OBRIGATORIO {
+        public static string COBRANCA_CPF_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("COBRANCA_CPF_OBRIGATORIO", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A data da cobrança é inválida..
+        ///   Looks up a localized string similar to A data da cobrança deve ter o ano maior que 1900..
         /// </summary>
-        internal static string COBRANCA_DATA_INVALIDA {
+        public static string COBRANCA_DATA_INVALIDA {
             get {
                 return ResourceManager.GetString("COBRANCA_DATA_INVALIDA", resourceCulture);
             }
@@ -117,16 +144,25 @@ namespace Stone.Cobrancas.Application.Resources {
         /// <summary>
         ///   Looks up a localized string similar to A data da cobrança é obrigatória..
         /// </summary>
-        internal static string COBRANCA_DATA_OBRIGATORIO {
+        public static string COBRANCA_DATA_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("COBRANCA_DATA_OBRIGATORIO", resourceCulture);
             }
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to O valor da cobrança deve ser maior que 0..
+        /// </summary>
+        public static string COBRANCA_VALOR_INVALIDO {
+            get {
+                return ResourceManager.GetString("COBRANCA_VALOR_INVALIDO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to O valor da cobrança é obrigatório..
         /// </summary>
-        internal static string COBRANCA_VALOR_OBRIGATORIO {
+        public static string COBRANCA_VALOR_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("COBRANCA_VALOR_OBRIGATORIO", resourceCulture);
             }

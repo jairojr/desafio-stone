@@ -21,7 +21,6 @@ namespace Stone.Clientes.Application.Tests.Mapping
             this.mapper = config.CreateMapper();
         }
 
-
         [Fact]
         public void Automappers_MappperClienteViewModel_ClienteDomain()
         {

@@ -4,12 +4,21 @@ using System.Text;
 
 namespace Stone.Utils
 {
+    /// <summary>
+    /// Cpf extension
+    /// </summary>
     public class CpfExtensions
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public struct Cpf
         {
             private readonly string _value;
 
+            /// <summary>
+            /// Retorna se cpf é válido
+            /// </summary>
             public readonly bool EhValido;
             private Cpf(string value)
             {
@@ -91,11 +100,23 @@ namespace Stone.Utils
                 EhValido = dv2 == digito2;
             }
 
+            /// <summary>
+            /// 
+            /// </summary>
+            /// <param name="value"></param>
             public static implicit operator Cpf(string value)
                 => new Cpf(value);
 
+            /// <summary>
+            /// 
+            /// </summary>
+            /// <returns></returns>
             public override string ToString() => _value;
 
+            /// <summary>
+            /// Retorna apenas os números do cpf
+            /// </summary>
+            /// <returns></returns>
             public long ObterApenasNumeros()
             {
                 if (string.IsNullOrEmpty(_value))
@@ -113,11 +134,20 @@ namespace Stone.Utils
                 return long.Parse(number);
             }
 
+            /// <summary>
+            /// Retorna CPF mascarado
+            /// </summary>
+            /// <returns></returns>
             public string ObterComMascara()
             {
                 return this.ObterApenasNumeros().ToString(@"000\.000\.000\-00");
             }
 
+            /// <summary>
+            /// Valida se CPF é valido
+            /// </summary>
+            /// <param name="sourceCPF"></param>
+            /// <returns></returns>
             public static bool ValidarCPF(Cpf sourceCPF) =>
                 sourceCPF.EhValido;
         }
