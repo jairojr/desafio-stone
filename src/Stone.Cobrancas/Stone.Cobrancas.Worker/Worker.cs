@@ -30,7 +30,7 @@ namespace Stone.Cobrancas.Worker
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             _logger.LogInformation("Worker cobrança - Aguardando 10s para iniciar");
-            await Task.Delay(1000 * 3);
+            await Task.Delay(1000 * 10);
             while (!stoppingToken.IsCancellationRequested)
             {
                 _logger.LogInformation("Worker cobrança - executando: {time}", DateTimeOffset.Now);
