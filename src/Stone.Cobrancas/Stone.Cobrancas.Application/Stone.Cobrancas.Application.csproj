@@ -11,7 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Stone.Utils\Stone.Utils.csproj" />
     <ProjectReference Include="..\Stone.Cobrancas.Data\Stone.Cobrancas.Data.csproj" />
     <ProjectReference Include="..\Stone.Cobrancas.Domain\Stone.Cobrancas.Domain.csproj" />
   </ItemGroup>

@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Stone.Util\Stone.Utils.csproj" />
     <ProjectReference Include="..\Stone.Clientes.Application\Stone.Clientes.Application.csproj" />
   </ItemGroup>
 
