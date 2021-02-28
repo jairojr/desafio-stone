@@ -24,3 +24,4 @@ clientes cadastrados, calcular e registrar as cobranças da maneira mais rápida
 duas APIs construídas nos passos anteriores). O cálculo é feito da seguinte maneira: 2 primeiros
 dígitos do CPF concatenados aos 2 últimos dígitos do CPF do cliente. Por exemplo, no CPF
 12345678, o valor cobrado será R$ 1278,00.
+
