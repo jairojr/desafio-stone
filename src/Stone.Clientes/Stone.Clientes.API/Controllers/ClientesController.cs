@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Stone.Clientes.API.Models;
 using Stone.Clientes.Application.Interfaces;
 using Stone.Clientes.Application.ViewModel;
 using Stone.Utils;
@@ -18,6 +17,10 @@ namespace Stone.Clientes.API.Controllers
     {
         private readonly IClienteApplication clienteApplication;
 
+        /// <summary>
+        /// Construtor padrão
+        /// </summary>
+        /// <param name="clienteApplication"></param>
         public ClientesController(IClienteApplication clienteApplication)
         {
             this.clienteApplication = clienteApplication;

@@ -7,8 +7,14 @@ using System.Text;
 
 namespace Stone.Clientes.Application.Mapping
 {
+    /// <summary>
+    /// Automapper Domain -> ViewModel 
+    /// </summary>
     public class DomainToViewModelToProfile : Profile
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public DomainToViewModelToProfile()
         {
             CreateMap<Cliente, ClienteViewModel>()

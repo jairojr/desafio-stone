@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Stone.Util\Stone.Utils.csproj" />
+    <ProjectReference Include="..\Stone.Cobrancas.Application\Stone.Cobrancas.Application.csproj" />
   </ItemGroup>
 
 

@@ -22,7 +22,7 @@ namespace Stone.Cobrancas.API.Configuration
 
                 var pasta = AppContext.BaseDirectory;
                 c.IncludeXmlComments(Path.Combine(pasta, "Stone.Cobrancas.API.xml"));
-                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Clientes.Application.xml"));
+                c.IncludeXmlComments(Path.Combine(pasta, "Stone.Cobrancas.Application.xml"));
                 c.IncludeXmlComments(Path.Combine(pasta, "Stone.Utils.xml"));
             });
 

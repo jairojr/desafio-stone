@@ -27,5 +27,9 @@
     <ProjectReference Include="..\Stone.Clientes.Application\Stone.Clientes.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 
 </Project>

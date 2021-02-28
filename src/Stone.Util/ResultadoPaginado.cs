@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Stone.Clientes.API.Models
+namespace Stone.Utils
 {
     /// <summary>
     /// Resultado paginado

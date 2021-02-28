@@ -10,6 +10,6 @@ namespace Stone.Cobrancas.Application.Interfaces
     public interface ICobrancaApplication
     {
         public Task<CobrancaViewModel> CriarAsync(CobrancaViewModel cliente, CancellationToken cancellationToken);
-        public Task<IEnumerable<CobrancaViewModel>> BuscaPaginadaAsync(int pagina, int tamanho, CancellationToken cancellationToken);
+        public Task<IEnumerable<CobrancaViewModel>> BuscarAsync(BuscarCobrancaViewModel busca, CancellationToken cancellationToken);
     }
 }

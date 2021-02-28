@@ -8,11 +8,11 @@ namespace Stone.Cobrancas.Domain.Models
     public class Cobranca
     {
         public Guid Id { get; set; }
-        public DateTimeOffset Data { get; private set; }
+        public DateTime Data { get; private set; }
         public Cpf CPF { get; private set; }
         public decimal Valor { get; private set; }
 
-        public Cobranca(Guid id, DateTimeOffset data, Cpf cPF, decimal valor)
+        public Cobranca(Guid id, DateTime data, Cpf cPF, decimal valor)
         {
             Id = id;
             Data = data;
@@ -20,7 +20,7 @@ namespace Stone.Cobrancas.Domain.Models
             Valor = valor;
         }
 
-        public Cobranca(DateTimeOffset data, Cpf cPF, decimal valor) : this(Guid.NewGuid(), data, cPF, valor)
+        public Cobranca(DateTime data, Cpf cPF, decimal valor) : this(Guid.NewGuid(), data, cPF, valor)
         {
         }
 

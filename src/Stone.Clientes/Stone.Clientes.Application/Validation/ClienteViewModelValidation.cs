@@ -9,8 +9,14 @@ using System.Text;
 
 namespace Stone.Clientes.Application.Validation
 {
+    /// <summary>
+    /// Validação de inserção de cliente
+    /// </summary>
     public class ClienteViewModelValidation : AbstractValidator<ClienteViewModel>
     {
+        /// <summary>
+        /// Construtor com as definições de validação
+        /// </summary>
         public ClienteViewModelValidation()
         {
             RuleFor(v => v.Nome)

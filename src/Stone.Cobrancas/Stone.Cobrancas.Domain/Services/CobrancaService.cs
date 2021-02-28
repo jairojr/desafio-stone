@@ -1,7 +1,7 @@
 ﻿using FluentValidation.Results;
 using Stone.Cobrancas.Domain.Models;
 using Stone.Cobrancas.Domain.Repositories;
-using Stone.Cobrancas.Domain.Validation;
+using Stone.Cobrancas.Domain.ValueObjects;
 using Stone.Utils;
 using System;
 using System.Collections.Generic;
@@ -14,30 +14,19 @@ namespace Stone.Cobrancas.Domain.Services
     public class CobrancaService : ICobrancaService
     {
         private readonly ICobrancaRepository cobrancaRepository;
-        private readonly CobrancaInsertValidation validationInsert;
 
-        public CobrancaService(ICobrancaRepository cobrancaRepository, CobrancaInsertValidation validationInsert)
+        public CobrancaService(ICobrancaRepository cobrancaRepository)
         {
             this.cobrancaRepository = cobrancaRepository;
-            this.validationInsert = validationInsert;
         }
 
-        public Task<IEnumerable<Cobranca>> BuscarPorCpfAsync(long cpf, int Pagina, int Quantidade, CancellationToken cancellationToken)
+        public Task<IEnumerable<Cobranca>> BuscaAsync(BuscarCobrancaValueObject busca, CancellationToken cancellationToken)
         {
-            return cobrancaRepository.BuscarPorCpfAsync(cpf, Pagina, Quantidade, cancellationToken);
-        }
-
-        public Task<IEnumerable<Cobranca>> BuscarPorMesAsync(int ano, int mes, int Pagina, int Quantidade, CancellationToken cancellationToken)
-        {
-            return cobrancaRepository.BuscarPorMesAsync(ano, mes, Pagina, Quantidade, cancellationToken);
+            return cobrancaRepository.BuscaAsync(busca, cancellationToken);
         }
 
         public async Task<Cobranca> CriarAsync(Cobranca cobranca, CancellationToken cancellationToken)
         {
-            ValidationResult result = validationInsert.Validate(cobranca);
-            if (!result.IsValid)
-                result.ThrowErrosValidacao();
-
             return await cobrancaRepository.CriarAsync(cobranca, cancellationToken);
         }
     }

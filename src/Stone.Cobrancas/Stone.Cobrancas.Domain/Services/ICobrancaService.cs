@@ -1,4 +1,5 @@
 ﻿using Stone.Cobrancas.Domain.Models;
+using Stone.Cobrancas.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +11,6 @@ namespace Stone.Cobrancas.Domain.Services
     public interface ICobrancaService
     {
         public Task<Cobranca> CriarAsync(Cobranca cobranca, CancellationToken cancellationToken);
-        public Task<IEnumerable<Cobranca>> BuscarPorCpfAsync(long cpf, int Pagina, int Quantidade, CancellationToken cancellationToken);
-        public Task<IEnumerable<Cobranca>> BuscarPorMesAsync(int ano, int mes, int Pagina, int Quantidade, CancellationToken cancellationToken);
+        public Task<IEnumerable<Cobranca>> BuscaAsync(BuscarCobrancaValueObject busca , CancellationToken cancellationToken);
     }
 }

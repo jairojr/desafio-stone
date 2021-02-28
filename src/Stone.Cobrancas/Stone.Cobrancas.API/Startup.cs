@@ -6,6 +6,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Stone.Cobrancas.API.Configuration;
 using Stone.Cobrancas.API.Middleware;
+using Stone.Cobrancas.API.Services;
+using Stone.Cobrancas.Application;
+using Stone.Cobrancas.Data;
 
 namespace Stone.Cobrancas.API
 {
@@ -36,13 +39,9 @@ namespace Stone.Cobrancas.API
         {
             services.AddControllers();
 
-
             services.AddSwagger(Env);
 
-            ///TODO - Configurar
-            //services.ConfigurarIoc();
-
-            //services.AddDbContext<CobrancaContext>(opt => opt.UseSqlite(Configuration["ConnectionStrings:SqliteConnectionString"]));
+            services.ConfigurarIoc();
         }
 
         /// <summary>
@@ -58,6 +57,8 @@ namespace Stone.Cobrancas.API
             }
 
             app.UseMiddleware(typeof(ErrorHandlingMiddleware));
+
+            var CobrancaContext = app.ApplicationServices.GetService<CobrancaContext>();
 
             app.UseSwaggerStone();
 

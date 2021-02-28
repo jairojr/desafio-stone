@@ -17,12 +17,18 @@ using Stone.Clientes.Application.Resources;
 
 namespace Stone.Clientes.Application
 {
+    /// <summary>
+    /// Cliente application
+    /// </summary>
     public class ClienteApplication : IClienteApplication
     {
         private readonly IMapper mapper;
         private readonly IClienteService clienteService;
         private readonly ClienteViewModelValidation validation;
 
+        /// <summary>
+        /// Construtor padrão
+        /// </summary>
         public ClienteApplication(IMapper mapper,
                                   IClienteService clienteService,
                                   ClienteViewModelValidation validation)
@@ -33,6 +39,12 @@ namespace Stone.Clientes.Application
         }
 
 
+        /// <summary>
+        /// Cria um cliente
+        /// </summary>
+        /// <param name="clienteViewModel"></param>
+        /// <param name="cancellationToken"></param>
+        /// <returns></returns>
         public async Task<ClienteViewModel> CriarAsync(ClienteViewModel clienteViewModel, CancellationToken cancellationToken)
         {
             ValidationResult result = this.validation.Validate(clienteViewModel);
@@ -45,6 +57,12 @@ namespace Stone.Clientes.Application
             return this.mapper.Map<ClienteViewModel>(clienteInserido);
         }
 
+        /// <summary>
+        /// Obtem um cliente por cpf
+        /// </summary>
+        /// <param name="cpf"></param>
+        /// <param name="cancellationToken"></param>
+        /// <returns></returns>
         public async Task<ClienteViewModel> ObterPorCpfAsync(long cpf, CancellationToken cancellationToken)
         {
             var cliente = await clienteService.ObterPorCpfAsync(cpf, cancellationToken);
@@ -52,6 +70,12 @@ namespace Stone.Clientes.Application
             return this.mapper.Map<ClienteViewModel>(cliente);
         }
 
+        /// <summary>
+        /// Obtem um cliente por Id
+        /// </summary>
+        /// <param name="idCliente"></param>
+        /// <param name="cancellationToken"></param>
+        /// <returns></returns>
         public async Task<ClienteViewModel> ObterPorIdAsync(Guid idCliente, CancellationToken cancellationToken)
         {
             var cliente = await clienteService.ObterPorIdAsync(idCliente, cancellationToken);
@@ -59,6 +83,13 @@ namespace Stone.Clientes.Application
             return this.mapper.Map<ClienteViewModel>(cliente);
         }
 
+        /// <summary>
+        /// Busca clientes de forma paginada
+        /// </summary>
+        /// <param name="pagina"></param>
+        /// <param name="tamanho"></param>
+        /// <param name="cancellationToken"></param>
+        /// <returns></returns>
         public async Task<IEnumerable<ClienteViewModel>> BuscaPaginadaAsync(int pagina, int tamanho, CancellationToken cancellationToken)
         {
             if (pagina < 0 || tamanho <= 0)

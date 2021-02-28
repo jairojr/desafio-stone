@@ -2,6 +2,7 @@
 using Stone.Cobrancas.Data.Models;
 using Stone.Cobrancas.Domain.Models;
 using Stone.Cobrancas.Domain.Repositories;
+using Stone.Cobrancas.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,23 +23,31 @@ namespace Stone.Cobrancas.Data.Repositories
 
         public CobrancaContext Context { get; }
 
-        public async Task<IEnumerable<Cobranca>> BuscarPorCpfAsync(long cpf, int Pagina, int Quantidade, CancellationToken cancellationToken)
+        public async Task<IEnumerable<Cobranca>> BuscaAsync(BuscarCobrancaValueObject busca, CancellationToken cancellationToken)
         {
-            int skip = (Pagina - 1) * Quantidade;
-            var result = await this.cobrancaDb.Find(e => e.CPF == cpf)
-                                        .Skip(skip)
-                                        .Limit(Quantidade)
-                                        .ToListAsync(cancellationToken);
+            int skip = (busca.Pagina - 1) * busca.Quantidade;
 
-            return result.Select(RetornaCobrancaDomain);
-        }
 
-        public async Task<IEnumerable<Cobranca>> BuscarPorMesAsync(int ano, int mes, int Pagina, int Quantidade, CancellationToken cancellationToken)
-        {
-            int skip = (Pagina - 1) * Quantidade;
-            var result = await this.cobrancaDb.Find(e => e.Data.Month == mes && e.Data.Year == ano)
+            List<FilterDefinition<CobrancaEntity>> filtros = new List<FilterDefinition<CobrancaEntity>>();
+
+            if (busca.CPF.HasValue)
+            {
+                var cpf = busca.CPF.Value.ObterApenasNumeros();
+                filtros.Add(Builders<CobrancaEntity>.Filter.Eq(x => x.CPF, cpf));
+            }
+
+            if (busca.Ano.HasValue)
+            {
+                var dataInicial = new DateTime(busca.Ano.Value, busca.Mes.Value, 1);
+                var dataFinal = dataInicial.AddMonths(1).AddMilliseconds(-1);
+                filtros.Add(Builders<CobrancaEntity>.Filter.Gte(x => x.Data, dataInicial));
+                filtros.Add(Builders<CobrancaEntity>.Filter.Lte(x => x.Data, dataFinal));
+            }
+
+
+            var result = await this.cobrancaDb.Find(Builders<CobrancaEntity>.Filter.And(filtros))
                                         .Skip(skip)
-                                        .Limit(Quantidade)
+                                        .Limit(busca.Quantidade)
                                         .ToListAsync(cancellationToken);
 
             return result.Select(RetornaCobrancaDomain);
@@ -58,5 +67,7 @@ namespace Stone.Cobrancas.Data.Repositories
             await this.cobrancaDb.InsertOneAsync(cobrancaDb, null, cancellationToken);
             return cobranca;
         }
+
+
     }
 }

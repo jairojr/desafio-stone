@@ -2,6 +2,11 @@
 using Microsoft.Extensions.DependencyInjection;
 using Stone.Cobrancas.Application.Interfaces;
 using Stone.Cobrancas.Application.Mapping;
+using Stone.Cobrancas.Application.Validation;
+using Stone.Cobrancas.Data;
+using Stone.Cobrancas.Data.Repositories;
+using Stone.Cobrancas.Domain.Repositories;
+using Stone.Cobrancas.Domain.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -19,12 +24,13 @@ namespace Stone.Cobrancas.Application
             }).CreateMapper());
 
             service.AddScoped<ICobrancaApplication, CobrancaApplication>();
-            ///TODO - Ajustar
-            //service.AddScoped<ICobrancaService, CobrancaService>();
-            //service.AddScoped<ICobrancaRepository, CobrancaRepository>();
+            service.AddScoped<ICobrancaService, CobrancaService>();
+            service.AddScoped<ICobrancaRepository, CobrancaRepository>();
 
-            //service.AddScoped<CobrancaInsertValidation>();
-            //service.AddScoped<CobrancaViewModelValidation>();
+            service.AddScoped<CobrancaViewModelValidation>();
+            service.AddScoped<BuscarCobrancaViewModelValidation>();
+            
+            service.AddSingleton<CobrancaContext>();
 
             return service;
         }
