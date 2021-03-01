@@ -58,8 +58,6 @@ namespace Stone.Cobrancas.API
 
             app.UseMiddleware(typeof(ErrorHandlingMiddleware));
 
-            var CobrancaContext = app.ApplicationServices.GetService<CobrancaContext>();
-
             app.UseSwaggerStone();
 
             app.UseRouting();

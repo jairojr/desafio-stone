@@ -5,6 +5,7 @@ using Stone.Utils;
 using System.Linq;
 using System.Net;
 using System.Threading;
+using static Stone.Utils.CpfExtensions;
 
 namespace Stone.Clientes.API.Controllers
 {
@@ -47,7 +48,8 @@ namespace Stone.Clientes.API.Controllers
         {
             var cliente = await this.clienteApplication.CriarAsync(novoCliente, cancellationToken);
 
-            return CreatedAtAction(nameof(Get), cliente.CPF, cliente);
+            Cpf cpf = cliente.CPF;
+            return CreatedAtAction(nameof(Get), new { cpf = cpf.ObterApenasNumeros() }, cliente);
         }
 
         /// <summary>

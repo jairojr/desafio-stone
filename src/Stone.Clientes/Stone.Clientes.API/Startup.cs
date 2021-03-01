@@ -50,7 +50,8 @@ namespace Stone.Clientes.API
         /// </summary>
         /// <param name="app"></param>
         /// <param name="env"></param>
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        /// <param name="context"></param>
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ClientesContext context)
         {
             if (env.IsDevelopment())
             {
@@ -62,6 +63,8 @@ namespace Stone.Clientes.API
             app.UseSwaggerStone();
 
             app.UseRouting();
+
+            context.Database.Migrate();
 
             app.UseEndpoints(endpoints =>
             {
