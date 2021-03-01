@@ -60,12 +60,12 @@ namespace Stone.Clientes.Application
         /// <summary>
         /// Obtem um cliente por cpf
         /// </summary>
-        /// <param name="cpf"></param>
+        /// <param name="cpfPesquisa"></param>
         /// <param name="cancellationToken"></param>
         /// <returns></returns>
-        public async Task<ClienteViewModel> ObterPorCpfAsync(long cpf, CancellationToken cancellationToken)
+        public async Task<ClienteViewModel> ObterPorCpfAsync(long cpfPesquisa, CancellationToken cancellationToken)
         {
-            var cliente = await clienteService.ObterPorCpfAsync(cpf, cancellationToken);
+            var cliente = await clienteService.ObterPorCpfAsync(cpfPesquisa, cancellationToken);
 
             return this.mapper.Map<ClienteViewModel>(cliente);
         }

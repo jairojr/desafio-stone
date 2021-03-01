@@ -28,7 +28,14 @@ namespace Stone.Utils
 
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public string Codigo { get; set; }
+        
+        /// <summary>
+        /// 
+        /// </summary>
         public string Mensagem { get; set; }
 
 
