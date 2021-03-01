@@ -12,6 +12,7 @@ using Xunit;
 
 namespace Stone.Clientes.API.Tests
 {
+    [Trait("Category", "Unit")]
     public class ClientesControllerTest
     {
         private readonly Mock<IClienteApplication> application;

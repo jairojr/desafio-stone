@@ -17,6 +17,7 @@ using Xunit;
 
 namespace Stone.Clientes.Application.Tests
 {
+    [Trait("Category", "Unit")]
     public class ClienteApplicationTest
     {
         private IMapper mapper;

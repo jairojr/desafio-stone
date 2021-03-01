@@ -10,6 +10,7 @@ using Xunit;
 
 namespace Stone.Clientes.Data.Tests
 {
+    [Trait("Category", "Unit")]
     public class ClienteRepositoryTest : IClassFixture<ClientesContextFixture>
     {
         private ClientesContext ContextFixture;

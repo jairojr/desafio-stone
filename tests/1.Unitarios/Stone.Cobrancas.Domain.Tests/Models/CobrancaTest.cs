@@ -6,6 +6,7 @@ using Xunit;
 
 namespace Stone.Cobrancas.Domain.Tests.Models
 {
+    [Trait("Category", "Unit")]
     public class CobrancaTest
     {
 

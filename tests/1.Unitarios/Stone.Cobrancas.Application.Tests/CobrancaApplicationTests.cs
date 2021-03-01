@@ -17,6 +17,7 @@ using Xunit;
 
 namespace Stone.Cobrancas.Application.Tests
 {
+    [Trait("Category", "Unit")]
     public class CobrancaApplicationTests
     {
         private readonly IMapper mapper;

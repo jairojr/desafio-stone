@@ -12,6 +12,7 @@ using Xunit;
 
 namespace Stone.Clientes.Domain.Tests.Validation
 {
+    [Trait("Category", "Unit")]
     public class ClienteInsertValidationTest
     {
         private Mock<IClienteRepository> clienteRepositoryMock;

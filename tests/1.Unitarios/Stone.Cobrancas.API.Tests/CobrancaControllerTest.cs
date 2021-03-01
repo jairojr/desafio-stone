@@ -11,6 +11,7 @@ using Xunit;
 
 namespace Stone.Cobrancas.API.Tests
 {
+    [Trait("Category", "Unit")]
     public class CobrancaControllerTest
     {
         private readonly Mock<ICobrancaApplication> cobrancaApplication;

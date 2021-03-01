@@ -17,6 +17,7 @@ using System.Linq;
 
 namespace Stone.Clientes.Domain.Tests.Services
 {
+    [Trait("Category", "Unit")]
     public class ClienteServiceTests
     {
         private readonly Mock<IClienteRepository> clienteRepositoryMock;

@@ -4,6 +4,7 @@ using static Stone.Utils.CpfExtensions;
 
 namespace Stone.Utils.Tests
 {
+    [Trait("Category", "Unit")]
     public class CpfExtensionsTests
     {
         [Theory]

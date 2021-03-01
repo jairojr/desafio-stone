@@ -14,6 +14,7 @@ using Xunit;
 
 namespace Stone.Cobrancas.Domain.Tests.Services
 {
+    [Trait("Category", "Unit")]
     public class CobrancaServiceTest
     {
         private Mock<ICobrancaRepository> repositoryMock;

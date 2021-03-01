@@ -8,6 +8,7 @@ using Xunit;
 
 namespace Stone.Cobrancas.Application.Tests.Validation
 {
+    [Trait("Category", "Unit")]
     public class CobrancaViewModelValidationTest
     {
         private readonly CobrancaViewModelValidation validation;

@@ -8,6 +8,7 @@ using Xunit;
 
 namespace Stone.Clientes.Application.Tests.Validation
 {
+    [Trait("Category", "Unit")]
     public class ClienteViewModelValidationTest
     {
         private readonly ClienteViewModelValidation validation;
