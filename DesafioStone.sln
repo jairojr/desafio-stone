@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stone.Clientes.Integration.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Cobrancas.Integration.Tests", "tests\2.Integrados\Stone.Cobrancas.Integration.Tests\Stone.Cobrancas.Integration.Tests.csproj", "{4A408ECA-80C3-4FBE-AD42-4A9D045D7312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.Clientes.Performance.Test", "tests\3.Performance\Stone.Clientes.Performance.Test\Stone.Clientes.Performance.Test.csproj", "{C575EE51-A07C-48A4-93D9-34AE39EB3D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{4A408ECA-80C3-4FBE-AD42-4A9D045D7312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A408ECA-80C3-4FBE-AD42-4A9D045D7312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A408ECA-80C3-4FBE-AD42-4A9D045D7312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C575EE51-A07C-48A4-93D9-34AE39EB3D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C575EE51-A07C-48A4-93D9-34AE39EB3D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C575EE51-A07C-48A4-93D9-34AE39EB3D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C575EE51-A07C-48A4-93D9-34AE39EB3D48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +191,7 @@ Global
 		{4F3C5FE1-F25A-423E-9EB9-4CEA518C82D2} = {3634F5C7-48A6-4028-9C18-69A02B716A5C}
 		{6E19F45A-9ADD-4442-ADF5-3515957BD547} = {66EBBFD2-6E00-4BA4-92F5-0EC0743D51A7}
 		{4A408ECA-80C3-4FBE-AD42-4A9D045D7312} = {66EBBFD2-6E00-4BA4-92F5-0EC0743D51A7}
+		{C575EE51-A07C-48A4-93D9-34AE39EB3D48} = {E5FFB60F-078A-4C26-A67C-4CA29338B0FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B604D13C-4F1F-4B09-AD3E-EF36EA71ECB6}
