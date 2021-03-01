@@ -20,10 +20,10 @@ namespace Stone.Clientes.Application.Tests
     [Trait("Category", "Unit")]
     public class ClienteApplicationTest
     {
-        private IMapper mapper;
-        private Mock<IClienteService> clienteServiceMock;
-        private ClienteApplication application;
-        private Mock<ClienteViewModelValidation> clienteViewModelValidationMock;
+        private readonly IMapper mapper;
+        private readonly Mock<IClienteService> clienteServiceMock;
+        private readonly ClienteApplication application;
+        private readonly Mock<ClienteViewModelValidation> clienteViewModelValidationMock;
 
         public ClienteApplicationTest()
         {

@@ -153,7 +153,7 @@ namespace Stone.Clientes.Application.Tests.Validation
         }
 
         [Theory]
-        [MemberData(nameof(estadosValidos))]
+        [MemberData(nameof(EstadosValidos))]
         public void ClienteViewModelValidation_ClienteValidoEEstadosValido_RetornaValido(string estado)
         {
             //Arrange
@@ -170,7 +170,7 @@ namespace Stone.Clientes.Application.Tests.Validation
 
 
         #region EstadosValidos
-        public static IEnumerable<object[]> estadosValidos =>
+        public static IEnumerable<object[]> EstadosValidos =>
                         new List<object[]>
        {
             new object[] { "Acre" },

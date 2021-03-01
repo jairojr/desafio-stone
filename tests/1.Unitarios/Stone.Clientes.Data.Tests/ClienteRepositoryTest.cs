@@ -13,7 +13,7 @@ namespace Stone.Clientes.Data.Tests
     [Trait("Category", "Unit")]
     public class ClienteRepositoryTest : IClassFixture<ClientesContextFixture>
     {
-        private ClientesContext ContextFixture;
+        private readonly ClientesContext ContextFixture;
         public ClienteRepositoryTest(ClientesContextFixture fixture)
         {
             this.ContextFixture = fixture.Context;

@@ -17,8 +17,8 @@ namespace Stone.Cobrancas.Domain.Tests.Services
     [Trait("Category", "Unit")]
     public class CobrancaServiceTest
     {
-        private Mock<ICobrancaRepository> repositoryMock;
-        private CobrancaService cobrancaService;
+        private readonly  Mock<ICobrancaRepository> repositoryMock;
+        private readonly CobrancaService cobrancaService;
 
         public CobrancaServiceTest()
         {

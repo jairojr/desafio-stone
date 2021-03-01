@@ -13,7 +13,7 @@ namespace Stone.Cobrancas.Application.Tests.Mapping
     [Trait("Category", "Unit")]
     public class AutomappersTests
     {
-        private IMapper mapper;
+        private readonly IMapper mapper;
 
         public AutomappersTests()
         {

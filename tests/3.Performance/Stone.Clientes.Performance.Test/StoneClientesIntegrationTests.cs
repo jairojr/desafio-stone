@@ -18,14 +18,11 @@ namespace Stone.Clientes.Performance.Tests
     [Trait("Category", "Performance")]
     public class StoneClientesPerformanceTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>, IClassFixture<ClienteFixture>
     {
-        private readonly HttpClient _api;
-        private readonly CustomWebApplicationFactory<Stone.Clientes.API.Startup>
-            _factory;
+        private readonly HttpClient _api;        
         private readonly ClienteFixture clienteFixture;
 
         public StoneClientesPerformanceTests(CustomWebApplicationFactory<API.Startup> factory, ClienteFixture clienteFixture)
         {
-            _factory = factory;
             this.clienteFixture = clienteFixture;
             _api = factory.CreateClient(new WebApplicationFactoryClientOptions
             {

@@ -19,13 +19,10 @@ namespace Stone.Cobrancas.Performance.Tests
     public class StoneCobrancasPerformanceTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>, IClassFixture<CobrancaFixture>
     {
         private readonly HttpClient _api;
-        private readonly CustomWebApplicationFactory<Stone.Cobrancas.API.Startup>
-            _factory;
         private readonly CobrancaFixture cobrancaFixture;
 
         public StoneCobrancasPerformanceTests(CustomWebApplicationFactory<API.Startup> factory, CobrancaFixture cobrancaFixture)
         {
-            _factory = factory;
             this.cobrancaFixture = cobrancaFixture;
             _api = factory.CreateClient(new WebApplicationFactoryClientOptions
             {
