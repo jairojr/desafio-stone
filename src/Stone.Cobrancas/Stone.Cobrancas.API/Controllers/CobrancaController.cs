@@ -48,7 +48,7 @@ namespace Stone.Cobrancas.API.Controllers
         {
             var cobranca = await this.cobrancaApplication.CriarAsync(novaCobranca, cancellationToken);
 
-            return CreatedAtAction(nameof(Get), new BuscarCobrancaViewModel()
+            return CreatedAtAction(nameof(Get), new
             {
                 CPF = cobranca.CPF,
                 Ano = cobranca.Data.Year,
@@ -88,7 +88,14 @@ namespace Stone.Cobrancas.API.Controllers
                 Data = resultados.ToArray(),
                 Size = busca.Quantidade,
                 Page = paginaAtual,
-                Next = Url.Action(nameof(Get), busca)
+                Next = Url.Action(nameof(Get), new
+                {
+                    CPF = busca.CPF,
+                    Ano = busca.Ano,
+                    Mes = busca.Mes,
+                    Pagina = busca.Pagina++,
+                    Quantidade = busca.Quantidade,
+                })
             });
         }
     }

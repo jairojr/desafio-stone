@@ -10,13 +10,13 @@ using Xunit;
 
 namespace Stone.Clientes.Integration.Tests
 {
-    public class StoneClienteTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>
+    public class StoneClientesIntegrationTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>
     {
         private readonly HttpClient _api;
         private readonly CustomWebApplicationFactory<Stone.Clientes.API.Startup>
             _factory;
 
-        public StoneClienteTests(CustomWebApplicationFactory<API.Startup> factory)
+        public StoneClientesIntegrationTests(CustomWebApplicationFactory<API.Startup> factory)
         {
             _factory = factory;
             _api = factory.CreateClient(new WebApplicationFactoryClientOptions
@@ -67,7 +67,7 @@ namespace Stone.Clientes.Integration.Tests
 
             //Assert
             Assert.NotNull(response);
-            Assert.Equal(3, response.Data.Length);
+            Assert.NotEmpty(response.Data);
         }
     }
 }

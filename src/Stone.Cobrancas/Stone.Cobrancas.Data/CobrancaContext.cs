@@ -16,8 +16,9 @@ namespace Stone.Cobrancas.Data
 
         public CobrancaContext(IConfiguration configuration)
         {
-            this.client = new MongoClient(configuration["ConnectionStrings:MongoDb"]);
-            this.database = client.GetDatabase("stone-cobrancas");
+            var url = new MongoUrl(configuration["ConnectionStrings:MongoDb"]);
+            this.client = new MongoClient(url);
+            this.database = client.GetDatabase(url.DatabaseName);
         }
 
         public IMongoCollection<CobrancaEntity> Cobrancas
