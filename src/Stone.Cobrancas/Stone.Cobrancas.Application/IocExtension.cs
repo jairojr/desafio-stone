@@ -9,6 +9,7 @@ using Stone.Cobrancas.Domain.Repositories;
 using Stone.Cobrancas.Domain.Services;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Stone.Cobrancas.Application
@@ -16,6 +17,7 @@ namespace Stone.Cobrancas.Application
     /// <summary>
     /// Extensão para IoC
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public static class IocExtension
     {
         /// <summary>

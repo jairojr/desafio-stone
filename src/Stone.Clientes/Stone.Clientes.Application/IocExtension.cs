@@ -9,6 +9,7 @@ using Stone.Clientes.Domain.Services;
 using Stone.Clientes.Domain.Validation;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Stone.Clientes.Application
@@ -16,6 +17,7 @@ namespace Stone.Clientes.Application
     /// <summary>
     /// Extensão para IoC
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public static class IocExtension
     {
         /// <summary>

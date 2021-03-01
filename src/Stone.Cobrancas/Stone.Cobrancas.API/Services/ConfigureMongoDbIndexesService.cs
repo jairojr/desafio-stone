@@ -3,6 +3,7 @@ using Microsoft.Extensions.Logging;
 using Stone.Cobrancas.Data;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
@@ -12,6 +13,7 @@ namespace Stone.Cobrancas.API.Services
     /// <summary>
     /// Serviço utilizado para criação de index dentro do mongo db ao iniciar a aplicação
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public class ConfigureMongoDbIndexesService : IHostedService
     {
         private readonly CobrancaContext cobrancaContext;

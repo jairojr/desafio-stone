@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Stone.Cobrancas.Data
 {
+    [ExcludeFromCodeCoverage]
     public class CobrancaContext
     {
         private readonly IMongoDatabase database;

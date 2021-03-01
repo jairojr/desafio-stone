@@ -2,10 +2,12 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using System;
+using System.Diagnostics.CodeAnalysis;
 using System.IO;
 
 namespace Stone.Cobrancas.API.Configuration
 {
+    [ExcludeFromCodeCoverage]
     internal static class SwaggerConfiguration
     {
         internal static IServiceCollection AddSwagger(this IServiceCollection services, IWebHostEnvironment env)

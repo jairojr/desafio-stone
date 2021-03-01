@@ -2,10 +2,12 @@
 using Stone.Clientes.Data.Models;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Stone.Clientes.Data.Tests.Fixture
 {
+    [ExcludeFromCodeCoverage]
     public class ClientesContextFixture : IDisposable
     {
         private static readonly object _lock = new object();

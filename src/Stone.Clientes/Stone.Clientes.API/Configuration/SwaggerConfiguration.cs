@@ -3,12 +3,14 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace Stone.Clientes.API.Configuration
 {
+    [ExcludeFromCodeCoverage]
     internal static class SwaggerConfiguration
     {
         internal static IServiceCollection AddSwagger(this IServiceCollection services, IWebHostEnvironment env)
