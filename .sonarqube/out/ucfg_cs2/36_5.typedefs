@@ -1,5 +1,0 @@
-Ì
-2Stone.Cobrancas.API.Controllers.CobrancaController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÖ
-OCobrancaController(Stone.Cobrancas.Application.Interfaces.ICobrancaApplication)‚Stone.Cobrancas.API.Controllers.CobrancaController.CobrancaController(Stone.Cobrancas.Application.Interfaces.ICobrancaApplication)„
-fPostAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)™Stone.Cobrancas.API.Controllers.CobrancaController.PostAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)„
-fGet(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel, System.Threading.CancellationToken)™Stone.Cobrancas.API.Controllers.CobrancaController.Get(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel, System.Threading.CancellationToken)

@@ -1,93 +1,0 @@
-
-qStone.Clientes.Data.Repositories.ClienteRepository.RetornaClienteDomain(Stone.Clientes.Data.Models.ClienteEntity){
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csB B(3"0*ˆ
-0{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csD D(!ý
-ú
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csD D(!
-
-%0bool""object.operator ==(object, object)*
-"
-object*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntity*
-""*
-1
-2*ˆ
-1{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csE E("…
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csE E(
-""*ã
-2{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csG J(9ý
-ú
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csG G(+
-%1System.Guid"/Stone.Clientes.Data.Models.ClienteEntity.Id.get*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntityú
-÷
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csH, H(:
-%2string"1Stone.Clientes.Data.Models.ClienteEntity.Nome.get*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntityü
-ù
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csIW I(g
-%3string"3Stone.Clientes.Data.Models.ClienteEntity.Estado.get*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntityß
-Ü
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csI8 I(h
-%4object"&System.Enum.Parse(System.Type, string)*"
-System.Enum*
-""*
-
-%3stringœ
-™
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csI, I(h
-%5"__id*
-
-%4object÷
-ô
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csJ, J(9
-
-%6long"0Stone.Clientes.Data.Models.ClienteEntity.CPF.get*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntityÒÏ
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csG J(:*
-%7$Stone.Clientes.Domain.Models.Cliente"$Stone.Clientes.Domain.Models.Clienteæ
-ã
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csG G(
-
-%8void"oStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)*,
-*
-%7$Stone.Clientes.Domain.Models.Cliente*
-
-%1System.Guid*
-
-%2string*
-
-%5*
-
-
-%6long"«
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csG J(;,
-*
-%7$Stone.Clientes.Domain.Models.Cliente*•
-3{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csK	 K(	"’
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csK K(	
-implicit return:5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntityB6"4
-2Stone.Clientes.Data.Repositories.ClienteRepository

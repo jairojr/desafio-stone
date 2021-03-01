@@ -1,54 +1,0 @@
-
-çStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.BuscarCobrancaValueObject(int, int, Stone.Utils.CpfExtensions.Cpf?, int?, int?)á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (("1*í
-1á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs	 (	*
-0*È
-0á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (≠
-™
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs ( 	
-%0int"HStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Pagina.set*A?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
-""±
-Æ
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs ((	
-%1int"LStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Quantidade.set*A?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
-""Œ
-À
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
-%2System.Nullable<T>"EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.CPF.set*A?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
-
-CPFSystem.Nullable<T>Œ
-À
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
-%3System.Nullable<T>"EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.set*A?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
-
-AnoSystem.Nullable<T>Œ
-À
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
-%4System.Nullable<T>"EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Mes.set*A?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
-
-MesSystem.Nullable<T>*
-2*Ø
-2á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs	 (	"ü
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (	
-implicit return:
-Paginaint:
-
-Quantidadeint:
-CPFSystem.Nullable<T>:
-AnoSystem.Nullable<T>:
-MesSystem.Nullable<T>BA?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject

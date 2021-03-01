@@ -1,9 +1,0 @@
-w
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\ClienteViewModel.csutf-8x
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.csutf-8g
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.csutf-8w
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.csutf-8x
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.csutf-8m
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cswindows-1252¦
-šC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8ž
-’C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\obj\Debug\netcoreapp3.1\Stone.Cobrancas.Worker.AssemblyInfo.csutf-8

@@ -1,36 +1,0 @@
-
-iStone.Clientes.Data.Repositories.ClienteRepository.ClienteRepository(Stone.Clientes.Data.ClientesContext){
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs ( "1*Ö
-1{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs	 (	*
-0*˚
-0{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs ("ò
-ï
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs# (32
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"0Stone.Clientes.Data.ClientesContext.Clientes.get*0
-.
-context#Stone.Clientes.Data.ClientesContextµ
-≤
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (3w4
-2Stone.Clientes.Data.Repositories.ClienteRepository"?
-clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>†
-ù
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs ("f4
-2Stone.Clientes.Data.Repositories.ClienteRepository".
-context#Stone.Clientes.Data.ClientesContext"__id*0
-.
-context#Stone.Clientes.Data.ClientesContext*
-2*ï
-2{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs	 (	"í
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (	
-implicit return:.
-context#Stone.Clientes.Data.ClientesContextB64
-2Stone.Clientes.Data.Repositories.ClienteRepository

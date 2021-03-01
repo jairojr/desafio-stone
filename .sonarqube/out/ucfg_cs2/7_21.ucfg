@@ -1,20 +1,0 @@
-
-_Stone.Clientes.Data.ClientesContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs  (/"0*Ð
-0l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (Y×Ô
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (Z0
-%0*Microsoft.EntityFrameworkCore.ModelBuilder"†Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>)*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
-""*
-""2[ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>)*
-1*÷
-1l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	"ƒ
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB'%
-#Stone.Clientes.Data.ClientesContext

@@ -1,10 +1,0 @@
-
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.csutf-8{
-rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.csutf-8
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.csutf-8d
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.csutf-8„
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.csutf-8k
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cswindows-1252£
-—C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8˜
-ŒC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\obj\Debug\netcoreapp3.1\Stone.Cobrancas.API.AssemblyInfo.csutf-8«
-ŸC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\obj\Debug\netcoreapp3.1\Stone.Cobrancas.API.MvcApplicationPartsAssemblyInfo.csutf-8

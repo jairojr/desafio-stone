@@ -1,66 +1,0 @@
-
-sStone.Cobrancas.Application.IocExtension.ConfigurarIoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs) (6"0*ê
-0r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs #(¯
-¬
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs (A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÏMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""…
-‚
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs (JA
-%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection…
-‚
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs (BA
-%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection…
-‚
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs (HA
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionô
-ñ
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs (<A
-%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionô
-ñ
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs (BA
-%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection÷
-ô
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs! !(3A
-%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"ŸMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection"¾
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs# #(H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection*ƒ
-1r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs$	 $(	"‰
-r
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs$ $(	
-implicit return:F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionB,"*
-(Stone.Cobrancas.Application.IocExtension

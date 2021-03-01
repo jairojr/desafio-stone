@@ -1,45 +1,0 @@
-
-uStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.Guid, System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs ("1*z
-1p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs	 (	*
-0*˝
-0p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (Î
-Ë
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (
-%0System.Guid"-Stone.Cobrancas.Domain.Models.Cobranca.Id.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*
-""Ñ
-Å
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (
-%1System.DateTime"/Stone.Cobrancas.Domain.Models.Cobranca.Data.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*
-
-dataSystem.DateTimeû
-õ
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (#
-%2Stone.Utils.CpfExtensions.Cpf".Stone.Cobrancas.Domain.Models.Cobranca.CPF.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*&
-$
-cPFStone.Utils.CpfExtensions.CpfÍ
-Á
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (
-%3decimal"0Stone.Cobrancas.Domain.Models.Cobranca.Valor.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*
-""*
-2*ˇ
-2p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs	 (	"á
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (	
-implicit return:
-idSystem.Guid:
-dataSystem.DateTime:$
-cPFStone.Utils.CpfExtensions.Cpf:
-valordecimalB*(
-&Stone.Cobrancas.Domain.Models.Cobranca

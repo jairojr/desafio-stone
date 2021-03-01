@@ -1,28 +1,0 @@
-
-UStone.Utils.CpfExtensions.Cpf.implicit operator Stone.Utils.CpfExtensions.Cpf(string)R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csk# k(+"0*½
-0R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l( ›˜
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(!#
-%0Stone.Utils.CpfExtensions.Cpf"Stone.Utils.CpfExtensions.CpfÈ
-Å
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(
-
-%1void")Stone.Utils.CpfExtensions.Cpf.Cpf(string)*%
-#
-%0Stone.Utils.CpfExtensions.Cpf*
-
-valuestring"{
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(!%
-#
-%0Stone.Utils.CpfExtensions.Cpf*Â
-1R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl" l(""i
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl! l("
-implicit return:
-valuestringB!"
-Stone.Utils.CpfExtensions.Cpf

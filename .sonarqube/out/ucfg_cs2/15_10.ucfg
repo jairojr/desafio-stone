@@ -1,31 +1,0 @@
-
-ˆStone.Cobrancas.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs ("1*o
-1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs 	  (	*
-0*Ñ
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs (¹
-¶
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration"-Stone.Cobrancas.API.Startup.Configuration.set*
-Stone.Cobrancas.API.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration£
- 
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs (6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment"#Stone.Cobrancas.API.Startup.Env.set*
-Stone.Cobrancas.API.Startup*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-2*è
-2e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs 	  (	"|
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs   (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfiguration:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
-Stone.Cobrancas.API.Startup

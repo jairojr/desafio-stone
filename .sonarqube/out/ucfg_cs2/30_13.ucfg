@@ -1,42 +1,0 @@
-
-UStone.Clientes.Application.Validation.ClienteViewModelValidation.EstadoValido(string)â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs3 3(!"0*Ï
-0â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 7(1®
-•
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 5(G1
-%0+Stone.Clientes.Application.Enums.EstadoEnum".Stone.Utils.EnumExtension.ObterEnum<T>(string)*"
-Stone.Utils.EnumExtension*
-
-	strEstadostringÅ
-˛
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 5(G5
-estado+Stone.Clientes.Application.Enums.EstadoEnum"__id*3
-1
-%0+Stone.Clientes.Application.Enums.EstadoEnum£
-†
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs7 7(1
-%1"__id*
-""*
-1
-2*¶
-1â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs8 8("î
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs8 8(
-""*¶
-2â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs: :("î
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs: :(
-""*≥
-3â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs;	 ;(	"°
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs; ;(	
-implicit return:
-	strEstadostringBDB
-@Stone.Clientes.Application.Validation.ClienteViewModelValidation

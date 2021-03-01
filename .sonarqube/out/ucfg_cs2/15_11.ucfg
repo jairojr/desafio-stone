@@ -1,25 +1,0 @@
-
-°Stone.Cobrancas.API.Configuration.SwaggerConfiguration.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)€
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs+ (5"0*ª
-0€
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs (Ð
-Í
-€
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs (A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
-NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-"""Î
-€
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs (I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*¡
-1€
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs	 (	"˜
-€
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs (	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB:"8
-6Stone.Cobrancas.API.Configuration.SwaggerConfiguration

@@ -1,31 +1,0 @@
-
-6Stone.Clientes.API.Program.CreateHostBuilder(string[])c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs# (4"0*ï
-0c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs  $(–
-“
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs   (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]Ð
-Í
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs  $(/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""˜
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs  $(1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*ä
-1c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs$ $("z
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs$ $(
-implicit return:
-argsstring[]B"
-Stone.Clientes.API.Program

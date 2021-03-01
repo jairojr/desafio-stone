@@ -1,54 +1,0 @@
-
-îStone.Cobrancas.Worker.Services.CobrancaService.InserirCobranca(Stone.Cobrancas.Worker.Models.CobrancaViewModel, System.Threading.CancellationToken)y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs  (/"0*ò
-0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (/õ
-ò
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (&
-uristring"__id*
-""à
-Ö
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs! (, 
-%0System.Net.Http.HttpClient"__id*`*^1
-/Stone.Cobrancas.Worker.Services.CobrancaService")
-_httpClientSystem.Net.Http.HttpClient•
-¢
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs! (^*
-%1$System.Threading.Tasks.Task<TResult>"ñSystem.Net.Http.Json.HttpClientJsonExtensions.PostAsJsonAsync<TValue>(System.Net.Http.HttpClient, string?, TValue, System.Threading.CancellationToken)*1"/
--System.Net.Http.Json.HttpClientJsonExtensions*"
- 
-%0System.Net.Http.HttpClient*
-
-uristring*=
-;
-cobranca/Stone.Cobrancas.Worker.Models.CobrancaViewModel*9
-7
-cancellationToken"System.Threading.CancellationTokenΩ
-∫
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (^/
-response#System.Net.Http.HttpResponseMessage"__id*
-""˙
-˜
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (/
-
-%2bool";System.Net.Http.HttpResponseMessage.IsSuccessStatusCode.get*1
-/
-response#System.Net.Http.HttpResponseMessage"â
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (0
-
-
-%2bool*ë
-1y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs	 (	"ê
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (	
-implicit return:;
-cobranca/Stone.Cobrancas.Worker.Models.CobrancaViewModel:7
-cancellationToken"System.Threading.CancellationTokenB31
-/Stone.Cobrancas.Worker.Services.CobrancaService

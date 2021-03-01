@@ -1,87 +1,0 @@
-
-gStone.Cobrancas.Data.CobrancaContext.CobrancaContext(Microsoft.Extensions.Configuration.IConfiguration)n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("1*x
-1n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs	 (	*
-0*‘
-0n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (?¼¹
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs# (M
-%0string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-ConnectionStrings:MongoDb2this[string].get«¨
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (N
-%1MongoDB.Driver.MongoUrl"MongoDB.Driver.MongoUrlÚ
-×
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("
-
-%2void"(MongoDB.Driver.MongoUrl.MongoUrl(string)*
-
-%1MongoDB.Driver.MongoUrl*
-
-%0stringº
-·
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (N
-urlMongoDB.Driver.MongoUrl"__id*
-
-%1MongoDB.Driver.MongoUrl±®
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (. 
-%3MongoDB.Driver.MongoClient"MongoDB.Driver.MongoClient†
-ƒ
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ()
-
-%4void"?MongoDB.Driver.MongoClient.MongoClient(MongoDB.Driver.MongoUrl)*"
- 
-%3MongoDB.Driver.MongoClient* 
-
-urlMongoDB.Driver.MongoUrlí
-ê
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (.N&
-$Stone.Cobrancas.Data.CobrancaContext"$
-clientMongoDB.Driver.MongoClient"__id*"
- 
-%3MongoDB.Driver.MongoClientí
-ê
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (" 
-%5MongoDB.Driver.MongoClient"__id*P*N&
-$Stone.Cobrancas.Data.CobrancaContext"$
-clientMongoDB.Driver.MongoClientÍ
-Ê
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs/ (?
-%6string"(MongoDB.Driver.MongoUrl.DatabaseName.get* 
-
-urlMongoDB.Driver.MongoUrlª
-§
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (@#
-%7MongoDB.Driver.IMongoDatabase"TMongoDB.Driver.MongoClient.GetDatabase(string, MongoDB.Driver.MongoDatabaseSettings)*"
- 
-%5MongoDB.Driver.MongoClient*
-
-%6string*
-""õ
-ò
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (@S&
-$Stone.Cobrancas.Data.CobrancaContext")
-databaseMongoDB.Driver.IMongoDatabase"__id*%
-#
-%7MongoDB.Driver.IMongoDatabase*
-2*û
-2n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs	 (	"…
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB(&
-$Stone.Cobrancas.Data.CobrancaContext

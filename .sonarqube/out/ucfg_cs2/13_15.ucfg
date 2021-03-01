@@ -1,125 +1,0 @@
-
-ñStone.Clientes.API.Controllers.ClientesController.PostAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/@ /(I"2*»
-0z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs1 4(_“
-œ
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs1  1(7?
-%09Stone.Clientes.Application.Interfaces.IClienteApplication"__id*â*Ü3
-1Stone.Clientes.API.Controllers.ClientesController"O
-clienteApplication9Stone.Clientes.Application.Interfaces.IClienteApplication˙˜
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs1  1(b*
-%1$System.Threading.Tasks.Task<TResult>"üStone.Clientes.Application.Interfaces.IClienteApplication.CriarAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)*A
-?
-%09Stone.Clientes.Application.Interfaces.IClienteApplication*F
-D
-novoCliente5Stone.Clientes.Application.ViewModel.ClienteViewModel*9
-7
-cancellationToken"System.Threading.CancellationToken2eCriarAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)œ
-Ã
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs1 1(b@
-cliente5Stone.Clientes.Application.ViewModel.ClienteViewModel"__id*
-""ê
-ç
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs3 3(!
-%2string"=Stone.Clientes.Application.ViewModel.ClienteViewModel.CPF.get*B
-@
-cliente5Stone.Clientes.Application.ViewModel.ClienteViewModelª
-∏
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs3 3(!$
-cpfStone.Utils.CpfExtensions.Cpf"__id*
-
-%2stringÁ
-‰
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs4< 4(T
-
-%3long"2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()*&
-$
-cpfStone.Utils.CpfExtensions.Cpf∞≠
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs4 4(`4
-%4.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"OMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string, object, object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-""*
-""*B
-@
-cliente5Stone.Clientes.Application.ViewModel.ClienteViewModel2'CreatedAtAction(string, object, object)"¥
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs4 4(a6
-4
-%4.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*ì
-1z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs5	 5(	"ë
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs5 5(	
-implicit return*·
-2|
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/å /(åÂ
-‚
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/@ /(IV
-D
-novoCliente5Stone.Clientes.Application.ViewModel.ClienteViewModel"
-Nomestring"__entrypointÁ
-‰
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/@ /(IX
-D
-novoCliente5Stone.Clientes.Application.ViewModel.ClienteViewModel"
-Estadostring"__entrypoint‰
-·
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/@ /(IU
-D
-novoCliente5Stone.Clientes.Application.ViewModel.ClienteViewModel"
-CPFstring"__entrypointŒ
-À
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/@ /(I
-%5"__entrypoint*9
-7
-cancellationToken"System.Threading.CancellationTokenê
-ç
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs,	 ,(
-%6"
-__annotate*B@
->Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*9
-7
-cancellationToken"System.Threading.CancellationToken´
-®
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs-	 -([
-%7"
-__annotate*][
-YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
-7
-cancellationToken"System.Threading.CancellationToken´
-®
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs.	 .(X
-%8"
-__annotate*][
-YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
-7
-cancellationToken"System.Threading.CancellationTokenﬂ
-‹
-{
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs/h /(ã7
-cancellationToken"System.Threading.CancellationToken"__annotation*
-
-%6*
-
-%7*
-
-%8*
-0:D
-novoCliente5Stone.Clientes.Application.ViewModel.ClienteViewModel:7
-cancellationToken"System.Threading.CancellationTokenB53
-1Stone.Clientes.API.Controllers.ClientesController

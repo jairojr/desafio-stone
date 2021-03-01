@@ -1,31 +1,0 @@
-
-ÜStone.Cobrancas.Domain.Services.CobrancaService.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs$ (."0*ö	
-0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (RÀ
-»
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (+=
-%07Stone.Cobrancas.Domain.Repositories.ICobrancaRepository"__id*Ö*Ç1
-/Stone.Cobrancas.Domain.Services.CobrancaService"M
-cobrancaRepository7Stone.Cobrancas.Domain.Repositories.ICobrancaRepository≈¬
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (S*
-%1$System.Threading.Tasks.Task<TResult>"éStone.Cobrancas.Domain.Repositories.ICobrancaRepository.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)*?
-=
-%07Stone.Cobrancas.Domain.Repositories.ICobrancaRepository*4
-2
-cobranca&Stone.Cobrancas.Domain.Models.Cobranca*9
-7
-cancellationToken"System.Threading.CancellationToken2VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)"É
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (T
-""*ë
-1y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs	 (	"ê
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (	
-implicit return:2
-cobranca&Stone.Cobrancas.Domain.Models.Cobranca:7
-cancellationToken"System.Threading.CancellationTokenB31
-/Stone.Cobrancas.Domain.Services.CobrancaService

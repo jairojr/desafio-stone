@@ -1,5 +1,0 @@
-î
-;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesServiceobjectê
-ßConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)„Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.ConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)ú
-.StartAsync(System.Threading.CancellationToken)jStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StartAsync(System.Threading.CancellationToken)ö
--StopAsync(System.Threading.CancellationToken)iStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StopAsync(System.Threading.CancellationToken)
