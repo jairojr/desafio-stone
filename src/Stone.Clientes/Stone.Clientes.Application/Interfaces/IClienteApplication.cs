@@ -14,10 +14,10 @@ namespace Stone.Clientes.Application.Interfaces
         /// <summary>
         /// Criar 
         /// </summary>
-        /// <param name="cliente"></param>
+        /// <param name="clienteViewModel"></param>
         /// <param name="cancellationToken"></param>
         /// <returns></returns>
-        public Task<ClienteViewModel> CriarAsync(ClienteViewModel cliente, CancellationToken cancellationToken);
+        public Task<ClienteViewModel> CriarAsync(ClienteViewModel clienteViewModel, CancellationToken cancellationToken);
         
         /// <summary>
         /// Obter por Id
@@ -26,14 +26,14 @@ namespace Stone.Clientes.Application.Interfaces
         /// <param name="cancellationToken"></param>
         /// <returns></returns>
         public Task<ClienteViewModel> ObterPorIdAsync(Guid idCliente, CancellationToken cancellationToken);
-        
+
         /// <summary>
         /// Obter por CPF
         /// </summary>
-        /// <param name="cpf"></param>
+        /// <param name="cpfPesquisa"></param>
         /// <param name="cancellationToken"></param>
         /// <returns></returns>
-        public Task<ClienteViewModel> ObterPorCpfAsync(long cpf, CancellationToken cancellationToken);
+        public Task<ClienteViewModel> ObterPorCpfAsync(long cpfPesquisa, CancellationToken cancellationToken);
         
         /// <summary>
         /// Busca por cliente paginado

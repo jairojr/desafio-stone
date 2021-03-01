@@ -15,17 +15,17 @@ namespace Stone.Cobrancas.Application.Interfaces
         /// <summary>
         /// Criar
         /// </summary>
-        /// <param name="cobranca"></param>
+        /// <param name="cobrancaVewModel"></param>
         /// <param name="cancellationToken"></param>
         /// <returns></returns>
-        public Task<CobrancaViewModel> CriarAsync(CobrancaViewModel cobranca, CancellationToken cancellationToken);
-        
+        public Task<CobrancaViewModel> CriarAsync(CobrancaViewModel cobrancaVewModel, CancellationToken cancellationToken);
+
         /// <summary>
         /// Buscar paginado
         /// </summary>
-        /// <param name="busca"></param>
+        /// <param name="buscaViewModel"></param>
         /// <param name="cancellationToken"></param>
         /// <returns></returns>
-        public Task<IEnumerable<CobrancaViewModel>> BuscarAsync(BuscarCobrancaViewModel busca, CancellationToken cancellationToken);
+        public Task<IEnumerable<CobrancaViewModel>> BuscarAsync(BuscarCobrancaViewModel buscaViewModel, CancellationToken cancellationToken);
     }
 }

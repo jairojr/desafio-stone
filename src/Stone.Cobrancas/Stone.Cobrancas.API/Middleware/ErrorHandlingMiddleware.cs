@@ -2,6 +2,7 @@
 using Stone.Utils;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
@@ -11,6 +12,7 @@ namespace Stone.Cobrancas.API.Middleware
     /// <summary>
     /// Middleware responsavel por gerenciar erros da api
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public class ErrorHandlingMiddleware
     {
         private readonly RequestDelegate Next;

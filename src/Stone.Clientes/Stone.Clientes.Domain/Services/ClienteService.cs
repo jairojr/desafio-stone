@@ -14,7 +14,6 @@ using static Stone.Utils.ServiceOperation;
 
 namespace Stone.Clientes.Domain.Services
 {
-    //TODO - Adicionar Testes
     public class ClienteService : IClienteService
     {
         private readonly IClienteRepository clienteRepository;

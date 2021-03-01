@@ -20,7 +20,7 @@ namespace Stone.Cobrancas.Application
     {
         private readonly IMapper mapper;
 
-        public ICobrancaService service { get; }
+        private readonly ICobrancaService service;
 
         private readonly CobrancaViewModelValidation validationInsert;
         private readonly BuscarCobrancaViewModelValidation buscaValidation;

@@ -14,11 +14,11 @@ namespace Stone.Cobrancas.Data.Repositories
 {
     public class CobrancaRepository : ICobrancaRepository
     {
-        private IMongoCollection<CobrancaEntity> cobrancaDb;
+        private readonly IMongoCollection<CobrancaEntity> cobrancaCollection;
 
         public CobrancaRepository(CobrancaContext context)
         {
-            this.cobrancaDb = context.Cobrancas;
+            this.cobrancaCollection = context.Cobrancas;
         }
 
         public CobrancaContext Context { get; }
@@ -45,7 +45,7 @@ namespace Stone.Cobrancas.Data.Repositories
             }
 
 
-            var result = await this.cobrancaDb.Find(Builders<CobrancaEntity>.Filter.And(filtros))
+            var result = await this.cobrancaCollection.Find(Builders<CobrancaEntity>.Filter.And(filtros))
                                         .Skip(skip)
                                         .Limit(busca.Quantidade)
                                         .ToListAsync(cancellationToken);
@@ -64,7 +64,7 @@ namespace Stone.Cobrancas.Data.Repositories
         public async Task<Cobranca> CriarAsync(Cobranca cobranca, CancellationToken cancellationToken)
         {
             var cobrancaDb = new CobrancaEntity(cobranca.Id, cobranca.Data, cobranca.CPF.ObterApenasNumeros(), cobranca.Valor);
-            await this.cobrancaDb.InsertOneAsync(cobrancaDb, null, cancellationToken);
+            await this.cobrancaCollection.InsertOneAsync(cobrancaDb, null, cancellationToken);
             return cobranca;
         }
 

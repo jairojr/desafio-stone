@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Diagnostics.CodeAnalysis;
 
 namespace Stone.Utils
 {
     /// <summary>
     /// Cpf extension
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public class CpfExtensions
     {
         /// <summary>

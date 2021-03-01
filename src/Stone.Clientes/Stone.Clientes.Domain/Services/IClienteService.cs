@@ -10,7 +10,7 @@ namespace Stone.Clientes.Domain.Services
     {
         public Task<Cliente> CriarAsync(Cliente cliente, CancellationToken cancellationToken);
         public Task<Cliente> ObterPorIdAsync(Guid idCliente, CancellationToken cancellationToken);
-        public Task<Cliente> ObterPorCpfAsync(long cpf, CancellationToken cancellationToken);
+        public Task<Cliente> ObterPorCpfAsync(long cpfPesquisa, CancellationToken cancellationToken);
         public Task<IEnumerable<Cliente>> BuscaPaginadaAsync(int pagina, int quantidade, CancellationToken cancellationToken);
     }
 }

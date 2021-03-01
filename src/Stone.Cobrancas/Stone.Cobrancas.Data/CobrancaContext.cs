@@ -11,13 +11,12 @@ namespace Stone.Cobrancas.Data
 {
     public class CobrancaContext
     {
-        private readonly MongoClient client;
         private readonly IMongoDatabase database;
 
         public CobrancaContext(IConfiguration configuration)
         {
             var url = new MongoUrl(configuration["ConnectionStrings:MongoDb"]);
-            this.client = new MongoClient(url);
+            var client = new MongoClient(url);
             this.database = client.GetDatabase(url.DatabaseName);
         }
 
