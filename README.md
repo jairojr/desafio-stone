@@ -27,6 +27,7 @@ dígitos do CPF concatenados aos 2 últimos dígitos do CPF do cliente. Por exem
 
 
 # Projeto Desenvolvido
+[![Build status](https://dev.azure.com/jairojr-desafio-stone/DesafioStone/_apis/build/status/DesafioStone-.NET%20Core%20with%20SonarCloud-CI)](https://dev.azure.com/jairojr-desafio-stone/DesafioStone/_build/latest?definitionId=2)
 
 O Desafio foi desenvolvido criando API Stone.Clientes, API Stone.Cobrancas e um WorkerServices StoneCobrancas que utiliza o domain da Stone.Cobrancas.
 
