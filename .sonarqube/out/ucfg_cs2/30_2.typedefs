@@ -1,7 +1,4 @@
-Œ
-4Stone.Cobrancas.Data.Repositories.CobrancaRepositoryobject©
-8CobrancaRepository(Stone.Cobrancas.Data.CobrancaContext)mStone.Cobrancas.Data.Repositories.CobrancaRepository.CobrancaRepository(Stone.Cobrancas.Data.CobrancaContext)”
-mBuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)¢Stone.Cobrancas.Data.Repositories.CobrancaRepository.BuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)æ
-VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)‹Stone.Cobrancas.Data.Repositories.CobrancaRepository.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)O
-Context.get@Stone.Cobrancas.Data.Repositories.CobrancaRepository.Context.getO
-Context.set@Stone.Cobrancas.Data.Repositories.CobrancaRepository.Context.set
+ß
+@Stone.Clientes.Application.Validation.ClienteViewModelValidation%FluentValidation.AbstractValidator<T>object}
+ClienteViewModelValidation()]Stone.Clientes.Application.Validation.ClienteViewModelValidation.ClienteViewModelValidation()m
+EstadoValido(string)UStone.Clientes.Application.Validation.ClienteViewModelValidation.EstadoValido(string)

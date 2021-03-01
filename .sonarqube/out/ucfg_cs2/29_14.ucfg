@@ -1,59 +1,92 @@
 
-rStone.Clientes.Application.IocExtension.ConfigurarIoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs) (6"0*‡
-0p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs !(≠
-™
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""É
-Ä
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (HA
-%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionÉ
-Ä
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (@A
-%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionÉ
-Ä
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (FA
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionÚ
-Ô
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (8A
-%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionÚ
-Ô
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (;A
-%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection"º
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs! !(H
-F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollection*ˇ
-1p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs"	 "(	"á
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs" "(	
-implicit return:F
-service;Microsoft.Extensions.DependencyInjection.IServiceCollectionB+")
-'Stone.Clientes.Application.IocExtension
+ãStone.Cobrancas.Data.Repositories.CobrancaRepository.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs@$ @(."0*é
+0~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csB D(˚
+¯
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csB0 B(;
+%0System.Guid"-Stone.Cobrancas.Domain.Models.Cobranca.Id.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.CobrancaÅ
+˛
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csB= B(J
+%1System.DateTime"/Stone.Cobrancas.Domain.Models.Cobranca.Data.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobrancaé
+ã
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csBL B(X#
+%2Stone.Utils.CpfExtensions.Cpf".Stone.Cobrancas.Domain.Models.Cobranca.CPF.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.CobrancaÍ
+Á
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csBL B(m
+
+%3long"2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()*%
+#
+%2Stone.Utils.CpfExtensions.Cpf˙
+˜
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csBo B(}
+%4decimal"0Stone.Cobrancas.Domain.Models.Cobranca.Valor.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca·ﬁ
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csB B(~0
+%5*Stone.Cobrancas.Data.Models.CobrancaEntity"*Stone.Cobrancas.Data.Models.CobrancaEntity¯
+ı
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csB! B(/
+
+%6void"fStone.Cobrancas.Data.Models.CobrancaEntity.CobrancaEntity(System.Guid, System.DateTime, long, decimal)*2
+0
+%5*Stone.Cobrancas.Data.Models.CobrancaEntity*
+
+%0System.Guid*
+
+%1System.DateTime*
+
+
+%3long*
+
+%4decimal˜
+Ù
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csB B(~8
+
+cobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity"__id*2
+0
+%5*Stone.Cobrancas.Data.Models.CobrancaEntity±
+Æ
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csC C(!0
+%7*MongoDB.Driver.IMongoCollection<TDocument>"__id*t*r6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"8
+
+cobrancaDb*MongoDB.Driver.IMongoCollection<TDocument>≈¬
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csC C(U!
+%8System.Threading.Tasks.Task"âMongoDB.Driver.IMongoCollection<TDocument>.InsertOneAsync(TDocument, MongoDB.Driver.InsertOneOptions, System.Threading.CancellationToken)*2
+0
+%7*MongoDB.Driver.IMongoCollection<TDocument>*:
+8
+
+cobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken2^InsertOneAsync(TDocument, MongoDB.Driver.InsertOneOptions, System.Threading.CancellationToken)"∂
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csD D(4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca*õ
+1~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csE	 E(	"ï
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csE E(	
+implicit return:2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca:7
+cancellationToken"System.Threading.CancellationTokenB86
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

@@ -1,11 +1,9 @@
-¯
- Stone.Utils.ResultadoPaginado<T>objectK
-ResultadoPaginado()4Stone.Utils.ResultadoPaginado<T>.ResultadoPaginado()5
-Page.get)Stone.Utils.ResultadoPaginado<T>.Page.get5
-Page.set)Stone.Utils.ResultadoPaginado<T>.Page.set5
-Size.get)Stone.Utils.ResultadoPaginado<T>.Size.get5
-Size.set)Stone.Utils.ResultadoPaginado<T>.Size.set5
-Data.get)Stone.Utils.ResultadoPaginado<T>.Data.get5
-Data.set)Stone.Utils.ResultadoPaginado<T>.Data.set5
-Next.get)Stone.Utils.ResultadoPaginado<T>.Next.get5
-Next.set)Stone.Utils.ResultadoPaginado<T>.Next.set
+½
+Stone.Utils.ErrorModelobjectO
+ErrorModel(string, string)1Stone.Utils.ErrorModel.ErrorModel(string, string)/
+
+Codigo.get!Stone.Utils.ErrorModel.Codigo.get/
+
+Codigo.set!Stone.Utils.ErrorModel.Codigo.set3
+Mensagem.get#Stone.Utils.ErrorModel.Mensagem.get3
+Mensagem.set#Stone.Utils.ErrorModel.Mensagem.set

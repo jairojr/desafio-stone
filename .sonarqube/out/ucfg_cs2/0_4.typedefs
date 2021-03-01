@@ -1,10 +1,3 @@
-Ü
-Stone.Utils.ValidacaoExceptionSystem.Exceptionobjectg
-"ValidacaoException(string, string)AStone.Utils.ValidacaoException.ValidacaoException(string, string)K
-ValidacaoException()3Stone.Utils.ValidacaoException.ValidacaoException()7
-
-Codigo.get)Stone.Utils.ValidacaoException.Codigo.get7
-
-Codigo.set)Stone.Utils.ValidacaoException.Codigo.set;
-Mensagem.get+Stone.Utils.ValidacaoException.Mensagem.get;
-Mensagem.set+Stone.Utils.ValidacaoException.Mensagem.set
+Ç
+&Stone.Utils.MultiplaValidacaoExceptionStone.Utils.ValidacaoExceptionSystem.Exceptionobjectâ
+[MultiplaValidacaoException(System.Collections.Generic.List<Stone.Utils.ValidacaoException>)‚Stone.Utils.MultiplaValidacaoException.MultiplaValidacaoException(System.Collections.Generic.List<Stone.Utils.ValidacaoException>)

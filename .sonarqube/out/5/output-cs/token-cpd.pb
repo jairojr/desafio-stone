@@ -1,713 +1,840 @@
-î
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs
-	namespace
-
- 	
-Stone
-
-
+˜
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\ClienteViewModel.cs
+	namespace 	
+Stone
  
-.
-
- 
-	Cobrancas
-
- 
-.
-
- 
-Data
-
- 
-{ 
-public 
+. 
+	Cobrancas 
+. 
+Worker  
+.  !
+Models! '
+{ 
+public 
 
-class 
-CobrancaContext  
-{ 
-private 
-readonly 
-MongoClient $
-client% +
-;+ ,
-private 
-readonly 
-IMongoDatabase '
-database( 0
-;0 1
-public 
-CobrancaContext 
-( 
-IConfiguration -
-configuration. ;
-); <
-{ 	
-var 
-url 
-= 
-new 
-MongoUrl "
-(" #
-configuration# 0
-[0 1
-$str1 L
-]L M
-)M N
-;N O
-this 
-. 
-client 
-= 
-new 
-MongoClient )
-() *
-url* -
-)- .
-;. /
-this 
-. 
-database 
-= 
-client "
-." #
-GetDatabase# .
-(. /
-url/ 2
-.2 3
-DatabaseName3 ?
-)? @
-;@ A
-} 	
-public 
-IMongoCollection 
-<  
-CobrancaEntity  .
->. /
-	Cobrancas0 9
-{ 	
-get 
-{ 
-return 
-database 
-.  
-GetCollection  -
-<- .
-CobrancaEntity. <
->< =
-(= >
-$str> I
-)I J
-;J K
-} 
-} 	
-public   
-async   
-Task   
-ConfigureMongoIndex   -
-(  - .
-CancellationToken  . ?
-cancellationToken  @ Q
-)  Q R
-{!! 	
-var"" 
-indexKeyCpf"" 
-="" 
-Builders"" &
-<""& '
-CobrancaEntity""' 5
->""5 6
-.""6 7
-	IndexKeys""7 @
-.""@ A
-	Ascending""A J
-(""J K
-x""K L
-=>""M O
-x""P Q
-.""Q R
-CPF""R U
-)""U V
-;""V W
-var## 
-indexDataCobranca## !
-=##" #
-Builders##$ ,
-<##, -
-CobrancaEntity##- ;
->##; <
-.##< =
-	IndexKeys##= F
-.##F G
-	Ascending##G P
-(##P Q
-x##Q R
-=>##S U
-x##V W
-.##W X
-Data##X \
-)##\ ]
-;##] ^
-var%% 
-listIndexCobranca%% !
-=%%" #
-new%%$ '
-List%%( ,
-<%%, -
-CreateIndexModel%%- =
-<%%= >
-CobrancaEntity%%> L
->%%L M
->%%M N
-(%%N O
-)%%O P
-{&& 
-new'' 
-CreateIndexModel'' $
-<''$ %
-CobrancaEntity''% 3
->''3 4
-(''4 5
-indexKeyCpf''5 @
-)''@ A
-,''A B
-new(( 
-CreateIndexModel(( $
-<(($ %
-CobrancaEntity((% 3
->((3 4
-(((4 5
-indexDataCobranca((5 F
-)((F G
-,((G H
-})) 
-;)) 
-await** 
-	Cobrancas** 
-.** 
-Indexes** #
-.**# $
-CreateManyAsync**$ 3
-(**3 4
-listIndexCobranca**4 E
-,**E F
-cancellationToken**G X
-:**X Y
-cancellationToken**Z k
-)**k l
-;**l m
-}++ 	
-},, 
-}-- ñ
-jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs
-	namespace 	
-Stone
+class 
+ClienteViewModel !
+{ 
+public		 
+string		 
+CPF		 
+{		 
+get		 
+;		  
+set		! $
+;		$ %
+}		& '
+}
+
+ 
+} Î
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.cs
+	namespace 	
+Stone
  
-. 
-	Cobrancas 
-. 
-Data 
-. 
-Models %
-{ 
-public		 
-
-class		 
-CobrancaEntity		 
-{
+. 
+	Cobrancas 
+. 
+Worker  
+.  !
+Models! '
+{ 
+public
 
- 
-[ 	
-BsonRepresentation	 
-( 
-BsonType $
-.$ %
-String% +
-)+ ,
-], -
-public 
-Guid 
-Id 
-{ 
-get 
-; 
-private %
-set& )
-;) *
-}+ ,
-public 
-DateTime 
-Data 
-{ 
-get "
-;" #
-private$ +
-set, /
-;/ 0
-}1 2
-public 
-long 
-CPF 
-{ 
-get 
-; 
-private &
-set' *
-;* +
-}, -
-public 
-decimal 
-Valor 
-{ 
-get "
-;" #
-private$ +
-set, /
-;/ 0
-}1 2
-public 
-CobrancaEntity 
-( 
-Guid "
-id# %
-,% &
-DateTime' /
-data0 4
-,4 5
-long6 :
-cPF; >
-,> ?
-decimal@ G
-valorH M
-)M N
-{ 	
-Id 
-= 
-id 
-; 
-Data 
-= 
-data 
-; 
-CPF 
-= 
-cPF 
-; 
-Valor 
-= 
-valor 
-; 
-} 	
-} 
-} «8
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs
+ 
+
+class
+
+ 
+CobrancaViewModel
+
+ "
+{ 
+public 
+DateTime 
+Data 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+CPF 
+{ 
+get 
+;  
+set! $
+;$ %
+}& '
+public 
+decimal 
+Valor 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+} 
+} ‰
+^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs
+	namespace		 	
+Stone		
+ 
+.		 
+	Cobrancas		 
+.		 
+Worker		  
+{
+
+ 
+public 
+
+class 
+Program 
+{ 
+public 
+static 
+void 
+Main 
+(  
+string  &
+[& '
+]' (
+args) -
+)- .
+{ 	
+CreateHostBuilder 
+( 
+args "
+)" #
+.# $
+Build$ )
+() *
+)* +
+.+ ,
+Run, /
+(/ 0
+)0 1
+;1 2
+} 	
+public 
+static 
+IHostBuilder "
+CreateHostBuilder# 4
+(4 5
+string5 ;
+[; <
+]< =
+args> B
+)B C
+=>D F
+Host 
+.  
+CreateDefaultBuilder %
+(% &
+args& *
+)* +
+. 
+ConfigureServices "
+(" #
+(# $
+hostContext$ /
+,/ 0
+services1 9
+)9 :
+=>; =
+{ 
+services 
+. 
+AddHttpClient *
+<* +
+ClienteService+ 9
+>9 :
+(: ;
+); <
+;< =
+services 
+. 
+AddHttpClient *
+<* +
+CobrancaService+ :
+>: ;
+(; <
+)< =
+;= >
+services 
+. 
+AddHostedService -
+<- .
+Worker. 4
+>4 5
+(5 6
+)6 7
+;7 8
+} 
+) 
+; 
+} 
+} ˆ
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs
 	namespace 	
 Stone
  
 . 
 	Cobrancas 
-. 
-Data 
-. 
-Repositories +
+. 
+Worker  
+.  !
+Services! )
 { 
 public 
 
-class 
-CobrancaRepository #
-:$ %
-ICobrancaRepository& 9
+class 
+ClienteService 
 { 
-private 
-IMongoCollection  
-<  !
-CobrancaEntity! /
->/ 0
+private 
+readonly 
 
-cobrancaDb1 ;
-;; <
-public 
-CobrancaRepository !
-(! "
-CobrancaContext" 1
-context2 9
-)9 :
-{ 	
-this 
-. 
+HttpClient #
+_httpClient$ /
+;/ 0
+public 
+ClienteService 
+( 
 
-cobrancaDb 
-= 
-context %
-.% &
-	Cobrancas& /
-;/ 0
-} 	
-public 
-CobrancaContext 
-Context &
-{' (
-get) ,
-;, -
-}. /
+HttpClient (
+
+httpClient) 3
+,3 4
+IConfiguration5 C
+configurationD Q
+)Q R
+{ 	
+
+httpClient 
+. 
+BaseAddress "
+=# $
+new% (
+Uri) ,
+(, -
+configuration- :
+[: ;
+$str; U
+]U V
+)V W
+;W X
+_httpClient 
+= 
+
+httpClient $
+;$ %
+} 	
 public 
 async 
 Task 
-< 
-IEnumerable %
-<% &
-Cobranca& .
->. /
->/ 0
+< 
+ResultadoPaginado +
+<+ ,
+ClienteViewModel, <
+>< =
+>= >
+GetClientes? J
+(J K
+intK N
+paginaO U
+,U V
+intW Z
 
-BuscaAsync1 ;
-(; <%
-BuscarCobrancaValueObject< U
-buscaV [
-,[ \
-CancellationToken] n
-cancellationToken	o €
+quantidade[ e
+,e f
+CancellationTokeng x
+CancellationToken	y Š
 )
-€ 
+Š ‹
 { 	
-int 
-skip 
-= 
-( 
-busca 
-. 
-Pagina $
--% &
-$num' (
-)( )
-** +
-busca, 1
-.1 2
+var 
+uri 
+= 
+$" 
+/api/Clientes?page= +
+{+ ,
+pagina, 2
+}2 3
+&size=3 9
+{9 :
 
-Quantidade2 <
-;< =
-List 
-< 
-FilterDefinition !
-<! "
-CobrancaEntity" 0
->0 1
->1 2
-filtros3 :
-=; <
-new= @
-ListA E
-<E F
-FilterDefinitionF V
-<V W
-CobrancaEntityW e
->e f
->f g
-(g h
-)h i
-;i j
-if!! 
-(!! 
-busca!! 
-.!! 
-CPF!! 
-.!! 
-HasValue!! "
-)!!" #
-{"" 
-var## 
-cpf## 
-=## 
-busca## 
-.##  
-CPF##  #
-.### $
-Value##$ )
-.##) *
-ObterApenasNumeros##* <
-(##< =
-)##= >
-;##> ?
-filtros$$ 
-.$$ 
-Add$$ 
-($$ 
-Builders$$ $
-<$$$ %
-CobrancaEntity$$% 3
->$$3 4
-.$$4 5
-Filter$$5 ;
-.$$; <
-Eq$$< >
-($$> ?
-x$$? @
-=>$$A C
-x$$D E
-.$$E F
-CPF$$F I
-,$$I J
-cpf$$K N
-)$$N O
-)$$O P
-;$$P Q
-}%% 
-if'' 
-('' 
-busca'' 
-.'' 
-Ano'' 
-.'' 
-HasValue'' "
-)''" #
-{(( 
-var)) 
-dataInicial)) 
-=))  !
-new))" %
-DateTime))& .
-()). /
-busca))/ 4
-.))4 5
-Ano))5 8
-.))8 9
-Value))9 >
-,))> ?
-busca))@ E
-.))E F
-Mes))F I
-.))I J
-Value))J O
-,))O P
-$num))Q R
+quantidade: D
+}D E
+"E F
+;F G
+return 
+await 
+_httpClient $
+.$ %
+GetFromJsonAsync% 5
+<5 6
+ResultadoPaginado6 G
+<G H
+ClienteViewModelH X
+>X Y
+>Y Z
+(Z [
+uri[ ^
+,^ _
+CancellationToken` q
+)q r
+;r s
+} 	
+}   
+}!! Ï
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Worker  
+.  !
+Services! )
+{ 
+public 
+
+class 
+CobrancaService  
+{ 
+private 
+readonly 
+
+HttpClient #
+_httpClient$ /
+;/ 0
+public 
+CobrancaService 
+( 
+
+HttpClient )
+
+httpClient* 4
+,4 5
+IConfiguration6 D
+configurationE R
+)R S
+{ 	
+
+httpClient 
+. 
+BaseAddress "
+=# $
+new% (
+Uri) ,
+(, -
+configuration- :
+[: ;
+$str; V
+]V W
+)W X
+;X Y
+_httpClient 
+= 
+
+httpClient $
+;$ %
+} 	
+public 
+async 
+Task 
+< 
+bool 
+> 
+InserirCobranca  /
+(/ 0
+CobrancaViewModel0 A
+cobrancaB J
+,J K
+CancellationTokenL ]
+cancellationToken^ o
+)o p
+{ 	
+var 
+uri 
+= 
+$" 
+/api/cobranca %
+"% &
+;& '
+var 
+response 
+= 
+await  
+_httpClient! ,
+., -
+PostAsJsonAsync- <
+(< =
+uri= @
+,@ A
+cobrancaB J
+,J K
+cancellationTokenL ]
+)] ^
+;^ _
+return 
+response 
+. 
+IsSuccessStatusCode /
+;/ 0
+} 	
+}   
+}!! ‡B
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Worker  
+{ 
+public 
+
+class 
+Worker 
+: 
+BackgroundService +
+{ 
+private 
+readonly 
+ILogger  
+<  !
+Worker! '
+>' (
+_logger) 0
+;0 1
+private 
+readonly 
+ClienteService '
+clienteService( 6
+;6 7
+private 
+readonly 
+CobrancaService (
+cobrancaService) 8
+;8 9
+private 
+readonly 
+int ,
+ intervaloEntreCobrancasEmMinutos =
+;= >
+private 
+readonly 
+int #
+clientesQuantidadeBusca 4
+;4 5
+private 
+readonly 
+int !
+delayInicioEmSegundos 2
+;2 3
+public 
+Worker 
+( 
+ILogger 
+< 
+Worker $
+>$ %
+logger& ,
+,, -
+ClienteService $
+clienteService% 3
+,3 4
+CobrancaService %
+cobrancaService& 5
+,5 6
+IConfiguration $
+configuration% 2
+)2 3
+{ 	
+_logger   
+=   
+logger   
+;   
+this!! 
+.!! 
+clienteService!! 
+=!!  !
+clienteService!!" 0
+;!!0 1
+this"" 
+."" 
+cobrancaService""  
+=""! "
+cobrancaService""# 2
+;""2 3
+this$$ 
+.$$ ,
+ intervaloEntreCobrancasEmMinutos$$ 1
+=$$2 3
+configuration$$4 A
+.$$A B
+GetValue$$B J
+<$$J K
+int$$K N
+>$$N O
+($$O P
+$str$$P r
+)$$r s
+;$$s t
+this%% 
+.%% #
+clientesQuantidadeBusca%% (
+=%%) *
+configuration%%+ 8
+.%%8 9
+GetValue%%9 A
+<%%A B
+int%%B E
+>%%E F
+(%%F G
+$str%%G s
+)%%s t
+;%%t u
+this&& 
+.&& !
+delayInicioEmSegundos&& &
+=&&' (
+configuration&&) 6
+.&&6 7
+GetValue&&7 ?
+<&&? @
+int&&@ C
+>&&C D
+(&&D E
+$str&&E \
+)&&\ ]
+;&&] ^
+}'' 	
+	protected)) 
+override)) 
+async))  
+Task))! %
+ExecuteAsync))& 2
+())2 3
+CancellationToken))3 D
+stoppingToken))E R
 )))R S
-;))S T
-var** 
-	dataFinal** 
-=** 
-dataInicial**  +
-.**+ ,
-	AddMonths**, 5
-(**5 6
-$num**6 7
-)**7 8
-.**8 9
-AddMilliseconds**9 H
-(**H I
--**I J
-$num**J K
-)**K L
-;**L M
-filtros++ 
-.++ 
-Add++ 
-(++ 
-Builders++ $
-<++$ %
-CobrancaEntity++% 3
->++3 4
-.++4 5
-Filter++5 ;
-.++; <
-Gte++< ?
-(++? @
-x++@ A
-=>++B D
-x++E F
-.++F G
-Data++G K
-,++K L
-dataInicial++M X
-)++X Y
-)++Y Z
-;++Z [
-filtros,, 
-.,, 
-Add,, 
-(,, 
-Builders,, $
-<,,$ %
-CobrancaEntity,,% 3
->,,3 4
-.,,4 5
-Filter,,5 ;
-.,,; <
-Lte,,< ?
-(,,? @
-x,,@ A
-=>,,B D
-x,,E F
-.,,F G
-Data,,G K
-,,,K L
-	dataFinal,,M V
-),,V W
-),,W X
-;,,X Y
-}-- 
-var00 
-result00 
-=00 
-await00 
-this00 #
-.00# $
-
-cobrancaDb00$ .
-.00. /
-Find00/ 3
-(003 4
-Builders004 <
-<00< =
-CobrancaEntity00= K
->00K L
-.00L M
-Filter00M S
-.00S T
-And00T W
-(00W X
-filtros00X _
-)00_ `
-)00` a
-.11( )
-Skip11) -
-(11- .
-skip11. 2
-)112 3
-.22( )
-Limit22) .
-(22. /
-busca22/ 4
-.224 5
-
-Quantidade225 ?
-)22? @
-.33( )
-ToListAsync33) 4
-(334 5
-cancellationToken335 F
-)33F G
-;33G H
-return55 
-result55 
-.55 
-Select55  
-(55  !!
-RetornaCobrancaDomain55! 6
-)556 7
-;557 8
-}66 	
-private88 
-static88 
-Cobranca88 !
-RetornaCobrancaDomain88  5
-(885 6
-CobrancaEntity886 D
-
-CobrancaDb88E O
-)88O P
-{99 	
-if:: 
-(:: 
-
-CobrancaDb:: 
-==:: 
-null:: "
-)::" #
-return;; 
-null;; 
-;;; 
-return== 
-new== 
-Cobranca== 
-(==  
-
-CobrancaDb==  *
-.==* +
-Id==+ -
-,==- .
-
-CobrancaDb==/ 9
-.==9 :
-Data==: >
-,==> ?
-
-CobrancaDb==@ J
-.==J K
-CPF==K N
-.==N O
-ToString==O W
-(==W X
-)==X Y
-,==Y Z
-
-CobrancaDb==[ e
-.==e f
-Valor==f k
-)==k l
-;==l m
-}>> 	
-public@@ 
-async@@ 
-Task@@ 
-<@@ 
-Cobranca@@ "
->@@" #
-
-CriarAsync@@$ .
-(@@. /
-Cobranca@@/ 7
-cobranca@@8 @
-,@@@ A
-CancellationToken@@B S
-cancellationToken@@T e
-)@@e f
-{AA 	
-varBB 
-
-cobrancaDbBB 
-=BB 
-newBB  
-CobrancaEntityBB! /
-(BB/ 0
-cobrancaBB0 8
-.BB8 9
-IdBB9 ;
-,BB; <
-cobrancaBB= E
-.BBE F
-DataBBF J
-,BBJ K
-cobrancaBBL T
-.BBT U
-CPFBBU X
-.BBX Y
-ObterApenasNumerosBBY k
-(BBk l
-)BBl m
-,BBm n
-cobrancaBBo w
-.BBw x
-ValorBBx }
-)BB} ~
-;BB~ 
-awaitCC 
-thisCC 
-.CC 
-
-cobrancaDbCC !
-.CC! "
-InsertOneAsyncCC" 0
-(CC0 1
-
-cobrancaDbCC1 ;
-,CC; <
-nullCC= A
-,CCA B
-cancellationTokenCCC T
-)CCT U
-;CCU V
-returnDD 
-cobrancaDD 
-;DD 
-}EE 	
-}HH 
-}II 
+{** 	
+_logger++ 
+.++ 
+LogInformation++ "
+(++" #
+$str++# W
+,++W X!
+delayInicioEmSegundos++Y n
+)++n o
+;++o p
+await,, 
+Task,, 
+.,, 
+Delay,, 
+(,, 
+TimeSpan,, %
+.,,% &
+FromSeconds,,& 1
+(,,1 2!
+delayInicioEmSegundos,,2 G
+),,G H
+),,H I
+;,,I J
+while-- 
+(-- 
+!-- 
+stoppingToken-- !
+.--! "#
+IsCancellationRequested--" 9
+)--9 :
+{.. 
+_logger// 
+.// 
+LogInformation// &
+(//& '
+$str//' M
+,//M N
+DateTimeOffset//O ]
+.//] ^
+Now//^ a
+)//a b
+;//b c
+ConcurrentBag11 
+<11 
+Task11 "
+>11" #
+insercoesCobranca11$ 5
+=116 7
+new118 ;
+ConcurrentBag11< I
+<11I J
+Task11J N
+>11N O
+(11O P
+)11P Q
+;11Q R
+ResultadoPaginado22 !
+<22! "
+ClienteViewModel22" 2
+>222 3
+	listaCpfs224 =
+=22> ?
+new22@ C
+ResultadoPaginado22D U
+<22U V
+ClienteViewModel22V f
+>22f g
+(22g h
+)22h i
+;22i j
+int33 
+pagina33 
+=33 
+$num33 
+;33 
+do44 
+{55 
+_logger66 
+.66 
+LogInformation66 *
+(66* +
+$str66+ m
+,66m n
+pagina66o u
+)66u v
+;66v w
+	listaCpfs77 
+=77 
+await77  %
+clienteService77& 4
+.774 5
+GetClientes775 @
+(77@ A
+pagina77A G
+,77G H#
+clientesQuantidadeBusca77I `
+,77` a
+stoppingToken77b o
+)77o p
+;77p q
+foreach88 
+(88 
+var88  
+cliente88! (
+in88) +
+	listaCpfs88, 5
+.885 6
+Data886 :
+)88: ;
+{99 
+var:: 
+task::  
+=::! "%
+EnviarCobrancaParaCliente::# <
+(::< =
+cliente::= D
+,::D E
+stoppingToken::F S
+)::S T
+;::T U
+insercoesCobranca;; )
+.;;) *
+Add;;* -
+(;;- .
+task;;. 2
+);;2 3
+;;;3 4
+}<< 
+pagina== 
+++== 
+;== 
+}>> 
+while?? 
+(?? 
+	listaCpfs??  
+.??  !
+Next??! %
+!=??& (
+null??) -
+)??- .
+;??. /
+awaitAA 
+TaskAA 
+.AA 
+WhenAllAA "
+(AA" #
+insercoesCobrancaAA# 4
+)AA4 5
+;AA5 6
+_loggerBB 
+.BB 
+LogInformationBB &
+(BB& '
+$strBB' `
+,BB` a
+insercoesCobrancaBBb s
+.BBs t
+CountBBt y
+)BBy z
+;BBz {
+_loggerCC 
+.CC 
+LogInformationCC &
+(CC& '
+$str	CC' ‰
+,
+CC‰ Š.
+ intervaloEntreCobrancasEmMinutos
+CC‹ «
+)
+CC« ¬
+;
+CC¬ ­
+awaitDD 
+TaskDD 
+.DD 
+DelayDD  
+(DD  !
+TimeSpanDD! )
+.DD) *
+FromMinutesDD* 5
+(DD5 6,
+ intervaloEntreCobrancasEmMinutosDD6 V
+)DDV W
+)DDW X
+;DDX Y
+}EE 
+}FF 	
+privateHH 
+asyncHH 
+TaskHH %
+EnviarCobrancaParaClienteHH 4
+(HH4 5
+ClienteViewModelHH5 E
+clienteHHF M
+,HHM N
+CancellationTokenHHO `
+cancellationTokenHHa r
+)HHr s
+{II 	
+varJJ 
+cobrancaJJ 
+=JJ 
+CobrancaJJ #
+.JJ# $
+CriarCobrancaJJ$ 1
+(JJ1 2
+clienteJJ2 9
+.JJ9 :
+CPFJJ: =
+)JJ= >
+;JJ> ?
+varLL 
+cobrancaInserirLL 
+=LL  !
+newLL" %
+CobrancaViewModelLL& 7
+(LL7 8
+)LL8 9
+{MM 
+CPFNN 
+=NN 
+cobrancaNN 
+.NN 
+CPFNN "
+.NN" #
+ObterComMascaraNN# 2
+(NN2 3
+)NN3 4
+,NN4 5
+DataOO 
+=OO 
+cobrancaOO 
+.OO  
+DataOO  $
+,OO$ %
+ValorPP 
+=PP 
+cobrancaPP  
+.PP  !
+ValorPP! &
+,PP& '
+}QQ 
+;QQ 
+_loggerSS 
+.SS 
+LogInformationSS "
+(SS" #
+$strSS# Y
+,SSY Z
+clienteSS[ b
+.SSb c
+CPFSSc f
+,SSf g
+cobrancaSSh p
+.SSp q
+ValorSSq v
+)SSv w
+;SSw x
+varUU 
+cobrancaInseridaUU  
+=UU! "
+awaitUU# (
+thisUU) -
+.UU- .
+cobrancaServiceUU. =
+.UU= >
+InserirCobrancaUU> M
+(UUM N
+cobrancaInserirUUN ]
+,UU] ^
+cancellationTokenUU_ p
+)UUp q
+;UUq r
+ifXX 
+(XX 
+cobrancaInseridaXX  
+)XX  !
+_loggerYY 
+.YY 
+LogInformationYY &
+(YY& '
+$strYY' k
+,YYk l
+clienteYYm t
+.YYt u
+CPFYYu x
+,YYx y
+cobranca	YYz ‚
+.
+YY‚ ƒ
+Valor
+YYƒ ˆ
+)
+YYˆ ‰
+;
+YY‰ Š
+elseZZ 
+_logger[[ 
+.[[ 
+LogError[[  
+([[  !
+$str[[! _
+,[[_ `
+cliente[[a h
+.[[h i
+CPF[[i l
+)[[l m
+;[[m n
+}^^ 	
+}__ 
+}`` 

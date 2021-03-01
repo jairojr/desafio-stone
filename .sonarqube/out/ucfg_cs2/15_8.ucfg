@@ -1,31 +1,18 @@
 
-ˆStone.Cobrancas.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs ("1*o
-1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs 	  (	*
-0*Ñ
+#Stone.Cobrancas.API.Startup.Env.sete
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (-"0*º
 0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs (¹
-¶
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs. (.‡
+„
 e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration"-Stone.Cobrancas.API.Startup.Configuration.set*
-Stone.Cobrancas.API.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration£
- 
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.X
+Stone.Cobrancas.API.Startup"7
+Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*;
+9
+value0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"Ã
 e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs (6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment"#Stone.Cobrancas.API.Startup.Env.set*
-Stone.Cobrancas.API.Startup*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-2*è
-2e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs 	  (	"|
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs   (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfiguration:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.Z*X
+Stone.Cobrancas.API.Startup"7
+Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment:9
+value0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
 Stone.Cobrancas.API.Startup

@@ -1,3 +1,5 @@
-W
-Stone.Clientes.API.Programobject1
-	Program()$Stone.Clientes.API.Program.Program()
+ï
+5Stone.Clientes.API.Middleware.ErrorHandlingMiddlewareobject¾
+BErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)xStone.Clientes.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)”
+-Invoke(Microsoft.AspNetCore.Http.HttpContext)cStone.Clientes.API.Middleware.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)Õ
+MHandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)ƒStone.Clientes.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)

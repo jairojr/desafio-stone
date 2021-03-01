@@ -1,40 +1,18 @@
 
-èStone.Clientes.Domain.Validation.ClienteInsertValidation.ValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs"! "(4"0*Á
-
-0Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(uÿ
-’
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(,;
-%05Stone.Clientes.Domain.Repositories.IClienteRepository"__id*ã*à:
-8Stone.Clientes.Domain.Validation.ClienteInsertValidation"J
-clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepositoryÔ
-Ï
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$J $(b
-
-%1long"2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()*&
-$
-cpfStone.Utils.CpfExtensions.CpfÅ˛
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(v*
-%2$System.Threading.Tasks.Task<TResult>"|Stone.Clientes.Domain.Repositories.IClienteRepository.VerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)*=
-;
-%05Stone.Clientes.Domain.Repositories.IClienteRepository*
-
-
-%1long*9
-7
-cancellationToken"System.Threading.CancellationToken2FVerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)"å
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(x
-""*£
-1Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs%	 %(	"ô
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs% %(	
-implicit return:$
-cpfStone.Utils.CpfExtensions.Cpf:7
-cancellationToken"System.Threading.CancellationTokenB<:
-8Stone.Clientes.Domain.Validation.ClienteInsertValidation
+EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.setá
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (""0*ç
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs# (#ê
+ç
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+AnoSystem.Nullable<T>"__id*
+
+valueSystem.Nullable<T>"Í
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#^*\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+AnoSystem.Nullable<T>:
+valueSystem.Nullable<T>BA?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject

@@ -1,39 +1,33 @@
 
-7Stone.Cobrancas.API.Program.CreateHostBuilder(string[])e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs!# !(4"0*Ô
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs" *(˜
-•
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs" "(+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]Ò
-Ï
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs" &(/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-""Ú
-×
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs" *(/
-%2)Microsoft.Extensions.Hosting.IHostBuilder"ÂMicrosoft.Extensions.Hosting.HostingHostBuilderExtensions.ConfigureServices(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.Extensions.DependencyInjection.IServiceCollection>)*=";
-9Microsoft.Extensions.Hosting.HostingHostBuilderExtensions*1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*
-"""š
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs" *(1
-/
-%2)Microsoft.Extensions.Hosting.IHostBuilder*è
-1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs* *("|
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs* *(
-implicit return:
-argsstring[]B"
-Stone.Cobrancas.API.Program
+xStone.Cobrancas.API.Configuration.SwaggerConfiguration.UseSwaggerStone(Microsoft.AspNetCore.Builder.IApplicationBuilder)€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs ,  (;"0*´
+
+0€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs" ((ï
+ì
+€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs" "(46
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
+5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""ø
+õ
+€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs" &(6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"¸Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
+7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*8
+6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder*
+"""¾
+€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs( ((9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*¡
+1€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs)	 )(	"˜
+€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs) )(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderB:"8
+6Stone.Cobrancas.API.Configuration.SwaggerConfiguration

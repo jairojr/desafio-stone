@@ -1,18 +1,27 @@
 
-EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.Ano.setá
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (""0*ç
-0á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs# (#ê
-ç
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (#\?
-=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
-AnoSystem.Nullable<T>"__id*
-
-valueSystem.Nullable<T>"Í
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (#^*\?
-=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
-AnoSystem.Nullable<T>:
-valueSystem.Nullable<T>BA?
-=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel
+[Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.ValidarCpf(string)ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csE E("0*∆
+0ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csG H(Ÿ
+÷
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csG G($
+cpfStone.Utils.CpfExtensions.Cpf"__id*
+
+cpfStrstring≠
+™
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csH H(
+%0"__id*
+"""û
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csH H( 
+
+%0*«
+1ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csI	 I(	"´
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csI I(	
+implicit return:
+cpfStrstringBLJ
+HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation

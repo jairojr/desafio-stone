@@ -1,49 +1,87 @@
 
-hStone.Clientes.Application.ClienteApplication.ObterPorCpfAsync(long, System.Threading.CancellationToken)v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csB, B(<"0*∑
-0v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD F(<Æ
-´
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD  D(.4
-%0.Stone.Clientes.Domain.Services.IClienteService"__id*u*s/
--Stone.Clientes.Application.ClienteApplication"@
-clienteService.Stone.Clientes.Domain.Services.IClienteService…∆
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD  D(W*
-%1$System.Threading.Tasks.Task<TResult>"iStone.Clientes.Domain.Services.IClienteService.ObterPorCpfAsync(long, System.Threading.CancellationToken)*6
-4
-%0.Stone.Clientes.Domain.Services.IClienteService*
-""*9
-7
-cancellationToken"System.Threading.CancellationToken2:ObterPorCpfAsync(long, System.Threading.CancellationToken)∫
+gStone.Cobrancas.Data.CobrancaContext.CobrancaContext(Microsoft.Extensions.Configuration.IConfiguration)n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("1*x
+1n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs	 (	*
+0*ë
+0n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (?ºπ
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs# (M
+%0string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+ConnectionStrings:MongoDb2this[string].get´®
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (N
+%1MongoDB.Driver.MongoUrl"MongoDB.Driver.MongoUrl⁄
+◊
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("
+
+%2void"(MongoDB.Driver.MongoUrl.MongoUrl(string)*
+
+%1MongoDB.Driver.MongoUrl*
+
+%0string∫
 ∑
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD D(W/
-cliente$Stone.Clientes.Domain.Models.Cliente"__id*
-""Ó
-Î
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csF F(
-%2AutoMapper.IMapper"__id*Q*O/
--Stone.Clientes.Application.ClienteApplication"
-mapperAutoMapper.IMapper‘—
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csF F(=;
-%35Stone.Clientes.Application.ViewModel.ClienteViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%2AutoMapper.IMapper*1
-/
-cliente$Stone.Clientes.Domain.Models.Cliente2Map<TDestination>(object)"∑
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csF F(>=
-;
-%35Stone.Clientes.Application.ViewModel.ClienteViewModel*ã
-1v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csG	 G(	"ç
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csG G(	
-implicit return:
-cpflong:7
-cancellationToken"System.Threading.CancellationTokenB1/
--Stone.Clientes.Application.ClienteApplication
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (N
+urlMongoDB.Driver.MongoUrl"__id*
+
+%1MongoDB.Driver.MongoUrl±Æ
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (. 
+%3MongoDB.Driver.MongoClient"MongoDB.Driver.MongoClientÜ
+É
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ()
+
+%4void"?MongoDB.Driver.MongoClient.MongoClient(MongoDB.Driver.MongoUrl)*"
+ 
+%3MongoDB.Driver.MongoClient* 
+
+urlMongoDB.Driver.MongoUrlÌ
+Í
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (.N&
+$Stone.Cobrancas.Data.CobrancaContext"$
+clientMongoDB.Driver.MongoClient"__id*"
+ 
+%3MongoDB.Driver.MongoClientÌ
+Í
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (" 
+%5MongoDB.Driver.MongoClient"__id*P*N&
+$Stone.Cobrancas.Data.CobrancaContext"$
+clientMongoDB.Driver.MongoClientÕ
+ 
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs/ (?
+%6string"(MongoDB.Driver.MongoUrl.DatabaseName.get* 
+
+urlMongoDB.Driver.MongoUrl™
+ß
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (@#
+%7MongoDB.Driver.IMongoDatabase"TMongoDB.Driver.MongoClient.GetDatabase(string, MongoDB.Driver.MongoDatabaseSettings)*"
+ 
+%5MongoDB.Driver.MongoClient*
+
+%6string*
+""ı
+Ú
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (@S&
+$Stone.Cobrancas.Data.CobrancaContext")
+databaseMongoDB.Driver.IMongoDatabase"__id*%
+#
+%7MongoDB.Driver.IMongoDatabase*
+2*˚
+2n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs	 (	"Ö
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (	
+implicit return:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB(&
+$Stone.Cobrancas.Data.CobrancaContext

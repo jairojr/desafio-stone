@@ -1,31 +1,18 @@
 
-áStone.Clientes.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs ("1*m
-1c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs	 (	*
-0*«
+"Stone.Clientes.API.Startup.Env.setc
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs* (-"0*≤
 0c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs (µ
-≤
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs. (.Ñ
+Å
 c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration",Stone.Clientes.API.Startup.Configuration.set*
-Stone.Clientes.API.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfigurationü
-ú
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs* (.W
+Stone.Clientes.API.Startup"7
+Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*;
+9
+value0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"¿
 c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs (6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment""Stone.Clientes.API.Startup.Env.set*
-Stone.Clientes.API.Startup*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-2*‰
-2c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs	 (	"z
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfiguration:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs* (.Y*W
+Stone.Clientes.API.Startup"7
+Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment:9
+value0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
 Stone.Clientes.API.Startup

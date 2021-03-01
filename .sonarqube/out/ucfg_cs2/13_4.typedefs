@@ -1,6 +1,5 @@
-Ò
-1Stone.Clientes.API.Controllers.ClientesController'Microsoft.AspNetCore.Mvc.ControllerBaseobject–
-MClientesController(Stone.Clientes.Application.Interfaces.IClienteApplication)Stone.Clientes.API.Controllers.ClientesController.ClientesController(Stone.Clientes.Application.Interfaces.IClienteApplication)ˇ
-dPostAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)ñStone.Clientes.API.Controllers.ClientesController.PostAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)ê
--Get(long, System.Threading.CancellationToken)_Stone.Clientes.API.Controllers.ClientesController.Get(long, System.Threading.CancellationToken)¢
-6GetLista(int, int, System.Threading.CancellationToken)hStone.Clientes.API.Controllers.ClientesController.GetLista(int, int, System.Threading.CancellationToken)
+Ô
+5Stone.Clientes.API.Middleware.ErrorHandlingMiddlewareobjectæ
+BErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)xStone.Clientes.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)î
+-Invoke(Microsoft.AspNetCore.Http.HttpContext)cStone.Clientes.API.Middleware.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)’
+MHandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)ÉStone.Clientes.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)

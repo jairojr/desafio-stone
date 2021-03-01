@@ -1,42 +1,45 @@
 
-UStone.Clientes.Application.Validation.ClienteViewModelValidation.EstadoValido(string)â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs3 3(!"0*Ï
-0â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 7(1®
-•
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 5(G1
-%0+Stone.Clientes.Application.Enums.EstadoEnum".Stone.Utils.EnumExtension.ObterEnum<T>(string)*"
-Stone.Utils.EnumExtension*
-
-	strEstadostringÅ
-˛
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 5(G5
-estado+Stone.Clientes.Application.Enums.EstadoEnum"__id*3
-1
-%0+Stone.Clientes.Application.Enums.EstadoEnum£
-†
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs7 7(1
-%1"__id*
-""*
-1
-2*¶
-1â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs8 8("î
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs8 8(
-""*¶
-2â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs: :("î
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs: :(
-""*≥
-3â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs;	 ;(	"°
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs; ;(	
-implicit return:
-	strEstadostringBDB
-@Stone.Clientes.Application.Validation.ClienteViewModelValidation
+fStone.Cobrancas.Data.Models.CobrancaEntity.CobrancaEntity(System.Guid, System.DateTime, long, decimal)t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs ("1*~
+1t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs	 (	*
+0*¯
+0t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (˜
+Ù
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (
+%0System.Guid"1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.set*.,
+*Stone.Cobrancas.Data.Models.CobrancaEntity*
+""ê
+ç
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (
+%1System.DateTime"3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.set*.,
+*Stone.Cobrancas.Data.Models.CobrancaEntity*
+
+dataSystem.DateTimeÒ
+Ó
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (
+
+%2long"2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.set*.,
+*Stone.Cobrancas.Data.Models.CobrancaEntity*
+""ˆ
+Û
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (
+%3decimal"4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.set*.,
+*Stone.Cobrancas.Data.Models.CobrancaEntity*
+""*
+2*á
+2t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs	 (	"ã
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (	
+implicit return:
+idSystem.Guid:
+dataSystem.DateTime:
+cPFlong:
+valordecimalB.,
+*Stone.Cobrancas.Data.Models.CobrancaEntity

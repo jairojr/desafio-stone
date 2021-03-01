@@ -1,6 +1,10 @@
-
-vC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\Services\ClienteServiceTests.csutf-8ä
-ÄC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\Validation\ClienteInsertValidationTest.csutf-8}
-rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.9.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8©
-ùC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8¶
-öC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\obj\Debug\netcoreapp3.1\Stone.Clientes.Domain.Tests.AssemblyInfo.csutf-8
+k
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.csutf-8y
+pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.csutf-8}
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.csutf-8à
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.Designer.csutf-8Ö
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\ClientesContextModelSnapshot.csutf-8p
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.csutf-8z
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csutf-8§
+òC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8ò
+åC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\obj\Debug\netstandard2.1\Stone.Clientes.Data.AssemblyInfo.csutf-8

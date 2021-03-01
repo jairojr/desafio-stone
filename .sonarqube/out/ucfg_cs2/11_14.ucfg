@@ -1,29 +1,16 @@
 
-WStone.Cobrancas.Application.Mapping.ViewModelToDomainProfile.ViewModelToDomainProfile()†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs ('"1*×
-1†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs	 (	D
-B
-
-%0void"AutoMapper.Profile.Profile()*
-AutoMapper.Profile*
-0*Å
-0†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (K—
-”
-†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (4:
-%14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
-AutoMapper.Profile—
-”
-†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (K:
-%24AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
-AutoMapper.Profile*
-2*­
-2†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs	 (	"ž
-†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (	
-implicit returnB@>
-<Stone.Cobrancas.Application.Mapping.ViewModelToDomainProfile
+EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.CPF.get‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs ("0*¢
+0‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs  ( õ
+ò
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs ( 
+%0string"__id*R*P?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
+CPFstring"š
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs ( 
+
+%0stringBA?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel

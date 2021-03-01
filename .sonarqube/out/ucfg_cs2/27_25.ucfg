@@ -1,31 +1,33 @@
 
-ÜStone.Cobrancas.Domain.Services.CobrancaService.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs$ (."0*ö	
+ùStone.Cobrancas.Domain.Services.CobrancaService.BuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs+ (5"0*Ç
+
 0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (RÀ
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (IÀ
 »
 y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (+=
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (%=
 %07Stone.Cobrancas.Domain.Repositories.ICobrancaRepository"__id*Ö*Ç1
 /Stone.Cobrancas.Domain.Services.CobrancaService"M
-cobrancaRepository7Stone.Cobrancas.Domain.Repositories.ICobrancaRepository≈¬
+cobrancaRepository7Stone.Cobrancas.Domain.Repositories.ICobrancaRepositoryáÑ
 y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (S*
-%1$System.Threading.Tasks.Task<TResult>"éStone.Cobrancas.Domain.Repositories.ICobrancaRepository.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)*?
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (J*
+%1$System.Threading.Tasks.Task<TResult>"•Stone.Cobrancas.Domain.Repositories.ICobrancaRepository.BuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)*?
 =
-%07Stone.Cobrancas.Domain.Repositories.ICobrancaRepository*4
-2
-cobranca&Stone.Cobrancas.Domain.Models.Cobranca*9
+%07Stone.Cobrancas.Domain.Repositories.ICobrancaRepository*H
+F
+busca=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*9
 7
-cancellationToken"System.Threading.CancellationToken2VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)"É
+cancellationToken"System.Threading.CancellationToken2mBuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)"©
 y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (T
-""*ë
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (K,
+*
+%1$System.Threading.Tasks.Task<TResult>*ë
 1y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs	 (	"ê
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs	 (	"ê
 y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (	
-implicit return:2
-cobranca&Stone.Cobrancas.Domain.Models.Cobranca:7
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (	
+implicit return:F
+busca=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject:7
 cancellationToken"System.Threading.CancellationTokenB31
 /Stone.Cobrancas.Domain.Services.CobrancaService

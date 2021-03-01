@@ -1,3 +1,5 @@
-Y
-Stone.Cobrancas.API.Programobject2
-	Program()%Stone.Cobrancas.API.Program.Program()
+ó
+6Stone.Cobrancas.API.Middleware.ErrorHandlingMiddlewareobject¿
+BErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)yStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)•
+-Invoke(Microsoft.AspNetCore.Http.HttpContext)dStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)Ö
+MHandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)„Stone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)

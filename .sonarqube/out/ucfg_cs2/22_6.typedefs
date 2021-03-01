@@ -1,11 +1,8 @@
-¯
- Stone.Utils.ResultadoPaginado<T>objectK
-ResultadoPaginado()4Stone.Utils.ResultadoPaginado<T>.ResultadoPaginado()5
-Page.get)Stone.Utils.ResultadoPaginado<T>.Page.get5
-Page.set)Stone.Utils.ResultadoPaginado<T>.Page.set5
-Size.get)Stone.Utils.ResultadoPaginado<T>.Size.get5
-Size.set)Stone.Utils.ResultadoPaginado<T>.Size.set5
-Data.get)Stone.Utils.ResultadoPaginado<T>.Data.get5
-Data.set)Stone.Utils.ResultadoPaginado<T>.Data.set5
-Next.get)Stone.Utils.ResultadoPaginado<T>.Next.get5
-Next.set)Stone.Utils.ResultadoPaginado<T>.Next.set
+ë
+Stone.Utils.CpfExtensions.CpfSystem.ValueTypeobject8
+Cpf(string))Stone.Utils.CpfExtensions.Cpf.Cpf(string)6
+
+ToString()(Stone.Utils.CpfExtensions.Cpf.ToString()J
+ObterApenasNumeros()2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()D
+ObterComMascara()/Stone.Utils.CpfExtensions.Cpf.ObterComMascara(),
+Cpf()#Stone.Utils.CpfExtensions.Cpf.Cpf()

@@ -1,16 +1,31 @@
 
-#Stone.Utils.ErrorModel.Mensagem.getO
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs! ($"0*Ô
+1Stone.Utils.ErrorModel.ErrorModel(string, string)O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs	 	("1*Y
+1O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs	 (	*
+0*Í
 0O
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs% (%š
-—
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (µ
+²
 O
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs! (%
-%0string"__id*0*.
-Stone.Utils.ErrorModel"
-Mensagemstring"a
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (
+%0string"!Stone.Utils.ErrorModel.Codigo.set*
+Stone.Utils.ErrorModel*
+
+codigostring¹
+¶
 O
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs! (%
-
-%0stringB
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (
+%1string"#Stone.Utils.ErrorModel.Mensagem.set*
+Stone.Utils.ErrorModel*
+
+mensagemstring*
+2*¼
+2O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs	 (	"f
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (	
+implicit return:
+codigostring:
+mensagemstringB
 Stone.Utils.ErrorModel

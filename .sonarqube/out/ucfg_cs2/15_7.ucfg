@@ -1,23 +1,16 @@
 
-yStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)Ä
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (&"1*ã
-1Ä
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs	 (	*
-0*æ
-0Ä
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (∞
-≠
-Ä
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (m8
-6Stone.Cobrancas.API.Middleware.ErrorHandlingMiddleware"1
-Next)Microsoft.AspNetCore.Http.RequestDelegate"__id*3
-1
-next)Microsoft.AspNetCore.Http.RequestDelegate*
-2*°
-2Ä
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs	 (	"ò
-Ä
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (	
-implicit return:1
-next)Microsoft.AspNetCore.Http.RequestDelegateB:8
-6Stone.Cobrancas.API.Middleware.ErrorHandlingMiddleware
+#Stone.Cobrancas.API.Startup.Env.gete
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (-"0*ï
+0e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs. (.Ñ
+Å
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.6
+%00Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*Z*X
+Stone.Cobrancas.API.Startup"7
+Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"°
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.8
+6
+%00Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+Stone.Cobrancas.API.Startup

@@ -1,257 +1,110 @@
 
-`Stone.Cobrancas.Application.Validation.CobrancaViewModelValidation.CobrancaViewModelValidation()ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (*"1*é
-1ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs6	 6(	t
-r
+óStone.Cobrancas.Application.CobrancaApplication.CriarAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csH- H(7"0*ﬂ
 
-%0void"9FluentValidation.AbstractValidator<T>.AbstractValidator()*)'
-%FluentValidation.AbstractValidator<T>*
-0*©l
-0ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs 4(&˘
-ˆ
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs ( 8
-%12FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""´
-®
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%12FluentValidation.IRuleBuilderInitial<T, TProperty>¬
-ø
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (K8
-%32FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*:
-8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""•
-¢
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (@
-%4string"MStone.Cobrancas.Application.Resources.Mensagens.COBRANCA_DATA_OBRIGATORIO.get*3"1
-/Stone.Cobrancas.Application.Resources.Mensagens«
-ƒ
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (A8
-%52FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*:
-8
-%32FluentValidation.IRuleBuilderOptions<T, TProperty>*
-
-%4string˘
-ˆ
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (%8
-%62FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""¿
-Ω
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs ( 8
-%72FluentValidation.IRuleBuilderOptions<T, TProperty>"}FluentValidation.DefaultValidatorExtensions.GreaterThan<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, TProperty)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%62FluentValidation.IRuleBuilderInitial<T, TProperty>*2Ï¬
-ø
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (F8
-%82FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*:
-8
-%72FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""¢
-ü
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (;
-%9string"JStone.Cobrancas.Application.Resources.Mensagens.COBRANCA_DATA_INVALIDA.get*3"1
-/Stone.Cobrancas.Application.Resources.Mensagens»
-≈
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (<9
-%102FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*:
-8
-%82FluentValidation.IRuleBuilderOptions<T, TProperty>*
-
-%9stringÙ
-Ò
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs (59
-%112FluentValidation.IRuleBuilderOptions<T, TProperty>"®FluentValidation.DefaultValidatorOptions.When<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, System.Func<T, bool>, FluentValidation.ApplyConditionTo)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%102FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""*
-""˙
-˜
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs   (9
-%122FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""≠
-™
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs  !(9
-%132FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*/"-
-+FluentValidation.DefaultValidatorExtensions*;
-9
-%122FluentValidation.IRuleBuilderInitial<T, TProperty>ƒ
-¡
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs  "(J9
-%142FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%132FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""•
-¢
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs# #(?
-%15string"LStone.Cobrancas.Application.Resources.Mensagens.COBRANCA_CPF_OBRIGATORIO.get*3"1
-/Stone.Cobrancas.Application.Resources.Mensagens 
-«
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs  #(@9
-%162FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%142FluentValidation.IRuleBuilderOptions<T, TProperty>*
+0y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ L(ﬂ
+‹
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ& J(;H
+%0BStone.Cobrancas.Application.Validation.CobrancaViewModelValidation"__id*é*ã1
+/Stone.Cobrancas.Application.CobrancaApplication"V
+validationInsertBStone.Cobrancas.Application.Validation.CobrancaViewModelValidation˝
+˙
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ& J(V/
+%1)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*J
+H
+%0BStone.Cobrancas.Application.Validation.CobrancaViewModelValidation*M
+K
+cobrancaVewModel7Stone.Cobrancas.Application.ViewModel.CobrancaViewModelÏ
+È
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ J(V3
+result)FluentValidation.Results.ValidationResult"__id*1
+/
+%1)FluentValidation.Results.ValidationResultÖÇ
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csL L(
 
-%15string˙
-˜
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs% %(9
-%172FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""–
-Õ
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs% &(-9
-%182FluentValidation.IRuleBuilderOptions<T, TProperty>"âFluentValidation.DefaultValidatorExtensions.Must<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, System.Func<TProperty, bool>)*/"-
-+FluentValidation.DefaultValidatorExtensions*;
-9
-%172FluentValidation.IRuleBuilderInitial<T, TProperty>*
-""ƒ
-¡
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs% '(G9
-%192FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%182FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""¢
-ü
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs( ((<
-%20string"IStone.Cobrancas.Application.Resources.Mensagens.COBRANCA_CPF_INVALIDO.get*3"1
-/Stone.Cobrancas.Application.Resources.Mensagens 
-«
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs% ((=9
-%212FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%192FluentValidation.IRuleBuilderOptions<T, TProperty>*
+%2bool"5FluentValidation.Results.ValidationResult.IsValid.get*5
+3
+result)FluentValidation.Results.ValidationResult2IsValid.get*
+1
+2*∆
+1y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csM M(,¿
+Ω
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csM M(,
 
-%20stringÙ
-Ò
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs% )(89
-%222FluentValidation.IRuleBuilderOptions<T, TProperty>"®FluentValidation.DefaultValidatorOptions.When<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, System.Func<T, bool>, FluentValidation.ApplyConditionTo)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%212FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""*
-""˙
-˜
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs+ +(!9
-%232FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""≠
-™
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs+ ,(9
-%242FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*/"-
-+FluentValidation.DefaultValidatorExtensions*;
-9
-%232FluentValidation.IRuleBuilderInitial<T, TProperty>ƒ
-¡
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs+ -(K9
-%252FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%242FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""ß
-§
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs. .(@
-%26string"NStone.Cobrancas.Application.Resources.Mensagens.COBRANCA_VALOR_OBRIGATORIO.get*3"1
-/Stone.Cobrancas.Application.Resources.Mensagens 
-«
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs+ .(A9
-%272FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%252FluentValidation.IRuleBuilderOptions<T, TProperty>*
-
-%26string˙
-˜
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs0 0(!9
-%282FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""ø
-º
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs0 1(9
-%292FluentValidation.IRuleBuilderOptions<T, TProperty>"}FluentValidation.DefaultValidatorExtensions.GreaterThan<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, TProperty)*/"-
-+FluentValidation.DefaultValidatorExtensions*;
-9
-%282FluentValidation.IRuleBuilderInitial<T, TProperty>*2 ƒ
-¡
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs0 2(H9
-%302FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%292FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""§
-°
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs3 3(=
-%31string"KStone.Cobrancas.Application.Resources.Mensagens.COBRANCA_VALOR_INVALIDO.get*3"1
-/Stone.Cobrancas.Application.Resources.Mensagens 
-«
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs0 3(>9
-%322FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%302FluentValidation.IRuleBuilderOptions<T, TProperty>*
-
-%31stringÙ
-Ò
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs0 4('9
-%332FluentValidation.IRuleBuilderOptions<T, TProperty>"®FluentValidation.DefaultValidatorOptions.When<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, System.Func<T, bool>, FluentValidation.ApplyConditionTo)*,"*
-(FluentValidation.DefaultValidatorOptions*;
-9
-%322FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""*
-""*
-2*ª
-2ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs6	 6(	"•
-ç
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs6 6(	
-implicit returnBFD
-BStone.Cobrancas.Application.Validation.CobrancaViewModelValidation
+%3void"[Stone.Utils.ServiceOperation.ThrowErrosValidacao(FluentValidation.Results.ValidationResult)* "
+Stone.Utils.ServiceOperation*5
+3
+result)FluentValidation.Results.ValidationResult*
+2*í
+2y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO R(FÛ
+
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO O(&
+%4AutoMapper.IMapper"__id*S*Q1
+/Stone.Cobrancas.Application.CobrancaApplication"
+mapperAutoMapper.IMapper‰·
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO O(F,
+%5&Stone.Cobrancas.Domain.Models.Cobranca"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%4AutoMapper.IMapper*M
+K
+cobrancaVewModel7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel2Map<TDestination>(object)Ë
+Â
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO O(F2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca"__id*.
+,
+%5&Stone.Cobrancas.Domain.Models.Cobranca®
+•
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csP) P(56
+%60Stone.Cobrancas.Domain.Services.ICobrancaService";Stone.Cobrancas.Application.CobrancaApplication.service.get*31
+/Stone.Cobrancas.Application.CobrancaApplication∑¥
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csP) P(]*
+%7$System.Threading.Tasks.Task<TResult>"áStone.Cobrancas.Domain.Services.ICobrancaService.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)*8
+6
+%60Stone.Cobrancas.Domain.Services.ICobrancaService*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca*9
+7
+cancellationToken"System.Threading.CancellationToken2VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)»
+≈
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csP P(]:
+cobrancaInserida&Stone.Cobrancas.Domain.Models.Cobranca"__id*
+""Û
+
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csR R(
+%8AutoMapper.IMapper"__id*S*Q1
+/Stone.Cobrancas.Application.CobrancaApplication"
+mapperAutoMapper.IMapper‰·
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csR R(G=
+%97Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%8AutoMapper.IMapper*<
+:
+cobrancaInserida&Stone.Cobrancas.Domain.Models.Cobranca2Map<TDestination>(object)"º
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csR R(H?
+=
+%97Stone.Cobrancas.Application.ViewModel.CobrancaViewModel*ë
+3y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csS	 S(	"ê
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csS S(	
+implicit return:K
+cobrancaVewModel7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel:7
+cancellationToken"System.Threading.CancellationTokenB31
+/Stone.Cobrancas.Application.CobrancaApplication

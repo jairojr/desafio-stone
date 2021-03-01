@@ -1,33 +1,16 @@
 
-ìStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs; ;( "0*Î
-0ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =($∏
-µ
-ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =(
-%0string"EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.CPF.get*H
-F
-busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModelÌ
-Í
-ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =($
-
-%1bool""string.operator !=(string, string)*
-"
-string*
-
-%0string*
-"""§
-ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =(%
-
-
-%1bool*«
-1ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs>	 >(	"´
-ì
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs> >(	
-implicit return:F
-busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModelBLJ
-HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation
+EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.Ano.getá
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs ("0*∆
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (ç
+ä
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (
+%0System.Nullable<T>"__id*^*\?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
+AnoSystem.Nullable<T>"¶
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (
+
+%0System.Nullable<T>BA?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel

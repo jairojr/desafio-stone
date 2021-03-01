@@ -1,46 +1,16 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Next.getV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs$ $("0*æ
-0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &(1·
-´
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &(	
-%0T[]")Stone.Utils.ResultadoPaginado<T>.Data.get*$"
- Stone.Utils.ResultadoPaginado<T>Œ
-‰
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &($	
-%1int"System.Array.Length.get*
-	
-%0T[]·
-´
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs&( &(1	
-%2int")Stone.Utils.ResultadoPaginado<T>.Size.get*$"
- Stone.Utils.ResultadoPaginado<T>*
-1
-2*ï
-1V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '(§
-¤
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '(
-%3string"__id*6*4"
- Stone.Utils.ResultadoPaginado<T>"
-nextstring"h
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '( 
++Stone.Utils.ValidacaoException.Mensagem.getW
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs! ($"0*ô
+0W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs% (%ª
+§
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs! (%
+%0string"__id*8*6 
+Stone.Utils.ValidacaoException"
+Mensagemstring"i
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs! (%
 
-%3string*½
-2V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs) )("`
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs) )(
-""*Ê
-3V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs* *("m
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs* *(
-implicit returnB$"
- Stone.Utils.ResultadoPaginado<T>
+%0stringB" 
+Stone.Utils.ValidacaoException

@@ -1,18 +1,16 @@
 
-0Stone.Clientes.Data.ClientesContext.Clientes.setl
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs4 (7"0*›
-0l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs8 (8ì
-ê
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs4 (8a%
-#Stone.Clientes.Data.ClientesContext"8
-Clientes,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"”
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs4 (8c*a%
-#Stone.Clientes.Data.ClientesContext"8
-Clientes,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B'%
-#Stone.Clientes.Data.ClientesContext
+3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.gett
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (""0*Ô
+0t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs# (#·
+ﬁ
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (#
+%0System.DateTime"__id*I*G,
+*Stone.Cobrancas.Data.Models.CobrancaEntity"
+DataSystem.DateTime"è
+t
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (#
+
+%0System.DateTimeB.,
+*Stone.Cobrancas.Data.Models.CobrancaEntity

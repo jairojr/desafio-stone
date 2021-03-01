@@ -1,16 +1,3 @@
-Ö	
-$Stone.Clientes.Domain.Models.Clienteobject§
-?Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, string)dStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, string)£
-=Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, long)bStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, long)Á
-LCliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)qStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)½
-JCliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)oStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)5
-Id.get+Stone.Clientes.Domain.Models.Cliente.Id.get5
-Id.set+Stone.Clientes.Domain.Models.Cliente.Id.set9
-Nome.get-Stone.Clientes.Domain.Models.Cliente.Nome.get9
-Nome.set-Stone.Clientes.Domain.Models.Cliente.Nome.set=
-
-Estado.get/Stone.Clientes.Domain.Models.Cliente.Estado.get=
-
-Estado.set/Stone.Clientes.Domain.Models.Cliente.Estado.set7
-CPF.get,Stone.Clientes.Domain.Models.Cliente.CPF.get7
-CPF.set,Stone.Clientes.Domain.Models.Cliente.CPF.set
+{
+*Stone.Cobrancas.Domain.Resources.MensagensobjectE
+Mensagens()6Stone.Cobrancas.Domain.Resources.Mensagens.Mensagens()

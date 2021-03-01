@@ -1,31 +1,33 @@
 
-„Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.ConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs (-"1*ê
-1Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs	 (	*
-0*Æ
-0Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs ( ∆
-√
-Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs (2x=
-;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"7
-cobrancaContext$Stone.Cobrancas.Data.CobrancaContext"__id*9
-7
-cobrancaContext$Stone.Cobrancas.Data.CobrancaContext“
-œ
-Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs ( ~=
-;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
-2*´
-2Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs	 (	"ù
-Ö
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs (	
-implicit return:7
-cobrancaContext$Stone.Cobrancas.Data.CobrancaContext:=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B?=
-;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService
+*Stone.Cobrancas.API.Program.Main(string[])e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs ("0*“
+0e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs ("â
+Ü
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"7Stone.Cobrancas.API.Program.CreateHostBuilder(string[])*"
+Stone.Cobrancas.API.Program*
+
+argsstring[]ÉÄ
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Œ
+À
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*Ë
+1e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs	 (	"|
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (	
+implicit return:
+argsstring[]B"
+Stone.Cobrancas.API.Program

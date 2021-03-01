@@ -1,5 +1,5 @@
-Ã
-2Stone.Cobrancas.API.Controllers.CobrancaController'Microsoft.AspNetCore.Mvc.ControllerBaseobject÷
-OCobrancaController(Stone.Cobrancas.Application.Interfaces.ICobrancaApplication)ÇStone.Cobrancas.API.Controllers.CobrancaController.CobrancaController(Stone.Cobrancas.Application.Interfaces.ICobrancaApplication)Ñ
-fPostAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)ôStone.Cobrancas.API.Controllers.CobrancaController.PostAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)Ñ
-fGet(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel, System.Threading.CancellationToken)ôStone.Cobrancas.API.Controllers.CobrancaController.Get(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel, System.Threading.CancellationToken)
+î
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesServiceobjectê
+ßConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)„Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.ConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)ú
+.StartAsync(System.Threading.CancellationToken)jStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StartAsync(System.Threading.CancellationToken)ö
+-StopAsync(System.Threading.CancellationToken)iStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StopAsync(System.Threading.CancellationToken)

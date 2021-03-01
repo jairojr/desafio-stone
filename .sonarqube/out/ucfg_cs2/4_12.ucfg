@@ -1,16 +1,30 @@
 
-3Stone.Clientes.Data.Models.ClienteEntity.Estado.getq
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (""0*Ë
-0q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs# (#Ì
-É
-q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (#
-%0string"__id*@*>*
-(Stone.Clientes.Data.Models.ClienteEntity"
-Estadostring"ƒ
-q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (#
-
-%0stringB,*
-(Stone.Clientes.Data.Models.ClienteEntity
+mStone.Cobrancas.Data.Repositories.CobrancaRepository.CobrancaRepository(Stone.Cobrancas.Data.CobrancaContext)~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (!"1*ˆ
+1~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs	 (	*
+0*Û
+0~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (/œ
+™
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (/0
+%0*MongoDB.Driver.IMongoCollection<TDocument>"2Stone.Cobrancas.Data.CobrancaContext.Cobrancas.get*1
+/
+context$Stone.Cobrancas.Data.CobrancaContext±
+®
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (/r6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"8
+
+cobrancaDb*MongoDB.Driver.IMongoCollection<TDocument>"__id*2
+0
+%0*MongoDB.Driver.IMongoCollection<TDocument>*
+2*›
+2~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs	 (	"•
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (	
+implicit return:/
+context$Stone.Cobrancas.Data.CobrancaContextB86
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

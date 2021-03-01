@@ -1,67 +1,130 @@
 
-âStone.Cobrancas.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs4 4("0*›
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs6 6(#Ë
-Â
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs6 6(#
-
-%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
-9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+ôStone.Cobrancas.API.Controllers.CobrancaController.PostAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs/@ /(I"2*ó
+0|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs1 :(⁄
+◊
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs1! 1(9A
+%0;Stone.Cobrancas.Application.Interfaces.ICobrancaApplication"__id*ç*ä4
+2Stone.Cobrancas.API.Controllers.CobrancaController"R
+cobrancaApplication;Stone.Cobrancas.Application.Interfaces.ICobrancaApplicationáÑ
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs1! 1(e*
+%1$System.Threading.Tasks.Task<TResult>"£Stone.Cobrancas.Application.Interfaces.ICobrancaApplication.CriarAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)*C
+A
+%0;Stone.Cobrancas.Application.Interfaces.ICobrancaApplication*I
+G
+novaCobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel*9
 7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-1
-2*û
-1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs8 8(/¨
-©
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs8 8(/6
-%10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
-=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-2*˝
-2e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs; D(º
-π
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs; ;(>6
-%20Microsoft.AspNetCore.Builder.IApplicationBuilder"íMicrosoft.AspNetCore.Builder.UseMiddlewareExtensions.UseMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Type, params object[])*8"6
-4Microsoft.AspNetCore.Builder.UseMiddlewareExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+cancellationToken"System.Threading.CancellationToken2gCriarAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)‘
+—
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs1 1(eC
+cobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"__id*
+""ó
+î
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs5 5("
+%2string"?Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.CPF.get*E
+C
+cobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel°
+û
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs6 6(#
+%3System.DateTime"@Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.Data.get*E
+C
+cobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModelø
+º
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs6 6((	
+%4int"System.DateTime.Year.get*
+
+%3System.DateTime°
+û
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs7 7(#
+%5System.DateTime"@Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.Data.get*E
+C
+cobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel¿
+Ω
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs7 7()	
+%6int"System.DateTime.Month.get*
+
+%5System.DateTimeµ≤
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs3 :(4
+%7.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"OMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string, object, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
 ""*
-""ì
-ê
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs= =(!6
-%30Microsoft.AspNetCore.Builder.IApplicationBuilder"xStone.Cobrancas.API.Configuration.SwaggerConfiguration.UseSwaggerStone(Microsoft.AspNetCore.Builder.IApplicationBuilder)*:"8
-6Stone.Cobrancas.API.Configuration.SwaggerConfiguration*9
+""*E
+C
+cobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel2'CreatedAtAction(string, object, object)"∂
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs3 :(6
+4
+%7.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*ó
+1|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs;	 ;(	"ì
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs; ;(	
+implicit return*ö
+2~
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs/é /(éÛ
+
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs/@ /(Ib
+G
+novaCobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+DataSystem.DateTime"__entrypointÈ
+Ê
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs/@ /(IX
+G
+novaCobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+CPFstring"__entrypoint–
+Õ
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs/@ /(I
+%8"__entrypoint*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder≥
-∞
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs? ?(6
-%40Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+cancellationToken"System.Threading.CancellationTokení
+è
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs,	 ,(
+%9"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderÄ
-˝
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.csA D(6
-%50Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+cancellationToken"System.Threading.CancellationTokenÆ
+´
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs-	 -(\
+%10"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""*
-3*Ë
-3e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.csE	 E(	"|
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.csE E(	
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
-Stone.Cobrancas.API.Startup
+cancellationToken"System.Threading.CancellationTokenÆ
+´
+|
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs.	 .(X
+%11"
+__annotate*][
+YMicrosoft.AspNetCore.Mvc.ProducesResponseTypeAttribute.ProducesResponseTypeAttribute(int)*9
+7
+cancellationToken"System.Threading.CancellationToken„
+‡
+}
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs/j /(ç7
+cancellationToken"System.Threading.CancellationToken"__annotation*
+
+%9*
+
+%10*
+
+%11*
+0:G
+novaCobranca7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel:7
+cancellationToken"System.Threading.CancellationTokenB64
+2Stone.Cobrancas.API.Controllers.CobrancaController

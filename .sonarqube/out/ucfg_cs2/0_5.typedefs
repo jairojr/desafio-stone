@@ -1,8 +1,3 @@
-ë
-Stone.Utils.CpfExtensions.CpfSystem.ValueTypeobject8
-Cpf(string))Stone.Utils.CpfExtensions.Cpf.Cpf(string)6
-
-ToString()(Stone.Utils.CpfExtensions.Cpf.ToString()J
-ObterApenasNumeros()2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()D
-ObterComMascara()/Stone.Utils.CpfExtensions.Cpf.ObterComMascara(),
-Cpf()#Stone.Utils.CpfExtensions.Cpf.Cpf()
+a
+Stone.Utils.CpfExtensionsobject<
+CpfExtensions())Stone.Utils.CpfExtensions.CpfExtensions()

@@ -1,11 +1,4 @@
-Ü
-*Stone.Cobrancas.Data.Models.CobrancaEntityobject¥
-;CobrancaEntity(System.Guid, System.DateTime, long, decimal)fStone.Cobrancas.Data.Models.CobrancaEntity.CobrancaEntity(System.Guid, System.DateTime, long, decimal);
-Id.get1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.get;
-Id.set1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.set?
-Data.get3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.get?
-Data.set3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.set=
-CPF.get2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.get=
-CPF.set2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.setA
-	Valor.get4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.getA
-	Valor.set4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.set
+­
+/Stone.Cobrancas.Worker.Services.CobrancaServiceobjectñ
+^CobrancaService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)ŽStone.Cobrancas.Worker.Services.CobrancaService.CobrancaService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)ý
+dInserirCobranca(Stone.Cobrancas.Worker.Models.CobrancaViewModel, System.Threading.CancellationToken)”Stone.Cobrancas.Worker.Services.CobrancaService.InserirCobranca(Stone.Cobrancas.Worker.Models.CobrancaViewModel, System.Threading.CancellationToken)

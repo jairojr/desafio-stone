@@ -1,5 +1,5 @@
 £
-{C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\CustomWebApplicationFactory.cs
+{C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\CustomWebApplicationFactory.cs
 
  ,
 - 5O W_ g
@@ -10,48 +10,21 @@
   
 
 ( 9
-      #†
-vC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Fixture\ClienteFixture.cs
+      #´
+vC:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\Models\BuscaClienteDTO.cs
 
- 
+  
 
- /
-% &* +
+		 
 
-1 2
+
+
+ 
 
-4 5
-% &* +
-3 4< =
+  
 
-6 7
-% &* +
-2 3* +
-
-5 6
-$ '' *
-% &* +
-5 6> ?
-
-8 9
-
- )
-  % &  * +
-  3 4  < =
-
-  6 7
-!!% &!!* +
-!!2 3!!; <
-
-!!5 6
-""% &""* +
-""5 6""J K
-
-""8 9
-%% )""> I
-%%0 1** (
-'' )) ** ,, £
-qC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Models\ClienteDTO.cs
+ £
+qC:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\Models\ClienteDTO.cs
 
  
 
@@ -59,22 +32,23 @@ qC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Per
 
  
 
- Û
-}C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\StoneClientesIntegrationTests.cs
+ ƒ
+}C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\StoneClientesIntegrationTests.cs
 
- .
-$ ( ++% )
-( 6 ))" 0
+ .2
+$ ( ))! %..4 8CC! %
+  88 '
 
- ,
-V ] 
-n |" 0
+ ,
+V ]  
 
-""1 f
-$$ ''  .33M [
-%% // 22 !(
-&& ** ,, 33& -
-'' '' ''0 1
-)) ++K V
-++ .. 
-33 "44 *
+1 y
+!! ))G R11 $
+)) ,,1 9--% -
+-- "..V h
+.. +00 611* E
+
+551 k
+88 ::  %2
+:: << == >> ?? 
+CC FF #GG $

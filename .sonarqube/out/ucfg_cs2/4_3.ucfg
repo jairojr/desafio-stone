@@ -1,13 +1,18 @@
 
-0Stone.Clientes.Data.Migrations.Initial.Initial()~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs ( "0*¥
+@Stone.Cobrancas.Data.Repositories.CobrancaRepository.Context.set~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (,"0*›
 0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs$ $(‡
-„
-
-%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
-2Microsoft.EntityFrameworkCore.Migrations.Migration"•
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs- (-¥
+¢
 ~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs $(
-implicit returnB*(
-&Stone.Clientes.Data.Migrations.Initial
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (-i6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"/
+Context$Stone.Cobrancas.Data.CobrancaContext"__id*/
+-
+value$Stone.Cobrancas.Data.CobrancaContext"í
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (-k*i6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"/
+Context$Stone.Cobrancas.Data.CobrancaContext:-
+value$Stone.Cobrancas.Data.CobrancaContextB86
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

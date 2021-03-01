@@ -1,9 +1,3 @@
-½
-Stone.Utils.ErrorModelobjectO
-ErrorModel(string, string)1Stone.Utils.ErrorModel.ErrorModel(string, string)/
-
-Codigo.get!Stone.Utils.ErrorModel.Codigo.get/
-
-Codigo.set!Stone.Utils.ErrorModel.Codigo.set3
-Mensagem.get#Stone.Utils.ErrorModel.Mensagem.get3
-Mensagem.set#Stone.Utils.ErrorModel.Mensagem.set
+Ç
+&Stone.Utils.MultiplaValidacaoExceptionStone.Utils.ValidacaoExceptionSystem.Exceptionobjectâ
+[MultiplaValidacaoException(System.Collections.Generic.List<Stone.Utils.ValidacaoException>)‚Stone.Utils.MultiplaValidacaoException.MultiplaValidacaoException(System.Collections.Generic.List<Stone.Utils.ValidacaoException>)

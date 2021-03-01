@@ -1,80 +1,28 @@
 
-nStone.Clientes.Application.ClienteApplication.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs]9 ](K"0*É
-0v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs_ _(*
-1
-2*É
-2v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs_ _(+*
-1
-3*‘
-1v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs` `(gÄ
-˝
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs`O `(g
-%0string"AStone.Clientes.Application.Resources.Mensagens.BUSCA_INVALIDA.get*2"0
-.Stone.Clientes.Application.Resources.Mensagens¡æ
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs` `(h$
-%1Stone.Utils.ValidacaoException"Stone.Utils.ValidacaoExceptionä
-á
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs` `(,
-
-%2void"AStone.Utils.ValidacaoException.ValidacaoException(string, string)*&
-$
-%1Stone.Utils.ValidacaoException*
-""*
-
-%0string*
-4*ª
-3v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csb d(HÆ
-´
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csb b(24
-%3.Stone.Clientes.Domain.Services.IClienteService"__id*u*s/
--Stone.Clientes.Application.ClienteApplication"@
-clienteService.Stone.Clientes.Domain.Services.IClienteService›⁄
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csb b(i*
-%4$System.Threading.Tasks.Task<TResult>"oStone.Clientes.Domain.Services.IClienteService.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)*6
-4
-%3.Stone.Clientes.Domain.Services.IClienteService*
-""*
-""*9
-7
-cancellationToken"System.Threading.CancellationToken2@BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)æ
-ª
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csb b(i3
-result)System.Collections.Generic.IEnumerable<T>"__id*
-""Ó
-Î
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csd d(
-%5AutoMapper.IMapper"__id*Q*O/
--Stone.Clientes.Application.ClienteApplication"
-mapperAutoMapper.IMapperÃ…
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csd d(I/
-%6)System.Collections.Generic.IEnumerable<T>"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%5AutoMapper.IMapper*5
-3
-result)System.Collections.Generic.IEnumerable<T>2Map<TDestination>(object)"´
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csd d(J1
-/
-%6)System.Collections.Generic.IEnumerable<T>*ã
-4v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cse	 e(	"ç
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cse e(	
-implicit return:
-paginaint:
-tamanhoint:7
-cancellationToken"System.Threading.CancellationTokenB1/
--Stone.Clientes.Application.ClienteApplication
+2Stone.Cobrancas.Data.CobrancaContext.Cobrancas.getn
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("0*™
+0n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (Iı
+Ú
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (#
+%0MongoDB.Driver.IMongoDatabase"__id*U*S&
+$Stone.Cobrancas.Data.CobrancaContext")
+databaseMongoDB.Driver.IMongoDatabaseïí
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (J0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"fMongoDB.Driver.IMongoDatabase.GetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)*%
+#
+%0MongoDB.Driver.IMongoDatabase*
+	Cobrancas*
+""2HGetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)"§
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (K2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*˚
+1n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("Ö
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (
+implicit returnB(&
+$Stone.Cobrancas.Data.CobrancaContext

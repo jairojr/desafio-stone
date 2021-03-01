@@ -1,9 +1,6 @@
-â
-Stone.Clientes.API.Startupobject¯
-lStartup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)áStone.Clientes.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ª
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)iStone.Clientes.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)≈
-íConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Stone.Clientes.Data.ClientesContext)≠Stone.Clientes.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Stone.Clientes.Data.ClientesContext)A
-Configuration.get,Stone.Clientes.API.Startup.Configuration.getA
-Configuration.set,Stone.Clientes.API.Startup.Configuration.set-
-Env.get"Stone.Clientes.API.Startup.Env.get-
-Env.set"Stone.Clientes.API.Startup.Env.set
+Ò
+1Stone.Clientes.API.Controllers.ClientesController'Microsoft.AspNetCore.Mvc.ControllerBaseobject–
+MClientesController(Stone.Clientes.Application.Interfaces.IClienteApplication)Stone.Clientes.API.Controllers.ClientesController.ClientesController(Stone.Clientes.Application.Interfaces.IClienteApplication)ˇ
+dPostAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)ñStone.Clientes.API.Controllers.ClientesController.PostAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)ê
+-Get(long, System.Threading.CancellationToken)_Stone.Clientes.API.Controllers.ClientesController.Get(long, System.Threading.CancellationToken)¢
+6GetLista(int, int, System.Threading.CancellationToken)hStone.Clientes.API.Controllers.ClientesController.GetLista(int, int, System.Threading.CancellationToken)

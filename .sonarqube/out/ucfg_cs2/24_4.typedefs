@@ -1,3 +1,7 @@
-”
-&Stone.Clientes.Domain.Enums.EstadoEnumSystem.EnumSystem.ValueTypeobjectC
-EstadoEnum()3Stone.Clientes.Domain.Enums.EstadoEnum.EstadoEnum()
+Ü
+-Stone.Clientes.Domain.Services.ClienteServiceobject±
+ClienteService(Stone.Clientes.Domain.Repositories.IClienteRepository, Stone.Clientes.Domain.Validation.ClienteInsertValidation)­Stone.Clientes.Domain.Services.ClienteService.ClienteService(Stone.Clientes.Domain.Repositories.IClienteRepository, Stone.Clientes.Domain.Validation.ClienteInsertValidation)Û
+TCriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)‚Stone.Clientes.Domain.Services.ClienteService.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)¦
+:ObterPorCpfAsync(long, System.Threading.CancellationToken)hStone.Clientes.Domain.Services.ClienteService.ObterPorCpfAsync(long, System.Threading.CancellationToken)²
+@ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)nStone.Clientes.Domain.Services.ClienteService.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)²
+@BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)nStone.Clientes.Domain.Services.ClienteService.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)

@@ -1,3 +1,7 @@
-Ù
->Stone.Cobrancas.Application.Mapping.DomainToViewModelToProfileAutoMapper.Profileobject{
-DomainToViewModelToProfile()[Stone.Cobrancas.Application.Mapping.DomainToViewModelToProfile.DomainToViewModelToProfile()
+¹
+HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation%FluentValidation.AbstractValidator<T>object“
+#BuscarCobrancaViewModelValidation()lStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscarCobrancaViewModelValidation()ä
+KValidarBusca(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)”Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.ValidarBusca(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)â
+JBuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)“Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)è
+MBuscaPorAnoMes(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)–Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorAnoMes(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)q
+ValidarCpf(string)[Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.ValidarCpf(string)

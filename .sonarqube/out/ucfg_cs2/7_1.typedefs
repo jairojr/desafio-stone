@@ -1,0 +1,4 @@
+Å
+1Stone.Clientes.Data.Mappings.ClienteEntityMappingobject£
+vConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)¨Stone.Clientes.Data.Mappings.ClienteEntityMapping.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)b
+ClienteEntityMapping()HStone.Clientes.Data.Mappings.ClienteEntityMapping.ClienteEntityMapping()

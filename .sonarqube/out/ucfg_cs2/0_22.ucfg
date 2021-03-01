@@ -1,20 +1,18 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Next.setV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +("0*ç
-0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +(™
-ß
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +(4"
- Stone.Utils.ResultadoPaginado<T>"
-nextstring"__id*
+#Stone.Utils.ErrorModel.Mensagem.setO
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& ()"0*˙
+0O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs* (*ù
+ö
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& (*.
+Stone.Utils.ErrorModel"
+Mensagemstring"__id*
 
-valuestring*
-1* 
-1V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+  +( "m
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +( 
-implicit return:
-valuestringB$"
- Stone.Utils.ResultadoPaginado<T>
+valuestring"É
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& (*0*.
+Stone.Utils.ErrorModel"
+Mensagemstring:
+valuestringB
+Stone.Utils.ErrorModel

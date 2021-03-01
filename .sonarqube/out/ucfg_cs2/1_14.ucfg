@@ -1,30 +1,18 @@
 
-oStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs' '("1*w
-1m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs)	 )(	*
-0*¿
-0m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs'J '(qÅ
-Â
-m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs'J '(r
-
-%0void"qStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)*(&
-$Stone.Clientes.Domain.Models.Cliente*
-""*
-
-nomestring*
-""*
-""*
-2*ù
-2m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs)	 )(	"„
-m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs) )(	
-implicit return:
-idSystem.Guid:
-nomestring:0
-estado&Stone.Clientes.Domain.Enums.EstadoEnum:
-cPFlongB(&
-$Stone.Clientes.Domain.Models.Cliente
+.Stone.Cobrancas.Domain.Models.Cobranca.CPF.setp
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs& ()"0*¸
+0p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs* (*÷
+ô
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (*P(
+&Stone.Cobrancas.Domain.Models.Cobranca"$
+CPFStone.Utils.CpfExtensions.Cpf"__id*(
+&
+valueStone.Utils.CpfExtensions.Cpf"Æ
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (*R*P(
+&Stone.Cobrancas.Domain.Models.Cobranca"$
+CPFStone.Utils.CpfExtensions.Cpf:&
+valueStone.Utils.CpfExtensions.CpfB*(
+&Stone.Cobrancas.Domain.Models.Cobranca

@@ -1,28 +1,61 @@
 
-2Stone.Cobrancas.Data.CobrancaContext.Cobrancas.getn
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("0*™
-0n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (Iı
-Ú
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (#
-%0MongoDB.Driver.IMongoDatabase"__id*U*S&
-$Stone.Cobrancas.Data.CobrancaContext")
-databaseMongoDB.Driver.IMongoDatabaseïí
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (J0
-%1*MongoDB.Driver.IMongoCollection<TDocument>"fMongoDB.Driver.IMongoDatabase.GetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)*%
-#
-%0MongoDB.Driver.IMongoDatabase*
-	Cobrancas*
-""2HGetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)"§
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (K2
-0
-%1*MongoDB.Driver.IMongoCollection<TDocument>*˚
-1n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("Ö
-n
-dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (
-implicit returnB(&
-$Stone.Cobrancas.Data.CobrancaContext
+hStone.Cobrancas.Worker.Services.ClienteService.GetClientes(int, int, System.Threading.CancellationToken)x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs? (J"0*È
+0x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (qù
+ö
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (F
+%0"__concat*
+""*
+""ù
+ö
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (F
+%1"__concat*
+
+%0*
+""ù
+ö
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (F
+%2"__concat*
+
+%1*
+""ö
+ó
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (F
+uristring"__id*
+
+%2Ü
+É
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs ($ 
+%3System.Net.Http.HttpClient"__id*_*]0
+.Stone.Cobrancas.Worker.Services.ClienteService")
+_httpClientSystem.Net.Http.HttpClientﬁ
+€
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (r*
+%4$System.Threading.Tasks.Task<TResult>"èSystem.Net.Http.Json.HttpClientJsonExtensions.GetFromJsonAsync<TValue>(System.Net.Http.HttpClient, string?, System.Threading.CancellationToken)*1"/
+-System.Net.Http.Json.HttpClientJsonExtensions*"
+ 
+%3System.Net.Http.HttpClient*
+
+uristring*9
+7
+CancellationToken"System.Threading.CancellationToken"Ç
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (s
+""*è
+1x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs	 (	"è
+x
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (	
+implicit return:
+paginaint:
+
+quantidadeint:7
+CancellationToken"System.Threading.CancellationTokenB20
+.Stone.Cobrancas.Worker.Services.ClienteService

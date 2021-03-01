@@ -1,5 +1,5 @@
-Û
-6Stone.Cobrancas.API.Middleware.ErrorHandlingMiddlewareobjectø
-BErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)yStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)ï
--Invoke(Microsoft.AspNetCore.Http.HttpContext)dStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)÷
-MHandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)ÑStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)
+î
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesServiceobjectê
+ßConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)„Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.ConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)ú
+.StartAsync(System.Threading.CancellationToken)jStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StartAsync(System.Threading.CancellationToken)ö
+-StopAsync(System.Threading.CancellationToken)iStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StopAsync(System.Threading.CancellationToken)

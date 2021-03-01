@@ -1,3 +1,9 @@
-Y
-Stone.Cobrancas.API.Programobject2
-	Program()%Stone.Cobrancas.API.Program.Program()
+Æ
+Stone.Cobrancas.API.Startupobjectù
+lStartup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ˆStone.Cobrancas.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)¼
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)jStone.Cobrancas.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)û
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‰Stone.Cobrancas.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)B
+Configuration.get-Stone.Cobrancas.API.Startup.Configuration.getB
+Configuration.set-Stone.Cobrancas.API.Startup.Configuration.set.
+Env.get#Stone.Cobrancas.API.Startup.Env.get.
+Env.set#Stone.Cobrancas.API.Startup.Env.set

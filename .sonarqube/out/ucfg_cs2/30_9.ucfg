@@ -1,16 +1,32 @@
 
-4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.gett
-jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (""0*Ø
-0t
-jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs# (#Ò
-Ï
-t
-jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (#
-%0decimal"__id*B*@,
-*Stone.Cobrancas.Data.Models.CobrancaEntity"
-Valordecimal"‡
-t
-jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.cs (#
+VStone.Clientes.Application.Mapping.ViewModelToDomainProfile.ViewModelToDomainProfile()„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs ('"1*Õ
+1„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs	 (	D
+B
 
-%0decimalB.,
-*Stone.Cobrancas.Data.Models.CobrancaEntity
+%0void"AutoMapper.Profile.Profile()*
+AutoMapper.Profile*
+0*È
+0„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs ({•
+’
+„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs (2:
+%14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
+AutoMapper.Profilež›
+„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs (|:
+%24AutoMapper.IMappingExpression<TSource, TDestination>"§AutoMapper.IMappingExpressionBase<TSource, TDestination, TMappingExpression>.ForCtorParam(string, System.Action<AutoMapper.ICtorParamConfigurationExpression<TSource>>)*<
+:
+%14AutoMapper.IMappingExpression<TSource, TDestination>*
+
+estado*
+""2ZForCtorParam(string, System.Action<AutoMapper.ICtorParamConfigurationExpression<TSource>>)*
+2*©
+2„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs	 (	"œ
+„
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs (	
+implicit returnB?=
+;Stone.Clientes.Application.Mapping.ViewModelToDomainProfile

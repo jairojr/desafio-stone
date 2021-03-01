@@ -1,5 +1,8 @@
-v
-mC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\ClientesControllerTest.csutf-8}
-rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.9.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8¶
-öC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8†
-îC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\obj\Debug\netcoreapp3.1\Stone.Clientes.API.Tests.AssemblyInfo.csutf-8
+Ñ
+{C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\CustomWebApplicationFactory.csutf-8
+vC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Fixture\ClienteFixture.csutf-8z
+qC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Models\ClienteDTO.csutf-8ç
+}C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\StoneClientesIntegrationTests.cswindows-1252}
+rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8Ø
+£C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8∞
+§C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\obj\Debug\netcoreapp3.1\Stone.Clientes.Performance.Test.AssemblyInfo.csutf-8

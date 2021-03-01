@@ -1,16 +1,31 @@
 
-#Stone.Cobrancas.API.Startup.Env.gete
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (-"0*ï
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs. (.Ñ
-Å
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.6
-%00Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*Z*X
-Stone.Cobrancas.API.Startup"7
-Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"°
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.8
-6
-%00Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
-Stone.Cobrancas.API.Startup
+„Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.ConfigureMongoDbIndexesService(Stone.Cobrancas.Data.CobrancaContext, Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService>)Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs (-"1*ê
+1Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs	 (	*
+0*Æ
+0Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs ( ∆
+√
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs (2x=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"7
+cobrancaContext$Stone.Cobrancas.Data.CobrancaContext"__id*9
+7
+cobrancaContext$Stone.Cobrancas.Data.CobrancaContext“
+œ
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs ( ~=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*´
+2Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs	 (	"ù
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs (	
+implicit return:7
+cobrancaContext$Stone.Cobrancas.Data.CobrancaContext:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B?=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService

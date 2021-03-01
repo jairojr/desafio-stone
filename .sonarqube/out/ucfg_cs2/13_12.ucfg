@@ -1,33 +1,51 @@
 
-wStone.Clientes.API.Configuration.SwaggerConfiguration.UseSwaggerStone(Microsoft.AspNetCore.Builder.IApplicationBuilder)~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs#, #(;"0*®
-
-0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs% +(Ï
-È
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs% %(46
-%00Microsoft.AspNetCore.Builder.IApplicationBuilder"∞Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
-5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""ı
-Ú
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs% )(6
-%10Microsoft.AspNetCore.Builder.IApplicationBuilder"∏Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
-7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*8
+iStone.Clientes.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs% %(%"0*≥
+0d
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs' -(Ç“
+œ
+c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs' '(%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection‰
+·
+c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs)  )(#6
+%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment""Stone.Clientes.API.Startup.Env.get*
+Stone.Clientes.API.Startupù
+ö
+c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs) )($A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"ØStone.Clientes.API.Configuration.SwaggerConfiguration.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)*9"7
+5Stone.Clientes.API.Configuration.SwaggerConfiguration*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*8
 6
-%00Microsoft.AspNetCore.Builder.IApplicationBuilder*
-"""ª
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs+ +(9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*õ
-1~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs,	 ,(	"ï
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs, ,(	
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderB9"7
-5Stone.Clientes.API.Configuration.SwaggerConfiguration
+%10Microsoft.AspNetCore.Hosting.IWebHostEnvironmentó
+î
+c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs+ +($A
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"rStone.Clientes.Application.IocExtension.ConfigurarIoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*+")
+'Stone.Clientes.Application.IocExtension*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÃ
+…
+d
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs- -(ÉA
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+""*
+1*‰
+1c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs.	 .(	"z
+c
+YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs. .(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+Stone.Clientes.API.Startup

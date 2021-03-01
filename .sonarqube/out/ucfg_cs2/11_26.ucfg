@@ -1,18 +1,38 @@
 
-EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.Mes.setá
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs# #(""0*ç
-0á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs## #(#ê
-ç
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs# #(#\?
-=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
-MesSystem.Nullable<T>"__id*
-
-valueSystem.Nullable<T>"Í
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs# #(#^*\?
-=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
-MesSystem.Nullable<T>:
-valueSystem.Nullable<T>BA?
-=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel
+îStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.ValidarBusca(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs7 7(!"0*˜
+0ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs9 9($”
+–
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs9 9(%
+
+%0bool"ìStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)*LJ
+HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation*H
+F
+busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel*
+1
+2*˜
+2ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs9) 9(=÷
+”
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs9) 9(>
+
+%1bool"ñStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorAnoMes(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)*LJ
+HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation*H
+F
+busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel*
+1*¡
+1ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs:	 :(	"•
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs9 9(?
+	{unknown}*«
+3ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs:	 :(	"´
+ì
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs: :(	
+implicit return:F
+busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModelBLJ
+HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation

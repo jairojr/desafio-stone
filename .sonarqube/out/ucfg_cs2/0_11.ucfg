@@ -1,18 +1,18 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Size.setV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (""0*í
+)Stone.Utils.ResultadoPaginado<T>.Page.setV
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (""0*í
 0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs# (#§
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs# (#§
 °
 V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#1"
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#1"
  Stone.Utils.ResultadoPaginado<T>"
-Sizeint"__id*
+Pageint"__id*
 
 valueint"ç
 V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#3*1"
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#3*1"
  Stone.Utils.ResultadoPaginado<T>"
-Sizeint:
+Pageint:
 valueintB$"
  Stone.Utils.ResultadoPaginado<T>

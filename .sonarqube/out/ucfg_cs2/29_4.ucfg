@@ -1,18 +1,16 @@
 
-@Stone.Clientes.Application.ViewModel.ClienteViewModel.Estado.set~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ViewModel\ClienteViewModel.cs$ ('"0*Á
+@Stone.Cobrancas.Data.Repositories.CobrancaRepository.Context.get~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (,"0*Ù
 0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ViewModel\ClienteViewModel.cs( ((é
-æ
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs- (-¢
+Ÿ
 ~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ViewModel\ClienteViewModel.cs$ ((K7
-5Stone.Clientes.Application.ViewModel.ClienteViewModel"
-Estadostring"__id*
-
-valuestring"Ï
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (-*
+%0$Stone.Cobrancas.Data.CobrancaContext"__id*k*i6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"/
+Context$Stone.Cobrancas.Data.CobrancaContext"®
 ~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ViewModel\ClienteViewModel.cs$ ((M*K7
-5Stone.Clientes.Application.ViewModel.ClienteViewModel"
-Estadostring:
-valuestringB97
-5Stone.Clientes.Application.ViewModel.ClienteViewModel
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (-,
+*
+%0$Stone.Cobrancas.Data.CobrancaContextB86
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

@@ -1,30 +1,49 @@
 
-mStone.Cobrancas.Data.Repositories.CobrancaRepository.CobrancaRepository(Stone.Cobrancas.Data.CobrancaContext)~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (!"1*à
-1~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs	 (	*
-0*€
-0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (/ú
-ô
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (/0
-%0*MongoDB.Driver.IMongoCollection<TDocument>"2Stone.Cobrancas.Data.CobrancaContext.Cobrancas.get*1
+nStone.Clientes.Application.ClienteApplication.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csO, O(;"0*√
+0v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csQ S(<Æ
+´
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csQ  Q(.4
+%0.Stone.Clientes.Domain.Services.IClienteService"__id*u*s/
+-Stone.Clientes.Application.ClienteApplication"@
+clienteService.Stone.Clientes.Domain.Services.IClienteService’“
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csQ  Q(\*
+%1$System.Threading.Tasks.Task<TResult>"oStone.Clientes.Domain.Services.IClienteService.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)*6
+4
+%0.Stone.Clientes.Domain.Services.IClienteService*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken2@ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)∫
+∑
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csQ Q(\/
+cliente$Stone.Clientes.Domain.Models.Cliente"__id*
+""Ó
+Î
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csS S(
+%2AutoMapper.IMapper"__id*Q*O/
+-Stone.Clientes.Application.ClienteApplication"
+mapperAutoMapper.IMapper‘—
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csS S(=;
+%35Stone.Clientes.Application.ViewModel.ClienteViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%2AutoMapper.IMapper*1
 /
-context$Stone.Cobrancas.Data.CobrancaContext±
-Æ
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (/r6
-4Stone.Cobrancas.Data.Repositories.CobrancaRepository"8
-
-cobrancaDb*MongoDB.Driver.IMongoCollection<TDocument>"__id*2
-0
-%0*MongoDB.Driver.IMongoCollection<TDocument>*
-2*õ
-2~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs	 (	"ï
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs (	
-implicit return:/
-context$Stone.Cobrancas.Data.CobrancaContextB86
-4Stone.Cobrancas.Data.Repositories.CobrancaRepository
+cliente$Stone.Clientes.Domain.Models.Cliente2Map<TDestination>(object)"∑
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csS S(>=
+;
+%35Stone.Clientes.Application.ViewModel.ClienteViewModel*ã
+1v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csT	 T(	"ç
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csT T(	
+implicit return:
+	idClienteSystem.Guid:7
+cancellationToken"System.Threading.CancellationTokenB1/
+-Stone.Clientes.Application.ClienteApplication

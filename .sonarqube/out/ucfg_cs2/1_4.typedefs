@@ -1,4 +1,5 @@
-≥
-8Stone.Clientes.Domain.Validation.ClienteInsertValidation%FluentValidation.AbstractValidator<T>object⁄
-NClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)áStone.Clientes.Domain.Validation.ClienteInsertValidation.ClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)Í
-VValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)èStone.Clientes.Domain.Validation.ClienteInsertValidation.ValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)
+ˆ
+/Stone.Cobrancas.Domain.Services.CobrancaServiceobjectƒ
+HCobrancaService(Stone.Cobrancas.Domain.Repositories.ICobrancaRepository)xStone.Cobrancas.Domain.Services.CobrancaService.CobrancaService(Stone.Cobrancas.Domain.Repositories.ICobrancaRepository)è
+mBuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)ùStone.Cobrancas.Domain.Services.CobrancaService.BuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)·
+VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)ÜStone.Cobrancas.Domain.Services.CobrancaService.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)

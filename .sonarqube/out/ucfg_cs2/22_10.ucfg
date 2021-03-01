@@ -1,18 +1,30 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Size.setV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (""0*í
-0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs# (#§
-°
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#1"
- Stone.Utils.ResultadoPaginado<T>"
-Sizeint"__id*
-
-valueint"ç
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#3*1"
- Stone.Utils.ResultadoPaginado<T>"
-Sizeint:
-valueintB$"
- Stone.Utils.ResultadoPaginado<T>
+ÇStone.Utils.MultiplaValidacaoException.MultiplaValidacaoException(System.Collections.Generic.List<Stone.Utils.ValidacaoException>)_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs ()"1*“
+1_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs	 (	g
+e
+
+%0void"3Stone.Utils.ValidacaoException.ValidacaoException()*" 
+Stone.Utils.ValidacaoException*
+0*Ë
+0_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs ((¸
+˘
+_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs ((\(
+&Stone.Utils.MultiplaValidacaoException"0
+
+Validacoes"System.Collections.Generic.List<T>"__id*2
+0
+
+validacoes"System.Collections.Generic.List<T>*
+2*‹
+2_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs	 (	"v
+_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs (	
+implicit return:0
+
+validacoes"System.Collections.Generic.List<T>B*(
+&Stone.Utils.MultiplaValidacaoException

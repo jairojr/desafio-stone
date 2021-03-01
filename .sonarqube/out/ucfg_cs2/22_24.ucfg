@@ -1,28 +1,18 @@
 
-UStone.Utils.CpfExtensions.Cpf.implicit operator Stone.Utils.CpfExtensions.Cpf(string)R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csk# k(+"0*½
-0R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l( ›˜
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(!#
-%0Stone.Utils.CpfExtensions.Cpf"Stone.Utils.CpfExtensions.CpfÈ
-Å
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(
-
-%1void")Stone.Utils.CpfExtensions.Cpf.Cpf(string)*%
-#
-%0Stone.Utils.CpfExtensions.Cpf*
++Stone.Utils.ValidacaoException.Mensagem.setW
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs& ()"0*¢
+0W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs* (*­
+ª
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs& (*6 
+Stone.Utils.ValidacaoException"
+Mensagemstring"__id*
 
-valuestring"{
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(!%
-#
-%0Stone.Utils.CpfExtensions.Cpf*Â
-1R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl" l(""i
-R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl! l("
-implicit return:
-valuestringB!"
-Stone.Utils.CpfExtensions.Cpf
+valuestring"“
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs& (*8*6 
+Stone.Utils.ValidacaoException"
+Mensagemstring:
+valuestringB" 
+Stone.Utils.ValidacaoException

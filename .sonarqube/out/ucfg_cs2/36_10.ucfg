@@ -1,41 +1,31 @@
 
-jStone.Cobrancas.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs& &(%"0*ó
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs( ,($Ô
-Ñ
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs( ((%:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionè
-å
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs*  *(#6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment"#Stone.Cobrancas.API.Startup.Env.get*
-Stone.Cobrancas.API.Startup¡
-ž
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* *($A
-%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Stone.Cobrancas.API.Configuration.SwaggerConfiguration.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)*:"8
-6Stone.Cobrancas.API.Configuration.SwaggerConfiguration*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*8
-6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment›
-˜
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs, ,($A
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"sStone.Cobrancas.Application.IocExtension.ConfigurarIoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*,"*
-(Stone.Cobrancas.Application.IocExtension*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*è
+ˆStone.Cobrancas.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs ("1*o
 1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs-	 -(	"|
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs 	  (	*
+0*Ñ
+0e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs (¹
+¶
 e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs- -(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs ()7
+%01Microsoft.Extensions.Configuration.IConfiguration"-Stone.Cobrancas.API.Startup.Configuration.set*
+Stone.Cobrancas.API.Startup*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration£
+ 
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs (6
+%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment"#Stone.Cobrancas.API.Startup.Env.set*
+Stone.Cobrancas.API.Startup*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+2*è
+2e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs 	  (	"|
+e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs   (	
+implicit return:B
+configuration1Microsoft.Extensions.Configuration.IConfiguration:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
 Stone.Cobrancas.API.Startup

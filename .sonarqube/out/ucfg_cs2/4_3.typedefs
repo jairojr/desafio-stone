@@ -1,6 +1,11 @@
-ù
-&Stone.Clientes.Data.Migrations.Initial2Microsoft.EntityFrameworkCore.Migrations.Migrationobject•
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)dStone.Clientes.Data.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)©
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)fStone.Clientes.Data.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)£
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)cStone.Clientes.Data.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)=
-	Initial()0Stone.Clientes.Data.Migrations.Initial.Initial()
+‹
+*Stone.Cobrancas.Data.Models.CobrancaEntityobject•
+;CobrancaEntity(System.Guid, System.DateTime, long, decimal)fStone.Cobrancas.Data.Models.CobrancaEntity.CobrancaEntity(System.Guid, System.DateTime, long, decimal);
+Id.get1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.get;
+Id.set1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.set?
+Data.get3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.get?
+Data.set3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.set=
+CPF.get2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.get=
+CPF.set2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.setA
+	Valor.get4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.getA
+	Valor.set4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.set

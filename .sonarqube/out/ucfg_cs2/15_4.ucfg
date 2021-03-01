@@ -1,18 +1,23 @@
 
-#Stone.Cobrancas.API.Startup.Env.sete
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (-"0*º
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs. (.‡
-„
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.X
-Stone.Cobrancas.API.Startup"7
-Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*;
-9
-value0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"Ã
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* (.Z*X
-Stone.Cobrancas.API.Startup"7
-Env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment:9
-value0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
-Stone.Cobrancas.API.Startup
+yStone.Cobrancas.API.Middleware.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (&"1*‹
+1€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs	 (	*
+0*¾
+0€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (°
+­
+€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (m8
+6Stone.Cobrancas.API.Middleware.ErrorHandlingMiddleware"1
+Next)Microsoft.AspNetCore.Http.RequestDelegate"__id*3
+1
+next)Microsoft.AspNetCore.Http.RequestDelegate*
+2*¡
+2€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs	 (	"˜
+€
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs (	
+implicit return:1
+next)Microsoft.AspNetCore.Http.RequestDelegateB:8
+6Stone.Cobrancas.API.Middleware.ErrorHandlingMiddleware
