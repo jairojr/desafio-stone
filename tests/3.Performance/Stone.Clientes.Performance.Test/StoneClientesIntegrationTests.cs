@@ -5,6 +5,7 @@ using Stone.Clientes.Performance.Test.Fixture;
 using Stone.Clientes.Performance.Tests.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Net;
@@ -14,6 +15,7 @@ using Xunit;
 
 namespace Stone.Clientes.Performance.Tests
 {
+    [Trait("Category", "Performance")]
     public class StoneClientesPerformanceTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>, IClassFixture<ClienteFixture>
     {
         private readonly HttpClient _api;

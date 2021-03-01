@@ -5,6 +5,7 @@ using Stone.Cobrancas.Performance.Test.Fixture;
 using Stone.Cobrancas.Performance.Tests.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Net;
@@ -14,6 +15,7 @@ using Xunit;
 
 namespace Stone.Cobrancas.Performance.Tests
 {
+    [Trait("Category", "Performance")]
     public class StoneCobrancasPerformanceTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>, IClassFixture<CobrancaFixture>
     {
         private readonly HttpClient _api;

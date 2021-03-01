@@ -10,6 +10,7 @@ using Xunit;
 
 namespace Stone.Clientes.Integration.Tests
 {
+    [Trait("Category", "Integration")]
     public class StoneClientesIntegrationTests : IClassFixture<CustomWebApplicationFactory<API.Startup>>
     {
         private readonly HttpClient _api;
