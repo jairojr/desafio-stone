@@ -1,6 +1,9 @@
-
-vC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\Services\ClienteServiceTests.csutf-8ä
-ÄC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\Validation\ClienteInsertValidationTest.csutf-8}
-rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.9.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8©
-ùC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8¶
-öC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Domain.Tests\obj\Debug\netcoreapp3.1\Stone.Clientes.Domain.Tests.AssemblyInfo.csutf-8
+w
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\ClienteViewModel.csutf-8x
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.csutf-8g
+^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.csutf-8w
+nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.csutf-8x
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.csutf-8m
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cswindows-1252¶
+öC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8û
+íC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\obj\Debug\netcoreapp3.1\Stone.Cobrancas.Worker.AssemblyInfo.csutf-8

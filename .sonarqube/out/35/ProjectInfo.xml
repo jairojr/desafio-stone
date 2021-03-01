@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>Stone.Clientes.Integration.Tests</ProjectName>
+  <ProjectName>Stone.Cobrancas.Application.Tests</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Test</ProjectType>
-  <ProjectGuid>6e19f45a-9add-4442-adf5-3515957bd547</ProjectGuid>
-  <FullPath>C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\Stone.Clientes.Integration.Tests.csproj</FullPath>
+  <ProjectGuid>4f3c5fe1-f25a-423e-9eb9-4cea518c82d2</ProjectGuid>
+  <FullPath>C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Application.Tests\Stone.Cobrancas.Application.Tests.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\jairo\source\repos\DesafioStone\.sonarqube\out\35\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\bin\Debug\netcoreapp3.1\Stone.Clientes.Integration.Tests.dll.RoslynCA.json|C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\bin\Debug\netcoreapp3.1\Stone.Clientes.Integration.Tests.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Application.Tests\bin\Debug\netcoreapp3.1\Stone.Cobrancas.Application.Tests.dll.RoslynCA.json|C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Application.Tests\bin\Debug\netcoreapp3.1\Stone.Cobrancas.Application.Tests.dll.RoslynCA.json</Property>
     <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\jairo\source\repos\DesafioStone\.sonarqube\out\35</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>

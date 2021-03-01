@@ -1,38 +1,20 @@
 
-dStone.Clientes.Data.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs  (""0*Ð
-0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs
- (™–
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs
- (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Clientes*
+_Stone.Clientes.Data.ClientesContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs  (/"0*Ð
+0l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (Y×Ô
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (Z0
+%0*Microsoft.EntityFrameworkCore.ModelBuilder"†Microsoft.EntityFrameworkCore.ModelBuilder.ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
 ""*
-""*
-""*
-""2ûCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)©¦
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs (_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Clientes_CPF*
-
-Clientes*
-CPF*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)*
-1*›
-1~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs	 (	"•
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB*(
-&Stone.Clientes.Data.Migrations.Initial
+""2[ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>)*
+1*÷
+1l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	"ƒ
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB'%
+#Stone.Clientes.Data.ClientesContext

@@ -1,33 +1,18 @@
 
-wStone.Clientes.API.Configuration.SwaggerConfiguration.UseSwaggerStone(Microsoft.AspNetCore.Builder.IApplicationBuilder)~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs#, #(;"0*®
-
-0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs% +(Ï
-È
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs% %(46
-%00Microsoft.AspNetCore.Builder.IApplicationBuilder"∞Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
-5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""ı
-Ú
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs% )(6
-%10Microsoft.AspNetCore.Builder.IApplicationBuilder"∏Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
-7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*8
-6
-%00Microsoft.AspNetCore.Builder.IApplicationBuilder*
-"""ª
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs+ +(9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*õ
-1~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs,	 ,(	"ï
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs, ,(	
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderB9"7
-5Stone.Clientes.API.Configuration.SwaggerConfiguration
+?Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.CPF.setÅ
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs! ($"0*À
+0Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs% (%Ï
+È
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs! (%J9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+CPFstring"__id*
+
+valuestring"“
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs! (%L*J9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+CPFstring:
+valuestringB;9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel

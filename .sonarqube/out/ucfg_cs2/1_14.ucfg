@@ -1,18 +1,30 @@
 
-/Stone.Cobrancas.Domain.Models.Cobranca.Data.setp
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs, (/"0*ê
-0p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs0 (0‹
-Ÿ
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs$ (0C(
-&Stone.Cobrancas.Domain.Models.Cobranca"
-DataSystem.DateTime"__id*
-
-valueSystem.DateTime"π
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs$ (0E*C(
-&Stone.Cobrancas.Domain.Models.Cobranca"
-DataSystem.DateTime:
-valueSystem.DateTimeB*(
-&Stone.Cobrancas.Domain.Models.Cobranca
+oStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs' '("1*w
+1m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs)	 )(	*
+0*ø
+0m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs'J '(q≈
+¬
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs'J '(r
+
+%0void"qStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)*(&
+$Stone.Clientes.Domain.Models.Cliente*
+""*
+
+nomestring*
+""*
+""*
+2*˘
+2m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs)	 )(	"Ñ
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs) )(	
+implicit return:
+idSystem.Guid:
+nomestring:0
+estado&Stone.Clientes.Domain.Enums.EstadoEnum:
+cPFlongB(&
+$Stone.Clientes.Domain.Models.Cliente

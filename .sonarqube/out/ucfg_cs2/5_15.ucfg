@@ -1,16 +1,110 @@
 
-0Stone.Clientes.Data.ClientesContext.Clientes.getl
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs/ (2"0*´
-0l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs3 (3ê
-ç
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs/ (32
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*c*a%
-#Stone.Clientes.Data.ClientesContext"8
-Clientes,Microsoft.EntityFrameworkCore.DbSet<TEntity>"§
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs/ (34
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B'%
-#Stone.Clientes.Data.ClientesContext
+\Stone.Cobrancas.Data.CobrancaContext.ConfigureMongoIndex(System.Threading.CancellationToken)n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs   (-"0*È&
+0n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs" *(kâ
+Ü
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs" "(@:
+%04MongoDB.Driver.IndexKeysDefinitionBuilder<TDocument>"0MongoDB.Driver.Builders<TDocument>.IndexKeys.get*&"$
+"MongoDB.Driver.Builders<TDocument>Û
+
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs" "(V3
+%1-MongoDB.Driver.IndexKeysDefinition<TDocument>"ÇMongoDB.Driver.IndexKeysDefinitionBuilder<TDocument>.Ascending(System.Linq.Expressions.Expression<System.Func<TDocument, object>>)*<
+:
+%04MongoDB.Driver.IndexKeysDefinitionBuilder<TDocument>*
+""Ó
+Î
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs" "(V<
+indexKeyCpf-MongoDB.Driver.IndexKeysDefinition<TDocument>"__id*5
+3
+%1-MongoDB.Driver.IndexKeysDefinition<TDocument>â
+Ü
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs#$ #(F:
+%24MongoDB.Driver.IndexKeysDefinitionBuilder<TDocument>"0MongoDB.Driver.Builders<TDocument>.IndexKeys.get*&"$
+"MongoDB.Driver.Builders<TDocument>Û
+
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs#$ #(]3
+%3-MongoDB.Driver.IndexKeysDefinition<TDocument>"ÇMongoDB.Driver.IndexKeysDefinitionBuilder<TDocument>.Ascending(System.Linq.Expressions.Expression<System.Func<TDocument, object>>)*<
+:
+%24MongoDB.Driver.IndexKeysDefinitionBuilder<TDocument>*
+""Ù
+Ò
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs# #(]B
+indexDataCobranca-MongoDB.Driver.IndexKeysDefinition<TDocument>"__id*5
+3
+%3-MongoDB.Driver.IndexKeysDefinition<TDocument>¡æ
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs%$ )((
+%4"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>÷
+”
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs%( %(N
+
+%5void")System.Collections.Generic.List<T>.List()**
+(
+%4"System.Collections.Generic.List<T>—Œ
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs' '(A0
+%6*MongoDB.Driver.CreateIndexModel<TDocument>"*MongoDB.Driver.CreateIndexModel<TDocument>ã
+à
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs' '(4
+
+%7void"çMongoDB.Driver.CreateIndexModel<TDocument>.CreateIndexModel(MongoDB.Driver.IndexKeysDefinition<TDocument>, MongoDB.Driver.CreateIndexOptions)*2
+0
+%6*MongoDB.Driver.CreateIndexModel<TDocument>*>
+<
+indexKeyCpf-MongoDB.Driver.IndexKeysDefinition<TDocument>*
+""—Œ
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs( ((G0
+%8*MongoDB.Driver.CreateIndexModel<TDocument>"*MongoDB.Driver.CreateIndexModel<TDocument>ë
+é
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs( ((4
+
+%9void"çMongoDB.Driver.CreateIndexModel<TDocument>.CreateIndexModel(MongoDB.Driver.IndexKeysDefinition<TDocument>, MongoDB.Driver.CreateIndexOptions)*2
+0
+%8*MongoDB.Driver.CreateIndexModel<TDocument>*D
+B
+indexDataCobranca-MongoDB.Driver.IndexKeysDefinition<TDocument>*
+""ﬁ
+€
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs% )(7
+listIndexCobranca"System.Collections.Generic.List<T>"__id**
+(
+%4"System.Collections.Generic.List<T>Ñ
+Å
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs* *(1
+%10*MongoDB.Driver.IMongoCollection<TDocument>"2Stone.Cobrancas.Data.CobrancaContext.Cobrancas.get*(&
+$Stone.Cobrancas.Data.CobrancaContext¢ü
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs* *(#3
+%11,MongoDB.Driver.IMongoIndexManager<TDocument>"6MongoDB.Driver.IMongoCollection<TDocument>.Indexes.get*3
+1
+%10*MongoDB.Driver.IMongoCollection<TDocument>2Indexes.getéã
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs* *(l+
+%12$System.Threading.Tasks.Task<TResult>"¥MongoDB.Driver.IMongoIndexManager<TDocument>.CreateManyAsync(System.Collections.Generic.IEnumerable<MongoDB.Driver.CreateIndexModel<TDocument>>, System.Threading.CancellationToken)*5
+3
+%11,MongoDB.Driver.IMongoIndexManager<TDocument>*9
+7
+listIndexCobranca"System.Collections.Generic.List<T>*9
+7
+cancellationToken"System.Threading.CancellationToken2áCreateManyAsync(System.Collections.Generic.IEnumerable<MongoDB.Driver.CreateIndexModel<TDocument>>, System.Threading.CancellationToken)*
+1*˚
+1n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs+	 +(	"Ö
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs+ +(	
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB(&
+$Stone.Cobrancas.Data.CobrancaContext

@@ -1,16 +1,51 @@
 
-9Stone.Cobrancas.Worker.Models.CobrancaViewModel.Valor.gety
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.cs (""0*ì
-0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.cs# (#Ü
-Ù
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.cs (#
-%0decimal"__id*G*E1
-/Stone.Cobrancas.Worker.Models.CobrancaViewModel"
-Valordecimal"Œ
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.cs (#
+ˆStone.Clientes.Data.ClientesContext.ClientesContext(Microsoft.EntityFrameworkCore.DbContextOptions<Stone.Clientes.Data.ClientesContext>)l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs ("1*v
+1l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	*
+0*æ
+0l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.csJ (:Ô
+Ñ
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.csJ (Y
 
-%0decimalB31
-/Stone.Cobrancas.Worker.Models.CobrancaViewModel
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>®«
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (@
+%1:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*+)
+'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.get…
+‚
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs2 (R
+%2"__id*
+""éæ
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (R9
+%33Microsoft.EntityFrameworkCore.QueryTrackingBehavior"TMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.QueryTrackingBehavior.set*B
+@
+%1:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker*
+
+%22QueryTrackingBehavior.set®«
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (@
+%4:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*+)
+'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.getÀ½
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (:
+
+%5bool"WMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.AutoDetectChangesEnabled.set*B
+@
+%4:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker*
+""2AutoDetectChangesEnabled.set*
+2*÷
+2l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	"ƒ
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B'%
+#Stone.Clientes.Data.ClientesContext

@@ -1,16 +1,18 @@
 
-5Stone.Clientes.Data.ClientesContext.ClientesContext()l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs ("1*è
-1l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	p
-n
-
-%0void"3Microsoft.EntityFrameworkCore.DbContext.DbContext()*+)
-'Microsoft.EntityFrameworkCore.DbContext*
-0*÷
-0l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	"ƒ
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (	
-implicit returnB'%
-#Stone.Clientes.Data.ClientesContext
+@Stone.Cobrancas.Data.Repositories.CobrancaRepository.Context.set~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (,"0*›
+0~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs- (-¥
+¢
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (-i6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"/
+Context$Stone.Cobrancas.Data.CobrancaContext"__id*/
+-
+value$Stone.Cobrancas.Data.CobrancaContext"í
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs) (-k*i6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository"/
+Context$Stone.Cobrancas.Data.CobrancaContext:-
+value$Stone.Cobrancas.Data.CobrancaContextB86
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

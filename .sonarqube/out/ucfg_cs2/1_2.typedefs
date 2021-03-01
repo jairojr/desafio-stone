@@ -1,5 +1,16 @@
-ˆ
-/Stone.Cobrancas.Domain.Services.CobrancaServiceobjectƒ
-HCobrancaService(Stone.Cobrancas.Domain.Repositories.ICobrancaRepository)xStone.Cobrancas.Domain.Services.CobrancaService.CobrancaService(Stone.Cobrancas.Domain.Repositories.ICobrancaRepository)è
-mBuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)ùStone.Cobrancas.Domain.Services.CobrancaService.BuscaAsync(Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject, System.Threading.CancellationToken)·
-VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)ÜStone.Cobrancas.Domain.Services.CobrancaService.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)
+÷	
+$Stone.Clientes.Domain.Models.Clienteobjectß
+?Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, string)dStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, string)£
+=Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, long)bStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, long)¡
+LCliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)qStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)Ω
+JCliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)oStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)5
+Id.get+Stone.Clientes.Domain.Models.Cliente.Id.get5
+Id.set+Stone.Clientes.Domain.Models.Cliente.Id.set9
+Nome.get-Stone.Clientes.Domain.Models.Cliente.Nome.get9
+Nome.set-Stone.Clientes.Domain.Models.Cliente.Nome.set=
+
+Estado.get/Stone.Clientes.Domain.Models.Cliente.Estado.get=
+
+Estado.set/Stone.Clientes.Domain.Models.Cliente.Estado.set7
+CPF.get,Stone.Clientes.Domain.Models.Cliente.CPF.get7
+CPF.set,Stone.Clientes.Domain.Models.Cliente.CPF.set

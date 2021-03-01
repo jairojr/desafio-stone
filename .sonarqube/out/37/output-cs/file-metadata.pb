@@ -1,13 +1,8 @@
-x
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csutf-8Ñ
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Interfaces\ICobrancaApplication.csutf-8q
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.csutf-8à
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .csutf-8Ö
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.csutf-8É
-xC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Resources\Mensagens.Designer.csutf-8í
-àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csutf-8å
-ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.csutf-8Ü
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.csutf-8Ä
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.csutf-8≠
-°C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8©
-ùC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\obj\Debug\netstandard2.1\Stone.Cobrancas.Application.AssemblyInfo.csutf-8
+Ñ
+{C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\CustomWebApplicationFactory.csutf-8
+vC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Fixture\ClienteFixture.csutf-8z
+qC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Models\ClienteDTO.csutf-8ç
+}C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\StoneClientesIntegrationTests.cswindows-1252}
+rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8Ø
+£C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8∞
+§C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\obj\Debug\netcoreapp3.1\Stone.Clientes.Performance.Test.AssemblyInfo.csutf-8

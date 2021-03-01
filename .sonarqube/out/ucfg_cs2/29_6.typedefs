@@ -1,7 +1,4 @@
-±	
--Stone.Clientes.Application.ClienteApplicationobjectä
-˜ClienteApplication(AutoMapper.IMapper, Stone.Clientes.Domain.Services.IClienteService, Stone.Clientes.Application.Validation.ClienteViewModelValidation)ÆStone.Clientes.Application.ClienteApplication.ClienteApplication(AutoMapper.IMapper, Stone.Clientes.Domain.Services.IClienteService, Stone.Clientes.Application.Validation.ClienteViewModelValidation)ý
-eCriarAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)“Stone.Clientes.Application.ClienteApplication.CriarAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)¦
-:ObterPorCpfAsync(long, System.Threading.CancellationToken)hStone.Clientes.Application.ClienteApplication.ObterPorCpfAsync(long, System.Threading.CancellationToken)²
-@ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)nStone.Clientes.Application.ClienteApplication.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)²
-@BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)nStone.Clientes.Application.ClienteApplication.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)
+ß
+@Stone.Clientes.Application.Validation.ClienteViewModelValidation%FluentValidation.AbstractValidator<T>object}
+ClienteViewModelValidation()]Stone.Clientes.Application.Validation.ClienteViewModelValidation.ClienteViewModelValidation()m
+EstadoValido(string)UStone.Clientes.Application.Validation.ClienteViewModelValidation.EstadoValido(string)

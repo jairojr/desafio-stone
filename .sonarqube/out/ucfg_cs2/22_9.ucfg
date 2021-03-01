@@ -1,18 +1,16 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Size.setV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (""0*í
-0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs# (#§
-°
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#1"
- Stone.Utils.ResultadoPaginado<T>"
-Sizeint"__id*
+!Stone.Utils.ErrorModel.Codigo.getO
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (""0*“
+0O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs# (#ò
+ï
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (#
+%0string"__id*.*,
+Stone.Utils.ErrorModel"
+Codigostring"a
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (#
 
-valueint"ç
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#3*1"
- Stone.Utils.ResultadoPaginado<T>"
-Sizeint:
-valueintB$"
- Stone.Utils.ResultadoPaginado<T>
+%0stringB
+Stone.Utils.ErrorModel

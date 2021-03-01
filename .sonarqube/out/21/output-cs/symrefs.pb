@@ -1,54 +1,21 @@
-¤
-|C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Cobrancas.Integration.Tests\CustomWebApplicationFactory.cs
+ö
+nC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.API.Tests\CobrancaControllerTest.cs
 
- ,
-- 5O W_ g
+ '2
+4 G $: M(( $FF $(
+, 6 ++$ .II$ .
 
-  0
-A H " )
-* 2 &
-  
+ %
 
-( 9
-  #·
-yC:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Cobrancas.Integration.Tests\Models\BuscaCobrancasDTO.cs
+1 _(
+"" ((= E((m u++9 A
+((+ ,((0 1
+++ ,,  &
+,, // (006 C
 
- "
-
-		 
-
-
-
- 
-
- !
-
- ¥
-sC:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Cobrancas.Integration.Tests\Models\CobrancaDTO.cs
-
- 
-
-		 
-
- 
-
- Ó
-C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Cobrancas.Integration.Tests\StoneCobrancasIntegrationTests.cs
-
- /2
-$ ( ))! %..5 9DD! %
-  77 '
-
- -
-W ^  
-
-1 |
-!! ))G S
-)) ,,1 9--& .
--- #..^ q
-.. ,00 7
-
-441 m
-77 99  %
-99 ;; 
-DD GG #HH $
+441 ^
+77 FF> CII3 8
+== FFk s
+FF+ ,FF0 1
+II JJ! '
+JJ MM )NN1 ?

@@ -1,3 +1,6 @@
-_
-Stone.Cobrancas.Worker.Programobject5
-	Program()(Stone.Cobrancas.Worker.Program.Program()
+ù
+&Stone.Clientes.Data.Migrations.Initial2Microsoft.EntityFrameworkCore.Migrations.Migrationobject•
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)dStone.Clientes.Data.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)©
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)fStone.Clientes.Data.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)£
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)cStone.Clientes.Data.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)=
+	Initial()0Stone.Clientes.Data.Migrations.Initial.Initial()

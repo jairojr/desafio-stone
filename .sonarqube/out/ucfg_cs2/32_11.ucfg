@@ -1,25 +1,20 @@
 
-¯Stone.Clientes.API.Configuration.SwaggerConfiguration.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs+ (5"0*¡
-0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs  (Í
-Ê
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs (A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
-NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-"""Ë
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs   (I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*›
-1~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs!	 !(	"•
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs! !(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB9"7
-5Stone.Clientes.API.Configuration.SwaggerConfiguration
+LStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.Quantidade.set‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs% (("0*î
+0‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs) ()ù
+ö
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs% ()T?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
+
+Quantidadeint"__id*
+
+valueint"â
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs% ()V*T?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
+
+Quantidadeint:
+valueintBA?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel

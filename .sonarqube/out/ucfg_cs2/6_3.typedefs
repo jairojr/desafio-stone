@@ -1,0 +1,4 @@
+­
+/Stone.Cobrancas.Worker.Services.CobrancaServiceobjectñ
+^CobrancaService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)ŽStone.Cobrancas.Worker.Services.CobrancaService.CobrancaService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)ý
+dInserirCobranca(Stone.Cobrancas.Worker.Models.CobrancaViewModel, System.Threading.CancellationToken)”Stone.Cobrancas.Worker.Services.CobrancaService.InserirCobranca(Stone.Cobrancas.Worker.Models.CobrancaViewModel, System.Threading.CancellationToken)

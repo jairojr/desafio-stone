@@ -1,46 +1,21 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Next.getV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs$ $("0*æ
-0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &(1·
-´
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &(	
-%0T[]")Stone.Utils.ResultadoPaginado<T>.Data.get*$"
- Stone.Utils.ResultadoPaginado<T>Œ
-‰
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &($	
-%1int"System.Array.Length.get*
-	
-%0T[]·
-´
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs&( &(1	
-%2int")Stone.Utils.ResultadoPaginado<T>.Size.get*$"
- Stone.Utils.ResultadoPaginado<T>*
-1
-2*ï
-1V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '(§
-¤
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '(
-%3string"__id*6*4"
- Stone.Utils.ResultadoPaginado<T>"
-nextstring"h
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '( 
+(Stone.Utils.CpfExtensions.Cpf.ToString()R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csr# r(+"0*â
+0R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csr1 r(7¢
+Ÿ
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csr1 r(7
+%0string"__id*5*3
+Stone.Utils.CpfExtensions.Cpf"
+_valuestring"d
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csr1 r(7
 
-%3string*½
-2V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs) )("`
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs) )(
-""*Ê
-3V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs* *("m
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs* *(
-implicit returnB$"
- Stone.Utils.ResultadoPaginado<T>
+%0string*Â
+1R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csr8 r(8"i
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csr7 r(8
+implicit returnB!
+Stone.Utils.CpfExtensions.Cpf

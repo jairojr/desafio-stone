@@ -1,16 +1,16 @@
 
-3Stone.Utils.ValidacaoException.ValidacaoException()W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs ($"1*¥
-1W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs	 (	B
-@
-
-%0void"System.Exception.Exception()*
-System.Exception*
-0*Ì
-0W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs	 (	"n
-W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs (	
-implicit returnB" 
-Stone.Utils.ValidacaoException
+)Stone.Utils.ResultadoPaginado<T>.Size.getV
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs ("0*æ
+0V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (¡
+ž
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (	
+%0int"__id*3*1"
+ Stone.Utils.ResultadoPaginado<T>"
+Sizeint"e
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (
+	
+%0intB$"
+ Stone.Utils.ResultadoPaginado<T>

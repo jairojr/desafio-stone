@@ -1,65 +1,45 @@
 
-®Stone.Clientes.Data.Mappings.ClienteEntityMapping.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs ("0*˜!
-0z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs ('Çˇ
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (%@
-%0:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)≤Ø
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (+P
-%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)úô
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (;P
-%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*R
-P
-%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*22HasMaxLength(int)úô
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (HP
-%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*R
-P
-%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
-""2IsRequired(bool)≤Ø
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs ((P
-%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)úô
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (9P
-%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*R
-P
-%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*22HasMaxLength(int)úô
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (FP
-%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*R
-P
-%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
-""2IsRequired(bool)ãà
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs ((E
-%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"ïMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)˜Ù
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (3E
-%8?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
-E
-%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
-""2IsUnique(bool)*
-1*ì
-1z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs	 (	"ë
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs (	
-implicit return:U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B53
-1Stone.Clientes.Data.Mappings.ClienteEntityMapping
+sStone.Clientes.Data.Repositories.ClienteRepository.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken){
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs(# ((2"0*î
+0{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs* +(1µ
+≤
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs*" *(62
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*y*w4
+2Stone.Clientes.Data.Repositories.ClienteRepository"?
+clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>–
+Õ
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs*" *(u*
+%1$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken≈
+¬
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs* *(u5
+	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"__id*
+""ê
+ç
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs+ +(2*
+%2$Stone.Clientes.Domain.Models.Cliente"qStone.Clientes.Data.Repositories.ClienteRepository.RetornaClienteDomain(Stone.Clientes.Data.Models.ClienteEntity)*6"4
+2Stone.Clientes.Data.Repositories.ClienteRepository*7
+5
+	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"´
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs+ +(3,
+*
+%2$Stone.Clientes.Domain.Models.Cliente*ï
+1{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs,	 ,(	"í
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs, ,(	
+implicit return:
+	idClienteSystem.Guid:7
+cancellationToken"System.Threading.CancellationTokenB64
+2Stone.Clientes.Data.Repositories.ClienteRepository

@@ -1,8 +1,5 @@
-Ö
-|C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\CustomWebApplicationFactory.csutf-8Å
-xC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\Fixture\CobrancaFixture.csutf-8{
-rC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\Models\ClienteDTO.csutf-8é
-~C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\StoneClientesIntegrationTests.cswindows-1252}
-rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8∞
-§C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8≤
-¶C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\obj\Debug\netcoreapp3.1\Stone.Cobrancas.Performance.Test.AssemblyInfo.csutf-8
+w
+nC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.API.Tests\CobrancaControllerTest.csutf-8}
+rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8ß
+õC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.API.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8¢
+ñC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.API.Tests\obj\Debug\netcoreapp3.1\Stone.Cobrancas.API.Tests.AssemblyInfo.csutf-8

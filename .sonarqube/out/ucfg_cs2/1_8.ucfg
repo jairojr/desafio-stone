@@ -1,16 +1,28 @@
 
-EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.getá
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs ("0*∆
-0á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (ç
-ä
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
-%0System.Nullable<T>"__id*^*\?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
-AnoSystem.Nullable<T>"¶
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
-
-%0System.Nullable<T>BA?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject
+bStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, long)m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs ("1*w
+1m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs	 (	*
+0*™
+0m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.csA (d∞
+≠
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.csA (e
+
+%0void"dStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, string)*(&
+$Stone.Clientes.Domain.Models.Cliente*
+
+nomestring*
+""*
+""*
+2*˘
+2m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs	 (	"Ñ
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs (	
+implicit return:
+nomestring:0
+estado&Stone.Clientes.Domain.Enums.EstadoEnum:
+cPFlongB(&
+$Stone.Clientes.Domain.Models.Cliente

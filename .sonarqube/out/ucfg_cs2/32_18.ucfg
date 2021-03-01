@@ -1,81 +1,18 @@
 
-≠Stone.Clientes.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Stone.Clientes.Data.ClientesContext)c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs6 6("0*Ÿ
-0c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs8 8(#Ê
-„
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs8 8(#
-
-%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
-9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-1
-2*ö
-1c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs: :(/™
-ß
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs: :(/6
-%10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
-=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-2*ü
-2c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs= H(∫
-∑
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs= =(>6
-%20Microsoft.AspNetCore.Builder.IApplicationBuilder"íMicrosoft.AspNetCore.Builder.UseMiddlewareExtensions.UseMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Type, params object[])*8"6
-4Microsoft.AspNetCore.Builder.UseMiddlewareExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""*
-""è
-å
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs? ?(!6
-%30Microsoft.AspNetCore.Builder.IApplicationBuilder"wStone.Clientes.API.Configuration.SwaggerConfiguration.UseSwaggerStone(Microsoft.AspNetCore.Builder.IApplicationBuilder)*9"7
-5Stone.Clientes.API.Configuration.SwaggerConfiguration*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder±
-Æ
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.csA A(6
-%40Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder°û
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.csC C(A
-%5;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*0
-.
-context#Stone.Clientes.Data.ClientesContext2Database.getá
-Ñ
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.csC C(&
-
-%6void"ÖMicrosoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)*D"B
-@Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions*C
-A
-%5;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade˛
-˚
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.csE H(6
-%70Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""*
-3*‰
-3c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.csI	 I(	"z
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.csI I(	
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment:.
-context#Stone.Clientes.Data.ClientesContextB
-Stone.Clientes.API.Startup
+EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.Ano.setá
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (""0*ç
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs# (#ê
+ç
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (#\?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
+AnoSystem.Nullable<T>"__id*
+
+valueSystem.Nullable<T>"Í
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs (#^*\?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
+AnoSystem.Nullable<T>:
+valueSystem.Nullable<T>BA?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel

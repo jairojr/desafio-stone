@@ -1,18 +1,18 @@
 
-)Stone.Utils.ValidacaoException.Codigo.setW
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs$ ('"0*û
-0W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs( ((´
-®
-W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs$ ((4 
-Stone.Utils.ValidacaoException"
-Codigostring"__id*
+#Stone.Utils.ErrorModel.Mensagem.setO
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& ()"0*˙
+0O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs* (*ù
+ö
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& (*.
+Stone.Utils.ErrorModel"
+Mensagemstring"__id*
 
-valuestring"ë
-W
-MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs$ ((6*4 
-Stone.Utils.ValidacaoException"
-Codigostring:
-valuestringB" 
-Stone.Utils.ValidacaoException
+valuestring"É
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& (*0*.
+Stone.Utils.ErrorModel"
+Mensagemstring:
+valuestringB
+Stone.Utils.ErrorModel

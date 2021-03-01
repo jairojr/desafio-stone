@@ -1,14 +1,11 @@
-É
-(Stone.Clientes.Data.Models.ClienteEntityobjectK
-ClienteEntity()8Stone.Clientes.Data.Models.ClienteEntity.ClienteEntity()ç
-0ClienteEntity(System.Guid, string, string, long)YStone.Clientes.Data.Models.ClienteEntity.ClienteEntity(System.Guid, string, string, long)9
-Id.get/Stone.Clientes.Data.Models.ClienteEntity.Id.get9
-Id.set/Stone.Clientes.Data.Models.ClienteEntity.Id.set=
-Nome.get1Stone.Clientes.Data.Models.ClienteEntity.Nome.get=
-Nome.set1Stone.Clientes.Data.Models.ClienteEntity.Nome.setA
-
-Estado.get3Stone.Clientes.Data.Models.ClienteEntity.Estado.getA
-
-Estado.set3Stone.Clientes.Data.Models.ClienteEntity.Estado.set;
-CPF.get0Stone.Clientes.Data.Models.ClienteEntity.CPF.get;
-CPF.set0Stone.Clientes.Data.Models.ClienteEntity.CPF.set
+‹
+*Stone.Cobrancas.Data.Models.CobrancaEntityobject•
+;CobrancaEntity(System.Guid, System.DateTime, long, decimal)fStone.Cobrancas.Data.Models.CobrancaEntity.CobrancaEntity(System.Guid, System.DateTime, long, decimal);
+Id.get1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.get;
+Id.set1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.set?
+Data.get3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.get?
+Data.set3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.set=
+CPF.get2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.get=
+CPF.set2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.setA
+	Valor.get4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.getA
+	Valor.set4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.set

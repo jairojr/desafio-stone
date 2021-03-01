@@ -1,45 +1,38 @@
 
-sStone.Clientes.Data.Repositories.ClienteRepository.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken){
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs(# ((2"0*î
-0{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs* +(1µ
-≤
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs*" *(62
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*y*w4
-2Stone.Clientes.Data.Repositories.ClienteRepository"?
-clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>–
-Õ
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs*" *(u*
-%1$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""*9
-7
-cancellationToken"System.Threading.CancellationToken≈
-¬
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs* *(u5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"__id*
-""ê
-ç
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs+ +(2*
-%2$Stone.Clientes.Domain.Models.Cliente"qStone.Clientes.Data.Repositories.ClienteRepository.RetornaClienteDomain(Stone.Clientes.Data.Models.ClienteEntity)*6"4
-2Stone.Clientes.Data.Repositories.ClienteRepository*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"´
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs+ +(3,
-*
-%2$Stone.Clientes.Domain.Models.Cliente*ï
-1{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs,	 ,(	"í
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs, ,(	
-implicit return:
-	idClienteSystem.Guid:7
-cancellationToken"System.Threading.CancellationTokenB64
-2Stone.Clientes.Data.Repositories.ClienteRepository
+dStone.Clientes.Data.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs  (""0*–
+0~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs
+ (ôñ
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs
+ (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Clientes*
+""*
+""*
+""*
+""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)©¶
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs (_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Clientes_CPF*
+
+Clientes*
+CPF*
+""*
+""*
+""29CreateIndex(string, string, string, string, bool, string)*
+1*õ
+1~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs	 (	"ï
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB*(
+&Stone.Clientes.Data.Migrations.Initial

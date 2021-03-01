@@ -1,6 +1,6 @@
-w
-nC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\Models\CobrancaTest.csutf-8Ä
-wC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\Services\CobrancaServiceTest.csutf-8}
-rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.9.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8™
-ûC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8®
-úC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\obj\Debug\netcoreapp3.1\Stone.Cobrancas.Domain.Tests.AssemblyInfo.csutf-8
+m
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.csutf-8s
+jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Models\CobrancaEntity.csutf-8}
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.csutf-8¶
+öC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8õ
+èC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\obj\Debug\netstandard2.1\Stone.Cobrancas.Data.AssemblyInfo.csutf-8

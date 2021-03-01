@@ -1,12 +1,3 @@
-Š
-&Stone.Cobrancas.Domain.Models.CobrancaobjectÇ
-NCobranca(System.Guid, System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)uStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.Guid, System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)­
-ACobranca(System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)hStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)7
-Id.get-Stone.Cobrancas.Domain.Models.Cobranca.Id.get7
-Id.set-Stone.Cobrancas.Domain.Models.Cobranca.Id.set;
-Data.get/Stone.Cobrancas.Domain.Models.Cobranca.Data.get;
-Data.set/Stone.Cobrancas.Domain.Models.Cobranca.Data.set9
-CPF.get.Stone.Cobrancas.Domain.Models.Cobranca.CPF.get9
-CPF.set.Stone.Cobrancas.Domain.Models.Cobranca.CPF.set=
-	Valor.get0Stone.Cobrancas.Domain.Models.Cobranca.Valor.get=
-	Valor.set0Stone.Cobrancas.Domain.Models.Cobranca.Valor.set
+”
+&Stone.Clientes.Domain.Enums.EstadoEnumSystem.EnumSystem.ValueTypeobjectC
+EstadoEnum()3Stone.Clientes.Domain.Enums.EstadoEnum.EstadoEnum()

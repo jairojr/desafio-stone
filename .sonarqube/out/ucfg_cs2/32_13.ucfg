@@ -1,39 +1,16 @@
 
-cStone.Clientes.API.Middleware.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs! !( "0*ù
-0~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs% %("™
-ß
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs% %(/
-%0)Microsoft.AspNetCore.Http.RequestDelegate"__id*n*l7
-5Stone.Clientes.API.Middleware.ErrorHandlingMiddleware"1
-Next)Microsoft.AspNetCore.Http.RequestDelegate‚
-ﬂ
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs% %(#!
-%1System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*-+
-)Microsoft.AspNetCore.Http.RequestDelegate*2
-0
-context%Microsoft.AspNetCore.Http.HttpContext*
-1
-2*¿
-1~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs) )(6µ
-≤
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs) )(7!
-%2System.Threading.Tasks.Task"ÉStone.Clientes.API.Middleware.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)*97
-5Stone.Clientes.API.Middleware.ErrorHandlingMiddleware*2
-0
-context%Microsoft.AspNetCore.Http.HttpContext*
-
-exSystem.Exception*
-2*õ
-2~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs+	 +(	"ï
-~
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs+ +(	
-implicit return:0
-context%Microsoft.AspNetCore.Http.HttpContextB97
-5Stone.Clientes.API.Middleware.ErrorHandlingMiddleware
+AStone.Cobrancas.Application.ViewModel.CobrancaViewModel.Valor.getÅ
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs (""0*è
+0Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs# (#Ì
+Í
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs (#
+%0decimal"__id*O*M9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+Valordecimal"ï
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs (#
+
+%0decimalB;9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel

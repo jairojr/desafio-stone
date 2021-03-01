@@ -1,59 +1,16 @@
 
-åStone.Cobrancas.Worker.Services.ClienteService.ClienteService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs ("1*Ç
-1x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs	 (	*
-0*ø
-
-0x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs ($≈¬
-x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs- (V
-%0string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-StoneApiClientes:BaseUrl2this[string].getõò
-x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs% (W
-%1
-System.Uri"
-System.Uri≈
-¬
-x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs) (,
-
-%2void"System.Uri.Uri(string)*
-
-%1
-System.Uri*
+3Stone.Clientes.Data.Models.ClienteEntity.Estado.getq
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (""0*À
+0q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs# (#Ã
+…
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (#
+%0string"__id*@*>*
+(Stone.Clientes.Data.Models.ClienteEntity"
+Estadostring"É
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (#
 
-%0string˚
-¯
-x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (W
-%3
-System.Uri"*System.Net.Http.HttpClient.BaseAddress.set**
-(
-
-httpClientSystem.Net.Http.HttpClient*
-
-%1
-System.Urié
-ã
-x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs ($]0
-.Stone.Cobrancas.Worker.Services.ClienteService")
-_httpClientSystem.Net.Http.HttpClient"__id**
-(
-
-httpClientSystem.Net.Http.HttpClient*
-2*è
-2x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs	 (	"è
-x
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs (	
-implicit return:(
-
-httpClientSystem.Net.Http.HttpClient:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB20
-.Stone.Cobrancas.Worker.Services.ClienteService
+%0stringB,*
+(Stone.Clientes.Data.Models.ClienteEntity

@@ -1,28 +1,18 @@
 
-bStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, long)m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs ("1*w
-1m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs	 (	*
-0*™
-0m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.csA (d∞
-≠
-m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.csA (e
-
-%0void"dStone.Clientes.Domain.Models.Cliente.Cliente(string, Stone.Clientes.Domain.Enums.EstadoEnum, string)*(&
-$Stone.Clientes.Domain.Models.Cliente*
-
-nomestring*
-""*
-""*
-2*˘
-2m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs	 (	"Ñ
-m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs (	
-implicit return:
-nomestring:0
-estado&Stone.Clientes.Domain.Enums.EstadoEnum:
-cPFlongB(&
-$Stone.Clientes.Domain.Models.Cliente
+EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Mes.setá
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (""0*ç
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs# (#ê
+ç
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+MesSystem.Nullable<T>"__id*
+
+valueSystem.Nullable<T>"Í
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#^*\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+MesSystem.Nullable<T>:
+valueSystem.Nullable<T>BA?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject

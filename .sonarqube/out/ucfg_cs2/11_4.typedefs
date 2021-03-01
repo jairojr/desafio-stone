@@ -1,7 +1,9 @@
-¹
-HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation%FluentValidation.AbstractValidator<T>object“
-#BuscarCobrancaViewModelValidation()lStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscarCobrancaViewModelValidation()ä
-KValidarBusca(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)”Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.ValidarBusca(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)â
-JBuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)“Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)è
-MBuscaPorAnoMes(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)–Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorAnoMes(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)q
-ValidarCpf(string)[Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.ValidarCpf(string)
+ù
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModelobjectb
+CobrancaViewModel()KStone.Cobrancas.Application.ViewModel.CobrancaViewModel.CobrancaViewModel()L
+Data.get@Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.Data.getL
+Data.set@Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.Data.setJ
+CPF.get?Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.CPF.getJ
+CPF.set?Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.CPF.setN
+	Valor.getAStone.Cobrancas.Application.ViewModel.CobrancaViewModel.Valor.getN
+	Valor.setAStone.Cobrancas.Application.ViewModel.CobrancaViewModel.Valor.set

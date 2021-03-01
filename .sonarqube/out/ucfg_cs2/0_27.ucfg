@@ -1,21 +1,18 @@
 
-GStone.Utils.CpfExtensions.Cpf.ValidarCPF(Stone.Utils.CpfExtensions.Cpf)T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs— —()"0*§
-0T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs˜ ˜("l
-j
-T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs˜ ˜("
-%0"__id*
-"""^
-T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs˜ ˜("
-
-%0*Æ
-1T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs˜# ˜(#"k
-T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs˜" ˜(#
-implicit return:*
-	sourceCPFStone.Utils.CpfExtensions.CpfB!"
-Stone.Utils.CpfExtensions.Cpf
++Stone.Utils.ValidacaoException.Mensagem.setW
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs& ()"0*¢
+0W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs* (*­
+ª
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs& (*6 
+Stone.Utils.ValidacaoException"
+Mensagemstring"__id*
+
+valuestring"“
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs& (*8*6 
+Stone.Utils.ValidacaoException"
+Mensagemstring:
+valuestringB" 
+Stone.Utils.ValidacaoException

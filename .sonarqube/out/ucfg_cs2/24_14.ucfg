@@ -1,40 +1,99 @@
 
-èStone.Clientes.Domain.Validation.ClienteInsertValidation.ValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs"! "(4"0*Á
-
-0Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(uÿ
-’
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(,;
-%05Stone.Clientes.Domain.Repositories.IClienteRepository"__id*ã*à:
-8Stone.Clientes.Domain.Validation.ClienteInsertValidation"J
-clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepositoryÔ
-Ï
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$J $(b
-
-%1long"2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()*&
-$
-cpfStone.Utils.CpfExtensions.CpfÅ˛
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(v*
-%2$System.Threading.Tasks.Task<TResult>"|Stone.Clientes.Domain.Repositories.IClienteRepository.VerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)*=
-;
-%05Stone.Clientes.Domain.Repositories.IClienteRepository*
-
-
-%1long*9
-7
-cancellationToken"System.Threading.CancellationToken2FVerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)"å
-Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs$ $(x
-""*£
+áStone.Clientes.Domain.Validation.ClienteInsertValidation.ClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (&"1*Ç
 1Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs%	 %(	"ô
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs 	  (	t
+r
+
+%0void"9FluentValidation.AbstractValidator<T>.AbstractValidator()*)'
+%FluentValidation.AbstractValidator<T>*
+0*™#
+0Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (;Ê
+„
 Å
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs% %(	
-implicit return:$
-cpfStone.Utils.CpfExtensions.Cpf:7
-cancellationToken"System.Threading.CancellationTokenB<:
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (6à:
+8Stone.Clientes.Domain.Validation.ClienteInsertValidation"J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository"__id*L
+J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepositoryÌ
+Í
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (8
+%12FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
+%FluentValidation.AbstractValidator<T>*
+""¬
+ø
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (#8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>"âFluentValidation.DefaultValidatorExtensions.Must<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, System.Func<TProperty, bool>)*/"-
++FluentValidation.DefaultValidatorExtensions*:
+8
+%12FluentValidation.IRuleBuilderInitial<T, TProperty>*
+""∂
+≥
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (C8
+%32FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
+(FluentValidation.DefaultValidatorOptions*:
+8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>*
+""à
+Ö
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (8
+%4string"BStone.Clientes.Domain.Resources.Mensagens.CLIENTE_CPF_INVALIDO.get*-"+
+)Stone.Clientes.Domain.Resources.Mensagensª
+∏
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (98
+%52FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
+(FluentValidation.DefaultValidatorOptions*:
+8
+%32FluentValidation.IRuleBuilderOptions<T, TProperty>*
+
+%4stringÌ
+Í
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (8
+%62FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
+%FluentValidation.AbstractValidator<T>*
+""à
+Ö
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (/8
+%72FluentValidation.IRuleBuilderOptions<T, TProperty>"œFluentValidation.DefaultValidatorExtensions.MustAsync<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, System.Func<TProperty, System.Threading.CancellationToken, System.Threading.Tasks.Task<bool>>)*/"-
++FluentValidation.DefaultValidatorExtensions*:
+8
+%62FluentValidation.IRuleBuilderInitial<T, TProperty>*
+""∂
+≥
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (F8
+%82FluentValidation.IRuleBuilderOptions<T, TProperty>"ÄFluentValidation.DefaultValidatorOptions.WithErrorCode<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
+(FluentValidation.DefaultValidatorOptions*:
+8
+%72FluentValidation.IRuleBuilderOptions<T, TProperty>*
+""à
+Ö
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (;
+%9string"BStone.Clientes.Domain.Resources.Mensagens.CLIENTE_JA_EXISTENTE.get*-"+
+)Stone.Clientes.Domain.Resources.Mensagensº
+π
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs (<9
+%102FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
+(FluentValidation.DefaultValidatorOptions*:
+8
+%82FluentValidation.IRuleBuilderOptions<T, TProperty>*
+
+%9string*
+2*£
+2Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs 	  (	"ô
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Validation\ClienteInsertValidation.cs   (	
+implicit return:J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepositoryB<:
 8Stone.Clientes.Domain.Validation.ClienteInsertValidation

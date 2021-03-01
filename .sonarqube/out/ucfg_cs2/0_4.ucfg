@@ -1,9 +1,31 @@
 
-#Stone.Utils.CpfExtensions.Cpf.Cpf()R
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs ("0*Å
-0T
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs™	 ™(	"j
-S
-HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.cs ™(	
-implicit returnB!
-Stone.Utils.CpfExtensions.Cpf
+1Stone.Utils.ErrorModel.ErrorModel(string, string)O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs	 	("1*Y
+1O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs	 (	*
+0*Í
+0O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (µ
+²
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (
+%0string"!Stone.Utils.ErrorModel.Codigo.set*
+Stone.Utils.ErrorModel*
+
+codigostring¹
+¶
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (
+%1string"#Stone.Utils.ErrorModel.Mensagem.set*
+Stone.Utils.ErrorModel*
+
+mensagemstring*
+2*¼
+2O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs	 (	"f
+O
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs (	
+implicit return:
+codigostring:
+mensagemstringB
+Stone.Utils.ErrorModel

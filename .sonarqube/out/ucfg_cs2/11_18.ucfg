@@ -1,29 +1,31 @@
 
-WStone.Cobrancas.Application.Mapping.ViewModelToDomainProfile.ViewModelToDomainProfile()†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs ('"1*×
-1†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs	 (	D
+[Stone.Cobrancas.Application.Mapping.DomainToViewModelToProfile.DomainToViewModelToProfile()‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs ()"1*Ú
+1‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs	 (	D
 B
 
 %0void"AutoMapper.Profile.Profile()*
 AutoMapper.Profile*
-0*Å
-0†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (K—
-”
-†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (4:
+0*ð
+0‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs (Wš
+—
+‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs (4:
 %14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
-AutoMapper.Profile—
-”
-†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (K:
-%24AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
-AutoMapper.Profile*
-2*­
-2†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs	 (	"ž
-†
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs (	
-implicit returnB@>
-<Stone.Cobrancas.Application.Mapping.ViewModelToDomainProfile
+AutoMapper.Profile¼¹
+‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs (X:
+%24AutoMapper.IMappingExpression<TSource, TDestination>"éAutoMapper.IMappingExpression<TSource, TDestination>.ForMember<TMember>(System.Linq.Expressions.Expression<System.Func<TDestination, TMember>>, System.Action<AutoMapper.IMemberConfigurationExpression<TSource, TDestination, TMember>>)*<
+:
+%14AutoMapper.IMappingExpression<TSource, TDestination>*
+""*
+""2´ForMember<TMember>(System.Linq.Expressions.Expression<System.Func<TDestination, TMember>>, System.Action<AutoMapper.IMemberConfigurationExpression<TSource, TDestination, TMember>>)*
+2*³
+2‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs	 (	"¡
+‰
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs (	
+implicit returnBB@
+>Stone.Cobrancas.Application.Mapping.DomainToViewModelToProfile

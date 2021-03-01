@@ -1,13 +1,23 @@
-∑
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs
- 8r)
- !#$%&'()+,-.Ç %&(+Ô
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs
- 8j* !"#$%&'()*+789:;<=>?@NOPQRSTUVWXr6
-,-./01345ABCDEFHIKLYZ[\]^`abcdefghixÇ134FHIK^`beﬂ
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs 8j r<	
-!"#$%&'()*+-./023456789:;<=>?@ABCDEFGIJKLNOPx	Ç%)02468:?AFIJKLè
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs 8j	r
- !"#$%&Ç !#π
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs 8j!"#$012345r-	
-%&')+-.6789:;=?ACEFGHIKLxÇ')+-8:=?ACEG
+€
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs 8j !"/01234BCDEFGr3	
+#$%&'()*+,-5679:<=?@HIJLMOPRSTUxÇ)*+,79:<=?JLMOPR†
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Interfaces\ICobrancaApplication.csj
+r	¢
+hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs
+ 8r!	
+!#$%&Ç
+!#®
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs 8j
+r	Çß
+|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs 8jr
+ÇÙ
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs 8jr<	
+ !"#%&'(*+,-.012345789:;<=>@ABCEFGHIJKxÇ!"%'(*,-0239=BH€
+ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs 8jr+	
+ !"#%&'()+,-.01234678Ç "#%&'()+-.0234©
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs 
+8
+j	 !"r
+#$%õ
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs 8j	r
+

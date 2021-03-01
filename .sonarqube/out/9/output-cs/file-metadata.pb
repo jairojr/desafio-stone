@@ -1,12 +1,6 @@
-u
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csutf-8s
-jC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Enums\EstadoEnum.csutf-8Å
-xC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Interfaces\IClienteApplication.csutf-8o
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.csutf-8Ü
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .csutf-8É
-zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.csutf-8Å
-vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Resources\Mensagens.Designer.csutf-8à
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.csutf-8}
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ViewModel\ClienteViewModel.csutf-8´
-üC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8¶
-öC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\obj\Debug\netstandard2.1\Stone.Clientes.Application.AssemblyInfo.csutf-8
+v
+mC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\ClienteRepositoryTest.csutf-8
+vC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\Fixture\ClientesContextFixture.csutf-8}
+rC:\Users\jairo\.nuget\packages\microsoft.net.test.sdk\16.9.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8ß
+õC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8¢
+ñC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\obj\Debug\netcoreapp3.1\Stone.Clientes.Data.Tests.AssemblyInfo.csutf-8

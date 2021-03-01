@@ -1,15 +1,4 @@
-á	
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObjectobject·
-OBuscarCobrancaValueObject(int, int, Stone.Utils.CpfExtensions.Cpf?, int?, int?)çStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.BuscarCobrancaValueObject(int, int, Stone.Utils.CpfExtensions.Cpf?, int?, int?)V
-
-Pagina.getHStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Pagina.getV
-
-Pagina.setHStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Pagina.set^
-Quantidade.getLStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Quantidade.get^
-Quantidade.setLStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Quantidade.setP
-CPF.getEStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.CPF.getP
-CPF.setEStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.CPF.setP
-Ano.getEStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.getP
-Ano.setEStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.setP
-Mes.getEStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Mes.getP
-Mes.setEStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Mes.set
+≥
+8Stone.Clientes.Domain.Validation.ClienteInsertValidation%FluentValidation.AbstractValidator<T>object⁄
+NClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)áStone.Clientes.Domain.Validation.ClienteInsertValidation.ClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)Í
+VValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)èStone.Clientes.Domain.Validation.ClienteInsertValidation.ValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)

@@ -1,12 +1,28 @@
 
-8Stone.Clientes.Data.Models.ClienteEntity.ClienteEntity()q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs ("1*{
-1q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs	 (	*
-0*Å
-0q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs	 (	"à
-q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (	
-implicit returnB,*
-(Stone.Clientes.Data.Models.ClienteEntity
+2Stone.Cobrancas.Data.CobrancaContext.Cobrancas.getn
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("0*™
+0n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (Iı
+Ú
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (#
+%0MongoDB.Driver.IMongoDatabase"__id*U*S&
+$Stone.Cobrancas.Data.CobrancaContext")
+databaseMongoDB.Driver.IMongoDatabaseïí
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (J0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"fMongoDB.Driver.IMongoDatabase.GetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)*%
+#
+%0MongoDB.Driver.IMongoDatabase*
+	Cobrancas*
+""2HGetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)"§
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (K2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*˚
+1n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs ("Ö
+n
+dC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\CobrancaContext.cs (
+implicit returnB(&
+$Stone.Cobrancas.Data.CobrancaContext

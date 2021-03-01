@@ -1,33 +1,9 @@
 
-*Stone.Cobrancas.API.Program.Main(string[])e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs ("0*Ò
+%Stone.Cobrancas.API.Program.Program()e
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs ("0*è
 0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs ("‰
-†
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs+ +("|
 e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"7Stone.Cobrancas.API.Program.CreateHostBuilder(string[])*"
-Stone.Cobrancas.API.Program*
-
-argsstring[]ƒ€
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Î
-Ë
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (1
-
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*è
-1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs	 (	"|
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs (	
-implicit return:
-argsstring[]B"
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs +(
+implicit returnB
 Stone.Cobrancas.API.Program

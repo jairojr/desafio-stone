@@ -1,126 +1,80 @@
-§
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs
+£
+{C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\CustomWebApplicationFactory.cs
 
- $<
-! ')) <<# )?? OO  &RR (
-  '** ==' .PP. 5
-5 E++ !JJ+ ;
-; J,,  77+ :
+ ,
+- 5O W_ g
 
-## "
-##+ 1))  
-$$5 <** "
-%%@ P++$ 4
-&&F U,,# 2
+  0
+A H " )
+* 2 &
+  
 
-55: E
-55^ l77D R<<I W
+( 9
+      #†
+vC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Fixture\ClienteFixture.cs
 
-55€ ‘==G X
-77 #99 :: 
-<< ==: E
-== ??C L
+ 
 
-HH- 7
-HHJ ZJJE UOO5 E
-HHn PPK \
-JJ #LL MM 
-OO PPA I
-PP  RR6 FÒ
-{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Interfaces\ICobrancaApplication.cs
+ /
+% &* +
 
- )
+1 2
 
-' 1
+4 5
+% &* +
+3 4< =
 
-D L
+6 7
+% &* +
+2 3* +
 
-` q
+5 6
+$ '' *
+% &* +
+5 6> ?
 
-4 ?
+8 9
 
-X ]
-	q ‚Š
-hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs
+ )
+  % &  * +
+  3 4  < =
 
- $
+  6 7
+!!% &!!* +
+!!2 3!!; <
 
-) 6Z
-O V      !! ## 
+!!5 6
+""% &""* +
+""5 6""J K
 
-! "
-> A  Û
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs
+""8 9
+%% )""> I
+%%0 1** (
+'' )) ** ,, £
+qC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Models\ClienteDTO.cs
 
- +
+ 
 
- )
-   !
-' *. 1
-: ;? @–
-|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs
+		 
 
- )
+ 
 
- 'Ÿ
-ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs
+ Û
+}C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\StoneClientesIntegrationTests.cs
 
- 2
+ .
+$ ( ++% )
+( 6 ))" 0
 
- 0
-  
-  
-  
-EE    
-;;  ## 99 
-%% %% 
-77 !&&  44  
-** ** 
-@@ #.. "99) 7
-00 00 
-77: ?99 $998 =
-;;9 >== 
-@@< ABB BB* /
-EE' -GG 
-GG HH ù
-‚C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs
+ ,
+V ] 
+n |" 0
 
- ,
-
- *
-  
-  
-  
-      
-%% %% 
-&& &&* +
-)) ))1 2
-++ ++ 
-00 00 
-44 44 Ç
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs
-
-
-
- (
-
- 
-
- 
-
- 
-
- 
-
-## ©
-wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs
-
-
-
- "
-
- 
-
- 
-
- 
+""1 f
+$$ ''  .33M [
+%% // 22 !(
+&& ** ,, 33& -
+'' '' ''0 1
+)) ++K V
+++ .. 
+33 "44 *

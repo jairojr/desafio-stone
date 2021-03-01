@@ -1,26 +1,33 @@
 
-HStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Pagina.setá
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs
-! 
-($"0*Ê
-0á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs
-% 
-(%ı
-Ú
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs
-! 
-(%P?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
-Paginaint"__id*
-
-valueint"ﬁ
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs
-! 
-(%R*P?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
-Paginaint:
-valueintBA?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject
+≠Stone.Clientes.Domain.Services.ClienteService.ClienteService(Stone.Clientes.Domain.Repositories.IClienteRepository, Stone.Clientes.Domain.Validation.ClienteInsertValidation)v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs ("1*Ä
+1v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs	 (	*
+0*†
+0v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (.Œ
+À
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (6}/
+-Stone.Clientes.Domain.Services.ClienteService"J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository"__id*L
+J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepositoryÃ
+…
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (./
+-Stone.Clientes.Domain.Services.ClienteService"L
+validationInsert8Stone.Clientes.Domain.Validation.ClienteInsertValidation"__id*H
+F
+
+validation8Stone.Clientes.Domain.Validation.ClienteInsertValidation*
+2*ã
+2v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs	 (	"ç
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (	
+implicit return:J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository:F
+
+validation8Stone.Clientes.Domain.Validation.ClienteInsertValidationB1/
+-Stone.Clientes.Domain.Services.ClienteService

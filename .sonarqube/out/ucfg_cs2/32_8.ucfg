@@ -1,31 +1,18 @@
 
-áStone.Clientes.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs ("1*m
-1c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs	 (	*
-0*«
-0c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs (µ
-≤
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration",Stone.Clientes.API.Startup.Configuration.set*
-Stone.Clientes.API.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfigurationü
-ú
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs (6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment""Stone.Clientes.API.Startup.Env.set*
-Stone.Clientes.API.Startup*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-2*‰
-2c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs	 (	"z
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfiguration:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
-Stone.Clientes.API.Startup
+@Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.Data.setÅ
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs$ ('"0*Ë
+0Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs( ((ˇ
+¸
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs$ ((T9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+DataSystem.DateTime"__id*
+
+valueSystem.DateTime"‹
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs$ ((V*T9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+DataSystem.DateTime:
+valueSystem.DateTimeB;9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel

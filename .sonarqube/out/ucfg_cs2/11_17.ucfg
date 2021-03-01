@@ -1,47 +1,33 @@
 
-—Stone.Cobrancas.Application.CobrancaApplication.CobrancaApplication(AutoMapper.IMapper, Stone.Cobrancas.Domain.Services.ICobrancaService, Stone.Cobrancas.Application.Validation.CobrancaViewModelValidation, Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation)y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs# #(""1*ƒ
-1y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs-	 -(	*
-0*Ï
-0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs) ,(2÷
-ô
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs) )( Q1
-/Stone.Cobrancas.Application.CobrancaApplication"
-mapperAutoMapper.IMapper"__id*
-
-mapperAutoMapper.IMapperç
-ä
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs* *("6
-%00Stone.Cobrancas.Domain.Services.ICobrancaService";Stone.Cobrancas.Application.CobrancaApplication.service.set*31
-/Stone.Cobrancas.Application.CobrancaApplication*=
-;
-service0Stone.Cobrancas.Domain.Services.ICobrancaServiceì
-é
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs+ +(4‹1
-/Stone.Cobrancas.Application.CobrancaApplication"V
-validationInsertBStone.Cobrancas.Application.Validation.CobrancaViewModelValidation"__id*X
-V
-insertValidationBStone.Cobrancas.Application.Validation.CobrancaViewModelValidationö
-ó
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs, ,(21
-/Stone.Cobrancas.Application.CobrancaApplication"[
-buscaValidationHStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation"__id*]
-[
-buscaValidationHStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation*
-2*‘
-2y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs-	 -(	"
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs- -(	
-implicit return:
-mapperAutoMapper.IMapper:;
-service0Stone.Cobrancas.Domain.Services.ICobrancaService:V
-insertValidationBStone.Cobrancas.Application.Validation.CobrancaViewModelValidation:[
-buscaValidationHStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidationB31
-/Stone.Cobrancas.Application.CobrancaApplication
+“Stone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation.BuscaPorCpf(Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel)“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs; ;( "0*ë
+0“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =($¸
+µ
+“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =(
+%0string"EStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.CPF.get*H
+F
+busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModelí
+ê
+“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =($
+
+%1bool""string.operator !=(string, string)*
+"
+string*
+
+%0string*
+"""¤
+“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs= =(%
+
+
+%1bool*Ç
+1“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs>	 >(	"«
+“
+ˆC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs> >(	
+implicit return:F
+busca=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModelBLJ
+HStone.Cobrancas.Application.Validation.BuscarCobrancaViewModelValidation

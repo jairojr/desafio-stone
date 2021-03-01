@@ -1,9 +1,13 @@
-}
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.csutf-8y
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.csutf-8}
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.csutf-8b
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.csutf-8i
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cswindows-1252°
-ïC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8ï
-âC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\obj\Debug\netcoreapp3.1\Stone.Clientes.API.AssemblyInfo.csutf-8®
-úC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\obj\Debug\netcoreapp3.1\Stone.Clientes.API.MvcApplicationPartsAssemblyInfo.csutf-8
+x
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csutf-8Ñ
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Interfaces\ICobrancaApplication.csutf-8q
+hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.csutf-8à
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .csutf-8Ö
+|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.csutf-8É
+xC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Resources\Mensagens.Designer.csutf-8í
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.csutf-8å
+ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.csutf-8Ü
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.csutf-8Ä
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.csutf-8≠
+°C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8©
+ùC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\obj\Debug\netstandard2.1\Stone.Cobrancas.Application.AssemblyInfo.csutf-8

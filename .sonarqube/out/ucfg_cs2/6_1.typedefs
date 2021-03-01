@@ -1,0 +1,4 @@
+Ñ
+.Stone.Cobrancas.Worker.Services.ClienteServiceobjectî
+]ClienteService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)ŒStone.Cobrancas.Worker.Services.ClienteService.ClienteService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)¥
+9GetClientes(int, int, System.Threading.CancellationToken)hStone.Cobrancas.Worker.Services.ClienteService.GetClientes(int, int, System.Threading.CancellationToken)

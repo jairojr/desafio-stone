@@ -1,77 +1,21 @@
-¤
-|C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\CustomWebApplicationFactory.cs
+ö
+nC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.API.Tests\CobrancaControllerTest.cs
 
- ,
-- 5O W_ g
+ '2
+4 G $: M(( $FF $(
+, 6 ++$ .II$ .
 
-  0
-A H " )
-* 2 &
-  
+ %
 
-( 9
-      #²
-xC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\Fixture\CobrancaFixture.cs
+1 _(
+"" ((= E((m u++9 A
+((+ ,((0 1
+++ ,,  &
+,, // (006 C
 
-  
-
- 1
-% &* +
-
-1 2
-
-4 5
-% &* +
-2 3* +
-
-5 6
-$ '' *
-% &* +
-4 5= >
-
-7 8
-% &* +
-3 4< =
-
-6 7
-
- +
-% &* +
-2 3; <
-
-5 6
-  % &  * +
-  4 5  = >
-
-  7 8
-!!% &!!* +
-!!3 4!!< =
-
-!!6 7¤
-rC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\Models\ClienteDTO.cs
-
- 
-
-		 
-
- 
-
- Ü
-~C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Cobrancas.Performance.Test\StoneClientesIntegrationTests.cs
-
- /
-$ ( ++% )
-) 8  ))# 2
-
- -
-W ^ 
-p # 2
-
-""1 h
-$$ ''  .33M [
-%% // 22 !(
-&& ** ,, 33& -
-'' '' ''0 1
-))  ++K W
-++ .. 
-33 "44 *
+441 ^
+77 FF> CII3 8
+== FFk s
+FF+ ,FF0 1
+II JJ! '
+JJ MM )NN1 ?

@@ -1,18 +1,45 @@
 
-EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.CPF.setá
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (""0*ç
-0á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs# (#ê
-ç
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#\?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
-CPFSystem.Nullable<T>"__id*
-
-valueSystem.Nullable<T>"Í
-á
-}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#^*\?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
-CPFSystem.Nullable<T>:
-valueSystem.Nullable<T>BA?
-=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject
+qStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs ("1*w
+1m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs%	 %(	*
+0*’
+0m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs! $(‰
+·
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs! !(
+%0System.Guid"+Stone.Clientes.Domain.Models.Cliente.Id.set*(&
+$Stone.Clientes.Domain.Models.Cliente*
+""Î
+Ë
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs" "(
+%1string"-Stone.Clientes.Domain.Models.Cliente.Nome.set*(&
+$Stone.Clientes.Domain.Models.Cliente*
+
+nomestringÉ
+Ä
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs# #(,
+%2&Stone.Clientes.Domain.Enums.EstadoEnum"/Stone.Clientes.Domain.Models.Cliente.Estado.set*(&
+$Stone.Clientes.Domain.Models.Cliente*
+""Ä
+˝
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs$ $(#
+%3Stone.Utils.CpfExtensions.Cpf",Stone.Clientes.Domain.Models.Cliente.CPF.set*(&
+$Stone.Clientes.Domain.Models.Cliente*
+
+cPFstring*
+2*˘
+2m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs%	 %(	"Ñ
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs% %(	
+implicit return:
+idSystem.Guid:
+nomestring:0
+estado&Stone.Clientes.Domain.Enums.EstadoEnum:
+cPFstringB(&
+$Stone.Clientes.Domain.Models.Cliente

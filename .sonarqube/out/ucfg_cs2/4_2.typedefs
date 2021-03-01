@@ -1,4 +1,14 @@
-—
-.Stone.Cobrancas.Worker.Services.ClienteServiceobjectÓ
-]ClienteService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)åStone.Cobrancas.Worker.Services.ClienteService.ClienteService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)•
-9GetClientes(int, int, System.Threading.CancellationToken)hStone.Cobrancas.Worker.Services.ClienteService.GetClientes(int, int, System.Threading.CancellationToken)
+É
+(Stone.Clientes.Data.Models.ClienteEntityobjectK
+ClienteEntity()8Stone.Clientes.Data.Models.ClienteEntity.ClienteEntity()ç
+0ClienteEntity(System.Guid, string, string, long)YStone.Clientes.Data.Models.ClienteEntity.ClienteEntity(System.Guid, string, string, long)9
+Id.get/Stone.Clientes.Data.Models.ClienteEntity.Id.get9
+Id.set/Stone.Clientes.Data.Models.ClienteEntity.Id.set=
+Nome.get1Stone.Clientes.Data.Models.ClienteEntity.Nome.get=
+Nome.set1Stone.Clientes.Data.Models.ClienteEntity.Nome.setA
+
+Estado.get3Stone.Clientes.Data.Models.ClienteEntity.Estado.getA
+
+Estado.set3Stone.Clientes.Data.Models.ClienteEntity.Estado.set;
+CPF.get0Stone.Clientes.Data.Models.ClienteEntity.CPF.get;
+CPF.set0Stone.Clientes.Data.Models.ClienteEntity.CPF.set

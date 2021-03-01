@@ -1,18 +1,46 @@
 
-#Stone.Utils.ErrorModel.Mensagem.setO
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& ()"0*˙
-0O
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs* (*ù
-ö
-O
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& (*.
-Stone.Utils.ErrorModel"
-Mensagemstring"__id*
-
-valuestring"É
-O
-EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.cs& (*0*.
-Stone.Utils.ErrorModel"
-Mensagemstring:
-valuestringB
-Stone.Utils.ErrorModel
+)Stone.Utils.ResultadoPaginado<T>.Next.getV
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs$ $("0*Ê
+0V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &(1∑
+¥
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &(	
+%0T[]")Stone.Utils.ResultadoPaginado<T>.Data.get*$"
+ Stone.Utils.ResultadoPaginado<T>å
+â
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs& &($	
+%1int"System.Array.Length.get*
+	
+%0T[]∑
+¥
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs&( &(1	
+%2int")Stone.Utils.ResultadoPaginado<T>.Size.get*$"
+ Stone.Utils.ResultadoPaginado<T>*
+1
+2*Ô
+1V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '(ß
+§
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '(
+%3string"__id*6*4"
+ Stone.Utils.ResultadoPaginado<T>"
+nextstring"h
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs' '( 
+
+%3string*Ω
+2V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs) )("`
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs) )(
+""* 
+3V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs* *("m
+V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs* *(
+implicit returnB$"
+ Stone.Utils.ResultadoPaginado<T>

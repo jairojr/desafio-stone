@@ -1,31 +1,16 @@
 
-6Stone.Clientes.API.Program.CreateHostBuilder(string[])c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs# (4"0*Ô
-0c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs  $(ñ
-ì
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs   (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]–
-Õ
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs  $(/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""ò
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs  $(1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*‰
-1c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs$ $("z
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs$ $(
-implicit return:
-argsstring[]B"
-Stone.Clientes.API.Program
+?Stone.Cobrancas.Application.ViewModel.CobrancaViewModel.CPF.getÅ
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs ("0*ä
+0Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs  ( È
+Ê
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs ( 
+%0string"__id*L*J9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"
+CPFstring"î
+Å
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs ( 
+
+%0stringB;9
+7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel

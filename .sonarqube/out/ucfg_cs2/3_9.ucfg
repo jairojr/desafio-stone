@@ -1,33 +1,18 @@
 
-≠Stone.Clientes.Domain.Services.ClienteService.ClienteService(Stone.Clientes.Domain.Repositories.IClienteRepository, Stone.Clientes.Domain.Validation.ClienteInsertValidation)v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs ("1*Ä
-1v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs	 (	*
-0*†
-0v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (.Œ
-À
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (6}/
--Stone.Clientes.Domain.Services.ClienteService"J
-clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository"__id*L
-J
-clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepositoryÃ
-…
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (./
--Stone.Clientes.Domain.Services.ClienteService"L
-validationInsert8Stone.Clientes.Domain.Validation.ClienteInsertValidation"__id*H
-F
-
-validation8Stone.Clientes.Domain.Validation.ClienteInsertValidation*
-2*ã
-2v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs	 (	"ç
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (	
-implicit return:J
-clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository:F
-
-validation8Stone.Clientes.Domain.Validation.ClienteInsertValidationB1/
--Stone.Clientes.Domain.Services.ClienteService
+EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.setá
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (""0*ç
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs# (#ê
+ç
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+AnoSystem.Nullable<T>"__id*
+
+valueSystem.Nullable<T>"Í
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#^*\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+AnoSystem.Nullable<T>:
+valueSystem.Nullable<T>BA?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject

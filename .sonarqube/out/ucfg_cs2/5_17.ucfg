@@ -1,18 +1,91 @@
 
-0Stone.Clientes.Data.ClientesContext.Clientes.setl
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs4 (7"0*›
-0l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs8 (8ì
-ê
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs4 (8a%
-#Stone.Clientes.Data.ClientesContext"8
-Clientes,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"”
-l
-bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs4 (8c*a%
-#Stone.Clientes.Data.ClientesContext"8
-Clientes,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B'%
-#Stone.Clientes.Data.ClientesContext
+vStone.Cobrancas.Data.Repositories.CobrancaRepository.RetornaCobrancaDomain(Stone.Cobrancas.Data.Models.CobrancaEntity)~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs8  8(5"0*ë
+0~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs: :("É
+Ä
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs: :("
+
+%0bool""object.operator ==(object, object)*
+"
+object*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity*
+""*
+1
+2*é
+1~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs; ;("à
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs; ;(
+""*Ï
+2~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(kÖ
+Ç
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=  =(-
+%1System.Guid"1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityã
+à
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=/ =(>
+%2System.DateTime"3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityˇ
+¸
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=@ =(N
+
+%3long"2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity∞
+≠
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=@ =(Y
+%4string"long.ToString()*
+
+
+%3longÑ
+Å
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=[ =(k
+%5decimal"4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityŸ÷
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(l,
+%6&Stone.Cobrancas.Domain.Models.Cobranca"&Stone.Cobrancas.Domain.Models.CobrancaÖ
+Ç
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(
+
+%7void"uStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.Guid, System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)*.
+,
+%6&Stone.Cobrancas.Domain.Models.Cobranca*
+
+%1System.Guid*
+
+%2System.DateTime*
+
+%4string*
+
+%5decimal"∞
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(m.
+,
+%6&Stone.Cobrancas.Domain.Models.Cobranca*õ
+3~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs>	 >(	"ï
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs> >(	
+implicit return:8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityB8"6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

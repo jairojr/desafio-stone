@@ -1,1139 +1,1283 @@
-Ú
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Configuration\SwaggerConfiguration.cs
-	namespace
-
- 	
-Stone
-
-
+‹'
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.cs
+	namespace 	
+Stone
  
-.
-
- 
-Clientes
-
- 
-.
-
- 
-API
-
- 
-.
-
- 
-Configuration
-
- *
-{ 
-internal 
-static 
-class  
-SwaggerConfiguration .
-{ 
-internal 
-static 
-IServiceCollection *
-
-AddSwagger+ 5
-(5 6
-this6 :
-IServiceCollection; M
-servicesN V
-,V W
-IWebHostEnvironmentX k
-envl o
-)o p
-{ 	
-services 
-. 
-AddSwaggerGen "
-(" #
-c# $
-=>% '
-{ 
-c 
-. 
-
-SwaggerDoc 
-( 
-$str !
-,! "
-new 
-	Microsoft !
-.! "
-OpenApi" )
-.) *
-Models* 0
-.0 1
-OpenApiInfo1 <
-(< =
-)= >
-{ 
-Title 
-= 
-$str  0
-,0 1
-Description #
-=$ %
-$str& X
-,X Y
-Version 
-=  !
-$str" &
-} 
-) 
-; 
-var 
-pasta 
-= 
-
-AppContext &
-.& '
-BaseDirectory' 4
-;4 5
-c 
-. 
-IncludeXmlComments $
-($ %
-Path% )
-.) *
-Combine* 1
-(1 2
-pasta2 7
-,7 8
-$str9 Q
-)Q R
-)R S
-;S T
-c 
-. 
-IncludeXmlComments $
-($ %
-Path% )
-.) *
-Combine* 1
-(1 2
-pasta2 7
-,7 8
-$str9 Y
-)Y Z
-)Z [
-;[ \
-c 
-. 
-IncludeXmlComments $
-($ %
-Path% )
-.) *
-Combine* 1
-(1 2
-pasta2 7
-,7 8
-$str9 J
-)J K
-)K L
-;L M
-} 
-) 
-; 
-return   
-services   
-;   
-}!! 	
-internal## 
-static## 
-IApplicationBuilder## +
-UseSwaggerStone##, ;
-(##; <
-this##< @
-IApplicationBuilder##A T
-app##U X
-)##X Y
-{$$ 	$
-SwaggerBuilderExtensions%% $
-.%%$ %
-
-UseSwagger%%% /
-(%%/ 0
-app%%0 3
-)%%3 4
-.&& 
-UseSwaggerUI&& 
-(&& 
-setup&& "
-=>&&# %
-{'' 
-setup(( 
-.(( 
-SwaggerEndpoint(( )
-((() *
-$str((* D
-,((D E
-$str((F V
-)((V W
-;((W X
-})) 
-))) 
-;)) 
-return++ 
-app++ 
-;++ 
-},, 	
-}-- 
-}.. â8
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Controllers\ClientesController.cs
-	namespace
-
- 	
-Stone
-
-
- 
-.
-
- 
-Clientes
-
- 
-.
-
- 
-API
-
- 
-.
-
- 
-Controllers
-
- (
-{ 
-[ 
-Route 
-
-(
- 
-$str 
-) 
-] 
-[ 
-ApiController 
-] 
-public 
+. 
+	Cobrancas 
+. 
+Application %
+{ 
+public 
 
-class 
-ClientesController #
-:$ %
-ControllerBase& 4
-{ 
-private 
-readonly 
-IClienteApplication ,
-clienteApplication- ?
-;? @
-public 
-ClientesController !
-(! "
-IClienteApplication" 5
-clienteApplication6 H
-)H I
-{ 	
-this 
-. 
-clienteApplication #
-=$ %
-clienteApplication& 8
-;8 9
-} 	
-[,, 	
-HttpPost,,	 
-],, 
-[-- 	 
-ProducesResponseType--	 
-(-- 
-(-- 
-int-- "
-)--" #
-HttpStatusCode--# 1
-.--1 2
-Created--2 9
-,--9 :
-Type--; ?
-=--@ A
-typeof--B H
-(--H I
-ClienteViewModel--I Y
-)--Y Z
-)--Z [
-]--[ \
-[.. 	 
-ProducesResponseType..	 
-(.. 
-(.. 
-int.. "
-).." #
-HttpStatusCode..# 1
-...1 2
-
-BadRequest..2 <
-,..< =
-Type..> B
-=..C D
-typeof..E K
-(..K L
-
-ErrorModel..L V
-)..V W
-)..W X
-]..X Y
-public// 
-async// 
-System// 
-.// 
-	Threading// %
-.//% &
-Tasks//& +
-.//+ ,
-Task//, 0
-<//0 1
-IActionResult//1 >
->//> ?
-	PostAsync//@ I
-(//I J
-ClienteViewModel//J Z
-novoCliente//[ f
-,//f g
-CancellationToken//h y
-cancellationToken	//z ã
+class 
+CobrancaApplication $
+:% & 
+ICobrancaApplication' ;
+{ 
+private 
+readonly 
+IMapper  
+mapper! '
+;' (
+public 
+ICobrancaService 
+service  '
+{( )
+get* -
+;- .
+}/ 0
+private 
+readonly '
+CobrancaViewModelValidation 4
+validationInsert5 E
+;E F
+private 
+readonly -
+!BuscarCobrancaViewModelValidation :
+buscaValidation; J
+;J K
+public## 
+CobrancaApplication## "
+(##" #
+IMapper### *
+mapper##+ 1
+,##1 2
+ICobrancaService$$$ 4
+service$$5 <
+,$$< ='
+CobrancaViewModelValidation%%$ ?
+insertValidation%%@ P
+,%%P Q-
+!BuscarCobrancaViewModelValidation&&$ E
+buscaValidation&&F U
+)''$ %
+{(( 	
+this)) 
+.)) 
+mapper)) 
+=)) 
+mapper))  
+;))  !
+this** 
+.** 
+service** 
+=** 
+service** "
+;**" #
+this++ 
+.++ 
+validationInsert++ !
+=++" #
+insertValidation++$ 4
+;++4 5
+this,, 
+.,, 
+buscaValidation,,  
+=,,! "
+buscaValidation,,# 2
+;,,2 3
+}-- 	
+public55 
+async55 
+Task55 
+<55 
+IEnumerable55 %
+<55% &
+CobrancaViewModel55& 7
+>557 8
+>558 9
+BuscarAsync55: E
+(55E F#
+BuscarCobrancaViewModel55F ]
+buscaViewModel55^ l
+,55l m
+CancellationToken55n 
+cancellationToken
+55Ä ë
 )
-//ã å
-{00 	
-var11 
-cliente11 
-=11 
-await11 
-this11  $
-.11$ %
-clienteApplication11% 7
-.117 8
+55ë í
+{66 	
+ValidationResult77 
+result77 #
+=77$ %
+this77& *
+.77* +
+buscaValidation77+ :
+.77: ;
+Validate77; C
+(77C D
+buscaViewModel77D R
+)77R S
+;77S T
+if99 
+(99 
+!99 
+result99 
+.99 
+IsValid99 
+)99  
+result:: 
+.:: 
+ThrowErrosValidacao:: *
+(::* +
+)::+ ,
+;::, -
+var<< 
+buscaDomain<< 
+=<< 
+this<< "
+.<<" #
+mapper<<# )
+.<<) *
+Map<<* -
+<<<- .%
+BuscarCobrancaValueObject<<. G
+><<G H
+(<<H I
+buscaViewModel<<I W
+)<<W X
+;<<X Y
+var== 
+	cobrancas== 
+=== 
+await== !
+this==" &
+.==& '
+service==' .
+.==. /
 
-CriarAsync118 B
-(11B C
-novoCliente11C N
-,11N O
-cancellationToken11P a
-)11a b
-;11b c
-Cpf33 
-cpf33 
-=33 
-cliente33 
-.33 
-CPF33 !
-;33! "
-return44 
-CreatedAtAction44 "
-(44" #
-nameof44# )
-(44) *
-Get44* -
-)44- .
-,44. /
-new440 3
-{444 5
-cpf446 9
-=44: ;
-cpf44< ?
-.44? @
-ObterApenasNumeros44@ R
-(44R S
-)44S T
-}44U V
-,44V W
-cliente44X _
-)44_ `
-;44` a
-}55 	
-[AA 	
-HttpGetAA	 
-(AA 
-$strAA 
-)AA 
-]AA 
-[BB 	 
-ProducesResponseTypeBB	 
-(BB 
-(BB 
-intBB "
-)BB" #
-HttpStatusCodeBB# 1
-.BB1 2
-OKBB2 4
-,BB4 5
-TypeBB6 :
-=BB; <
-typeofBB= C
-(BBC D
-ClienteViewModelBBD T
-)BBT U
-)BBU V
-]BBV W
-[CC 	 
-ProducesResponseTypeCC	 
-(CC 
-(CC 
-intCC "
-)CC" #
-HttpStatusCodeCC# 1
-.CC1 2
+BuscaAsync==/ 9
+(==9 :
+buscaDomain==: E
+,==E F
+cancellationToken==G X
+)==X Y
+;==Y Z
+return?? 
+this?? 
+.?? 
+mapper?? 
+.?? 
+Map?? "
+<??" #
+IEnumerable??# .
+<??. /
+CobrancaViewModel??/ @
+>??@ A
+>??A B
+(??B C
+	cobrancas??C L
+)??L M
+;??M N
+}@@ 	
+publicHH 
+asyncHH 
+TaskHH 
+<HH 
+CobrancaViewModelHH +
+>HH+ ,
 
-BadRequestCC2 <
-,CC< =
-TypeCC> B
-=CCC D
-typeofCCE K
-(CCK L
+CriarAsyncHH- 7
+(HH7 8
+CobrancaViewModelHH8 I
+cobrancaVewModelHHJ Z
+,HHZ [
+CancellationTokenHH\ m
+cancellationTokenHHn 
+)	HH Ä
+{II 	
+ValidationResultJJ 
+resultJJ #
+=JJ$ %
+thisJJ& *
+.JJ* +
+validationInsertJJ+ ;
+.JJ; <
+ValidateJJ< D
+(JJD E
+cobrancaVewModelJJE U
+)JJU V
+;JJV W
+ifLL 
+(LL 
+!LL 
+resultLL 
+.LL 
+IsValidLL 
+)LL  
+resultMM 
+.MM 
+ThrowErrosValidacaoMM *
+(MM* +
+)MM+ ,
+;MM, -
+varOO 
+cobrancaOO 
+=OO 
+thisOO 
+.OO  
+mapperOO  &
+.OO& '
+MapOO' *
+<OO* +
+CobrancaOO+ 3
+>OO3 4
+(OO4 5
+cobrancaVewModelOO5 E
+)OOE F
+;OOF G
+varPP 
+cobrancaInseridaPP  
+=PP! "
+awaitPP# (
+thisPP) -
+.PP- .
+servicePP. 5
+.PP5 6
 
-ErrorModelCCL V
-)CCV W
-)CCW X
-]CCX Y
-publicDD 
-asyncDD 
-SystemDD 
-.DD 
-	ThreadingDD %
-.DD% &
-TasksDD& +
-.DD+ ,
-TaskDD, 0
-<DD0 1
-IActionResultDD1 >
->DD> ?
-GetDD@ C
-(DDC D
-longDDD H
-cpfDDI L
-,DDL M
-CancellationTokenDDN _
-cancellationTokenDD` q
-)DDq r
-{EE 	
-varFF 
-clienteFF 
-=FF 
-awaitFF 
-thisFF  $
-.FF$ %
-clienteApplicationFF% 7
-.FF7 8
-ObterPorCpfAsyncFF8 H
-(FFH I
-cpfFFI L
-,FFL M
-cancellationTokenFFN _
-)FF_ `
-;FF` a
-ifHH 
-(HH 
-clienteHH 
-==HH 
-nullHH 
-)HH  
-returnII 
-NotFoundII 
-(II  
-)II  !
-;II! "
-returnKK 
-OkKK 
-(KK 
-clienteKK 
-)KK 
-;KK 
-}LL 	
-[YY 	
-HttpGetYY	 
-]YY 
-[ZZ 	 
-ProducesResponseTypeZZ	 
-(ZZ 
-(ZZ 
-intZZ "
-)ZZ" #
-HttpStatusCodeZZ# 1
-.ZZ1 2
-OKZZ2 4
-,ZZ4 5
-TypeZZ6 :
-=ZZ; <
-typeofZZ= C
-(ZZC D
-ResultadoPaginadoZZD U
-<ZZU V
-ClienteViewModelZZV f
->ZZf g
-)ZZg h
-)ZZh i
-]ZZi j
-[[[ 	 
-ProducesResponseType[[	 
-([[ 
-([[ 
-int[[ "
-)[[" #
-HttpStatusCode[[# 1
-.[[1 2
+CriarAsyncPP6 @
+(PP@ A
+cobrancaPPA I
+,PPI J
+cancellationTokenPPK \
+)PP\ ]
+;PP] ^
+returnRR 
+thisRR 
+.RR 
+mapperRR 
+.RR 
+MapRR "
+<RR" #
+CobrancaViewModelRR# 4
+>RR4 5
+(RR5 6
+cobrancaInseridaRR6 F
+)RRF G
+;RRG H
+}SS 	
+}TT 
+}UU ≥
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Interfaces\ICobrancaApplication.cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Application %
+.% &
 
-BadRequest[[2 <
-,[[< =
-Type[[> B
-=[[C D
-typeof[[E K
-([[K L
+Interfaces& 0
+{		 
+public 
+
+	interface  
+ICobrancaApplication )
+{ 
+public 
+Task 
+< 
+CobrancaViewModel %
+>% &
 
-ErrorModel[[L V
-)[[V W
-)[[W X
-][[X Y
-public\\ 
-async\\ 
-System\\ 
-.\\ 
-	Threading\\ %
-.\\% &
-Tasks\\& +
-.\\+ ,
-Task\\, 0
-<\\0 1
-IActionResult\\1 >
->\\> ?
-GetLista\\@ H
-(\\H I
-int\\I L
-page\\M Q
-,\\Q R
-int\\S V
-size\\W [
-,\\[ \
-CancellationToken\\] n
-cancellationToken	\\o Ä
+CriarAsync' 1
+(1 2
+CobrancaViewModel2 C
+cobrancaD L
+,L M
+CancellationTokenN _
+cancellationToken` q
+)q r
+;r s
+public 
+Task 
+< 
+IEnumerable 
+<  
+CobrancaViewModel  1
+>1 2
+>2 3
+BuscarAsync4 ?
+(? @#
+BuscarCobrancaViewModel@ W
+buscaX ]
+,] ^
+CancellationToken_ p
+cancellationToken	q Ç
 )
-\\Ä Å
-{]] 	
-var^^ 
+Ç É
+;
+É Ñ
+} 
+} «
+hC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\IocExtension.cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Application %
+{ 
+public 
+
+static 
+class 
+IocExtension $
+{ 
+public 
+static 
+IServiceCollection (
+ConfigurarIoc) 6
+(6 7
+this7 ;
+IServiceCollection< N
+serviceO V
+)V W
+{ 	
+service 
+. 
+AddSingleton  
+(  !
+p! "
+=># %
+new& )
+MapperConfiguration* =
+(= >
+cfg> A
+=>B D
+{ 
+cfg 
+. 
 
-resultados^^ 
-=^^ 
-await^^ "
-this^^# '
-.^^' (
-clienteApplication^^( :
-.^^: ;
-BuscaPaginadaAsync^^; M
-(^^M N
-page^^N R
-,^^R S
-size^^T X
-,^^X Y
-cancellationToken^^Z k
-)^^k l
-;^^l m
-return`` 
-Ok`` 
-(`` 
-new`` 
-ResultadoPaginado`` +
-<``+ ,
-ClienteViewModel``, <
->``< =
-(``= >
-)``> ?
-{aa 
-Databb 
-=bb 
+AddProfile 
+< $
+ViewModelToDomainProfile 7
+>7 8
+(8 9
+)9 :
+;: ;
+cfg 
+. 
 
-resultadosbb !
-.bb! "
-ToArraybb" )
-(bb) *
-)bb* +
-,bb+ ,
-Sizecc 
-=cc 
-sizecc 
-,cc 
-Pagedd 
-=dd 
-pagedd 
-,dd 
-Nextee 
-=ee 
-Urlee 
-.ee 
-Actionee !
-(ee! "
-nameofee" (
-(ee( )
-GetListaee) 1
-)ee1 2
-,ee2 3
-newee4 7
-{ee8 9
-pageee: >
-=ee? @
-++eeA C
-pageeeC G
-,eeG H
-sizeeeI M
-=eeN O
-sizeeeP T
-}eeU V
-)eeV W
-}ff 
-)ff 
-;ff 
-}gg 	
-}hh 
-}ii ı$
-tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Middleware\ErrorHandlingMiddleware.cs
+AddProfile 
+< &
+DomainToViewModelToProfile 9
+>9 :
+(: ;
+); <
+;< =
+} 
+) 
+. 
+CreateMapper 
+( 
+) 
+) 
+; 
+service 
+. 
+	AddScoped 
+<  
+ICobrancaApplication 2
+,2 3
+CobrancaApplication4 G
+>G H
+(H I
+)I J
+;J K
+service 
+. 
+	AddScoped 
+< 
+ICobrancaService .
+,. /
+CobrancaService0 ?
+>? @
+(@ A
+)A B
+;B C
+service 
+. 
+	AddScoped 
+< 
+ICobrancaRepository 1
+,1 2
+CobrancaRepository3 E
+>E F
+(F G
+)G H
+;H I
+service 
+. 
+	AddScoped 
+< '
+CobrancaViewModelValidation 9
+>9 :
+(: ;
+); <
+;< =
+service 
+. 
+	AddScoped 
+< -
+!BuscarCobrancaViewModelValidation ?
+>? @
+(@ A
+)A B
+;B C
+service!! 
+.!! 
+AddSingleton!!  
+<!!  !
+CobrancaContext!!! 0
+>!!0 1
+(!!1 2
+)!!2 3
+;!!3 4
+return## 
+service## 
+;## 
+}$$ 	
+}%% 
+}&& ë	
+C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\DomainToViewModelToProfile .cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Application %
+.% &
+Mapping& -
+{		 
+public 
+
+class &
+DomainToViewModelToProfile +
+:, -
+Profile. 5
+{ 
+public &
+DomainToViewModelToProfile )
+() *
+)* +
+{ 	
+	CreateMap 
+< 
+Cobranca 
+, 
+CobrancaViewModel  1
+>1 2
+(2 3
+)3 4
+. 
+	ForMember 
+( 
+v 
+=> 
+v  !
+.! "
+CPF" %
+,% &
+opt' *
+=>+ -
+opt. 1
+.1 2
+MapFrom2 9
+(9 :
+d: ;
+=>< >
+d? @
+.@ A
+CPFA D
+.D E
+ObterComMascaraE T
+(T U
+)U V
+)V W
+)W X
+;X Y
+} 	
+} 
+} ö
+|C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Mapping\ViewModelToDomainProfile.cs
+	namespace
+
+ 	
+Stone
+
+
+ 
+.
+
+ 
+	Cobrancas
+
+ 
+.
+
+ 
+Application
+
+ %
+.
+
+% &
+Mapping
+
+& -
+{ 
+public 
+
+class $
+ViewModelToDomainProfile )
+:* +
+Profile, 3
+{ 
+public $
+ViewModelToDomainProfile '
+(' (
+)( )
+{ 	
+	CreateMap 
+< 
+CobrancaViewModel '
+,' (
+Cobranca) 1
+>1 2
+(2 3
+)3 4
+;4 5
+	CreateMap 
+< #
+BuscarCobrancaViewModel -
+,- .%
+BuscarCobrancaValueObject/ H
+>H I
+(I J
+)J K
+;K L
+} 	
+} 
+} π-
+àC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\BuscarCobrancaViewModelValidation.cs
 	namespace		 	
 Stone		
  
-.		 
-Clientes		 
-.		 
-API		 
-.		 
+.		 
+	Cobrancas		 
+.		 
+Application		 %
+.		% &
 
-Middleware		 '
+Validation		& 0
 {
 
  
 public 
 
-class #
-ErrorHandlingMiddleware (
-{ 
-private 
-readonly 
-RequestDelegate (
-Next) -
-;- .
-public #
-ErrorHandlingMiddleware &
-(& '
-RequestDelegate' 6
-next7 ;
-); <
-{ 	
-Next 
-= 
-next 
-; 
-} 	
-public!! 
-async!! 
-Task!! 
-Invoke!!  
-(!!  !
-HttpContext!!! ,
-context!!- 4
-)!!4 5
-{"" 	
-try## 
-{$$ 
-await%% 
-Next%% 
-(%% 
-context%% "
-)%%" #
-;%%# $
-}&& 
-catch'' 
-('' 
-	Exception'' 
-ex'' 
-)''  
-{(( 
-await))  
-HandleExceptionAsync)) *
-())* +
-context))+ 2
-,))2 3
-ex))4 6
-)))6 7
-;))7 8
-}** 
-}++ 	
-private-- 
-Task--  
-HandleExceptionAsync-- )
-(--) *
-HttpContext--* 5
-context--6 =
-,--= >
-	Exception--? H
-ex--I K
-)--K L
-{.. 	
-List// 
-<// 
+class -
+!BuscarCobrancaViewModelValidation 2
+:3 4
+AbstractValidator5 F
+<F G#
+BuscarCobrancaViewModelG ^
+>^ _
+{ 
+public -
+!BuscarCobrancaViewModelValidation 0
+(0 1
+)1 2
+{ 	
+RuleFor 
+( 
+v 
+=> 
+v 
+. 
+Pagina !
+)! "
+. 
+GreaterThan 
+( 
+$num 
+) 
+. 
+WithErrorCode 
+( 
+nameof #
+(# $
+	Mensagens$ -
+.- .!
+BUSCA_INVALIDA_PAGINA. C
+)C D
+)D E
+. 
+WithMessage 
+( 
+	Mensagens $
+.$ %!
+BUSCA_INVALIDA_PAGINA% :
+): ;
+;; <
+RuleFor 
+( 
+v 
+=> 
+v 
+. 
 
-ErrorModel// 
->// 
-erros// "
-=//# $
-new//% (
-List//) -
-<//- .
+Quantidade %
+)% &
+. 
+GreaterThan 
+( 
+$num 
+) 
+. 
+WithErrorCode 
+( 
+nameof #
+(# $
+	Mensagens$ -
+.- .%
+BUSCA_INVALIDA_QUANTIDADE. G
+)G H
+)H I
+. 
+WithMessage 
+( 
+	Mensagens $
+.$ %%
+BUSCA_INVALIDA_QUANTIDADE% >
+)> ?
+;? @
+RuleFor 
+( 
+v 
+=> 
+v 
+. 
+CPF 
+) 
+.   
+Must   
+(   
 
-ErrorModel//. 8
->//8 9
-(//9 :
-)//: ;
-;//; <
-HttpStatusCode00 
-	errorCode00 $
-=00% &
-HttpStatusCode00' 5
-.005 6
-InternalServerError006 I
-;00I J
-if22 
-(22 
-ex22 
-is22 
-ValidacaoException22 (
-)22( )
-{33 
-if44 
-(44 
-ex44 
-is44 &
-MultiplaValidacaoException44 4
-)444 5
-{55 
-	errorCode66 
-=66 
-HttpStatusCode66  .
-.66. /
+ValidarCpf   
+)   
+.!! 
+WithErrorCode!! 
+(!! 
+nameof!! #
+(!!# $
+	Mensagens!!$ -
+.!!- .
+BUSCA_CPF_INVALIDO!!. @
+)!!@ A
+)!!A B
+."" 
+WithMessage"" 
+("" 
+	Mensagens"" $
+.""$ %
+BUSCA_CPF_INVALIDO""% 7
+)""7 8
+.## 
+When## 
+(## 
+BuscaPorCpf## 
+)##  
+;##  !
+RuleFor%% 
+(%% 
+v%% 
+=>%% 
+v%% 
+)%% 
+.&& 
+Must&& 
+(&& 
+ValidarBusca&&  
+)&&  !
+.'' 
+WithErrorCode'' 
+('' 
+nameof'' #
+(''# $
+	Mensagens''$ -
+.''- .
+BUSCA_INVALIDA''. <
+)''< =
+)''= >
+.(( 
+WithMessage(( 
+((( 
+	Mensagens(( $
+.(($ %
+BUSCA_INVALIDA((% 3
+)((3 4
+;((4 5
+RuleFor** 
+(** 
+v** 
+=>** 
+v** 
+.** 
+Ano** 
+)** 
+.++ 
+GreaterThan++ 
+(++ 
+$num++  
+)++  !
+.,, 
+WithErrorCode,, 
+(,, 
+nameof,, $
+(,,$ %
+	Mensagens,,% .
+.,,. /
+BUSCA_INVALIDA_ANO,,/ A
+),,A B
+),,B C
+.-- 
+WithMessage-- 
+(-- 
+	Mensagens-- %
+.--% &
+BUSCA_INVALIDA_ANO--& 8
+)--8 9
+... 
+When.. 
+(.. 
+BuscaPorAnoMes.. "
+).." #
+;..# $
+RuleFor00 
+(00 
+v00 
+=>00 
+v00 
+.00 
+Mes00 
+)00 
+.11 
+InclusiveBetween11 
+(11  
+$num11  !
+,11! "
+$num11# %
+)11% &
+.22 
+WithErrorCode22 
+(22 
+nameof22 #
+(22# $
+	Mensagens22$ -
+.22- .
+BUSCA_INVALIDA_MES22. @
+)22@ A
+)22A B
+.33 
+WithMessage33 
+(33 
+	Mensagens33 $
+.33$ %
+BUSCA_INVALIDA_MES33% 7
+)337 8
+.44 
+When44 
+(44 
+ValidarBusca44  
+)44  !
+;44! "
+}55 	
+private77 
+bool77 
+ValidarBusca77 !
+(77! "#
+BuscarCobrancaViewModel77" 9
+busca77: ?
+)77? @
+{88 	
+return99 
+BuscaPorCpf99 
+(99 
+busca99 $
+)99$ %
+||99& (
+BuscaPorAnoMes99) 7
+(997 8
+busca998 =
+)99= >
+;99> ?
+}:: 	
+private;; 
+bool;; 
+BuscaPorCpf;;  
+(;;  !#
+BuscarCobrancaViewModel;;! 8
+busca;;9 >
+);;> ?
+{<< 	
+return== 
+busca== 
+.== 
+CPF== 
+!=== 
+null==  $
+;==$ %
+}>> 	
+private@@ 
+bool@@ 
+BuscaPorAnoMes@@ #
+(@@# $#
+BuscarCobrancaViewModel@@$ ;
+busca@@< A
+)@@A B
+{AA 	
+returnBB 
+(BB 
+buscaBB 
+.BB 
+AnoBB 
+.BB 
+HasValueBB &
+&&BB' )
+buscaBB* /
+.BB/ 0
+MesBB0 3
+.BB3 4
+HasValueBB4 <
+)BB< =
+;BB= >
+}CC 	
+privateEE 
+boolEE 
 
-BadRequest66/ 9
-;669 :
-var77 
-multipleErros77 %
-=77& '
-(77( )&
-MultiplaValidacaoException77) C
-)77C D
-ex77D F
-;77F G
-foreach88 
-(88 
-var88  
-err88! $
-in88% '
-multipleErros88( 5
-.885 6
-
-Validacoes886 @
-)88@ A
-{99 
-erros:: 
-.:: 
-Add:: !
-(::! "
-new::" %
-
-ErrorModel::& 0
-(::0 1
-err::1 4
-.::4 5
-Codigo::5 ;
-,::; <
-err::= @
-.::@ A
-Mensagem::A I
-)::I J
-)::J K
-;::K L
-};; 
-}<< 
-else== 
-{>> 
-	errorCode?? 
-=?? 
-HttpStatusCode??  .
-.??. /
-
-BadRequest??/ 9
-;??9 :
-var@@ 
-validationError@@ '
-=@@( )
-(@@* +
-ValidacaoException@@+ =
-)@@= >
-ex@@> @
-;@@@ A
-errosAA 
-.AA 
-AddAA 
-(AA 
-newAA !
-
-ErrorModelAA" ,
-(AA, -
-validationErrorAA- <
-.AA< =
-CodigoAA= C
-,AAC D
-validationErrorAAE T
-.AAT U
-MensagemAAU ]
-)AA] ^
-)AA^ _
-;AA_ `
-}BB 
-}CC 
-elseDD 
-{EE 
-errosFF 
-.FF 
-AddFF 
-(FF 
-newFF 
-
-ErrorModelFF (
-(FF( )
-$strFF) .
-,FF. /
-$strFF0 C
-)FFC D
-)FFD E
-;FFE F
-}GG 
-varII 
-resultII 
-=II 
-SystemII 
-.II  
-TextII  $
-.II$ %
-JsonII% )
-.II) *
-JsonSerializerII* 8
-.II8 9
-	SerializeII9 B
-(IIB C
-errosIIC H
-)IIH I
-;III J
-contextJJ 
-.JJ 
-ResponseJJ 
-.JJ 
-ContentTypeJJ (
-=JJ) *
-$strJJ+ =
-;JJ= >
-contextKK 
-.KK 
-ResponseKK 
-.KK 
-
-StatusCodeKK '
-=KK( )
-(KK* +
-intKK+ .
-)KK. /
-	errorCodeKK/ 8
-;KK8 9
-returnLL 
-contextLL 
-.LL 
-ResponseLL #
-.LL# $
-
-WriteAsyncLL$ .
-(LL. /
-resultLL/ 5
-)LL5 6
-;LL6 7
-}NN 	
-}OO 
-}PP Ò
-
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs
-	namespace
-
- 	
-Stone
-
-
- 
-.
-
- 
-Clientes
-
- 
-.
-
- 
-API
-
- 
-{ 
-public 
-
-class 
-Program 
-{ 
-public 
-static 
-void 
-Main 
-(  
-string  &
-[& '
-]' (
-args) -
-)- .
-{ 	
-CreateHostBuilder 
-( 
-args "
-)" #
-.# $
-Build$ )
-() *
-)* +
-.+ ,
-Run, /
-(/ 0
-)0 1
-;1 2
-} 	
-public 
-static 
-IHostBuilder "
-CreateHostBuilder# 4
-(4 5
-string5 ;
-[; <
-]< =
-args> B
-)B C
-=>D F
-Host   
-.    
-CreateDefaultBuilder   %
-(  % &
-args  & *
-)  * +
-.!! $
-ConfigureWebHostDefaults!! )
-(!!) *
-
-webBuilder!!* 4
-=>!!5 7
-{"" 
-
-webBuilder## 
-.## 
-
-UseStartup## )
-<##) *
-Startup##* 1
->##1 2
-(##2 3
-)##3 4
-;##4 5
-}$$ 
-)$$ 
-;$$ 
-}%% 
-}&& ¥
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Startup.cs
-	namespace 	
-Stone
- 
-. 
-Clientes 
-. 
-API 
-{ 
-public 
-
-class 
-Startup 
-{ 
-private 
-IConfiguration 
-Configuration ,
-{- .
-get/ 2
-;2 3
-}4 5
-private 
-IWebHostEnvironment #
-Env$ '
-{( )
-get* -
-;- .
-}/ 0
-public 
-Startup 
-( 
-IConfiguration %
-configuration& 3
-,3 4
-IWebHostEnvironment5 H
-envI L
-)L M
-{ 	
-Configuration 
-= 
-configuration )
-;) *
-Env 
-= 
-env 
-; 
-} 	
-public%% 
-void%% 
-ConfigureServices%% %
-(%%% &
-IServiceCollection%%& 8
-services%%9 A
-)%%A B
-{&& 	
-services'' 
-.'' 
-AddControllers'' #
-(''# $
-)''$ %
-;''% &
-services)) 
-.)) 
-
-AddSwagger)) 
-())  
-Env))  #
-)))# $
-;))$ %
-services++ 
-.++ 
-ConfigurarIoc++ "
-(++" #
-)++# $
-;++$ %
-services-- 
-.-- 
-AddDbContext-- !
-<--! "
-ClientesContext--" 1
->--1 2
-(--2 3
-opt--3 6
-=>--7 9
-opt--: =
-.--= >
-	UseSqlite--> G
-(--G H
-Configuration--H U
-[--U V
-$str	--V Ä
-]
---Ä Å
-)
---Å Ç
-)
---Ç É
-;
---É Ñ
-}.. 	
-public66 
-void66 
-	Configure66 
-(66 
-IApplicationBuilder66 1
-app662 5
-,665 6
-IWebHostEnvironment667 J
-env66K N
-,66N O
-ClientesContext66P _
-context66` g
-)66g h
-{77 	
-if88 
-(88 
-env88 
-.88 
-IsDevelopment88 !
-(88! "
-)88" #
-)88# $
-{99 
-app:: 
-.:: %
-UseDeveloperExceptionPage:: -
-(::- .
-)::. /
-;::/ 0
-};; 
-app== 
-.== 
-UseMiddleware== 
-(== 
-typeof== $
-(==$ %#
-ErrorHandlingMiddleware==% <
-)==< =
-)=== >
-;==> ?
-app?? 
-.?? 
-UseSwaggerStone?? 
-(??  
-)??  !
-;??! "
-appAA 
-.AA 
-
-UseRoutingAA 
-(AA 
-)AA 
-;AA 
-contextCC 
-.CC 
-DatabaseCC 
-.CC 
-MigrateCC $
-(CC$ %
-)CC% &
-;CC& '
-appEE 
-.EE 
-UseEndpointsEE 
-(EE 
-	endpointsEE &
-=>EE' )
-{FF 
-	endpointsGG 
-.GG 
-MapControllersGG (
-(GG( )
-)GG) *
-;GG* +
-}HH 
-)HH 
-;HH 
+ValidarCpfEE 
+(EE  
+stringEE  &
+cpfStrEE' -
+)EE- .
+{FF 	
+CpfGG 
+cpfGG 
+=GG 
+cpfStrGG 
+;GG 
+returnHH 
+cpfHH 
+.HH 
+EhValidoHH 
+;HH  
 }II 	
-}KK 
-}LL 
+}JJ 
+}KK ›%
+ÇC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\Validation\CobrancaViewModelValidation.cs
+	namespace		 	
+Stone		
+ 
+.		 
+	Cobrancas		 
+.		 
+Application		 %
+.		% &
+
+Validation		& 0
+{
+
+ 
+public 
+
+class '
+CobrancaViewModelValidation ,
+:- .
+AbstractValidator/ @
+<@ A
+CobrancaViewModelA R
+>R S
+{ 
+public '
+CobrancaViewModelValidation *
+(* +
+)+ ,
+{ 	
+RuleFor 
+( 
+v 
+=> 
+v 
+. 
+Data 
+)  
+. 
+NotEmpty 
+( 
+) 
+. 
+WithErrorCode 
+( 
+nameof %
+(% &
+	Mensagens& /
+./ 0%
+COBRANCA_DATA_OBRIGATORIO0 I
+)I J
+)J K
+. 
+WithMessage 
+( 
+	Mensagens &
+.& '%
+COBRANCA_DATA_OBRIGATORIO' @
+)@ A
+;A B
+RuleFor 
+( 
+v 
+=> 
+v 
+. 
+Data 
+.  
+Year  $
+)$ %
+. 
+GreaterThan 
+( 
+$num 
+)  
+. 
+WithErrorCode 
+( 
+nameof #
+(# $
+	Mensagens$ -
+.- ."
+COBRANCA_DATA_INVALIDA. D
+)D E
+)E F
+. 
+WithMessage 
+( 
+	Mensagens $
+.$ %"
+COBRANCA_DATA_INVALIDA% ;
+); <
+. 
+When 
+( 
+c 
+=> 
+c 
+. 
+Data 
+!=  "
+DateTime# +
+.+ ,
+MinValue, 4
+)4 5
+;5 6
+RuleFor   
+(   
+v   
+=>   
+v   
+.   
+CPF   
+)   
+.!! 
+NotEmpty!! 
+(!! 
+)!! 
+."" 
+WithErrorCode"" 
+("" 
+nameof"" %
+(""% &
+	Mensagens""& /
+.""/ 0$
+COBRANCA_CPF_OBRIGATORIO""0 H
+)""H I
+)""I J
+.## 
+WithMessage## 
+(## 
+	Mensagens## &
+.##& '$
+COBRANCA_CPF_OBRIGATORIO##' ?
+)##? @
+;##@ A
+RuleFor%% 
+(%% 
+v%% 
+=>%% 
+v%% 
+.%% 
+CPF%% 
+)%% 
+.&& 
+Must&& 
+(&& 
+c&& 
+=>&& 
+Cpf&& 
+.&& 
+
+ValidarCPF&& )
+(&&) *
+c&&* +
+)&&+ ,
+)&&, -
+.'' 
+WithErrorCode'' 
+('' 
+nameof'' %
+(''% &
+	Mensagens''& /
+.''/ 0!
+COBRANCA_CPF_INVALIDO''0 E
+)''E F
+)''F G
+.(( 
+WithMessage(( 
+((( 
+	Mensagens(( &
+.((& '!
+COBRANCA_CPF_INVALIDO((' <
+)((< =
+.)) 
+When)) 
+()) 
+c)) 
+=>)) 
+!)) 
+string)) "
+.))" #
+IsNullOrEmpty))# 0
+())0 1
+c))1 2
+.))2 3
+CPF))3 6
+)))6 7
+)))7 8
+;))8 9
+RuleFor++ 
+(++ 
+v++ 
+=>++ 
+v++ 
+.++ 
+Valor++  
+)++  !
+.,, 
+NotEmpty,, 
+(,, 
+),, 
+.-- 
+WithErrorCode-- 
+(-- 
+nameof-- $
+(--$ %
+	Mensagens--% .
+.--. /&
+COBRANCA_VALOR_OBRIGATORIO--/ I
+)--I J
+)--J K
+... 
+WithMessage.. 
+(.. 
+	Mensagens.. %
+...% &&
+COBRANCA_VALOR_OBRIGATORIO..& @
+)..@ A
+;..A B
+RuleFor00 
+(00 
+v00 
+=>00 
+v00 
+.00 
+Valor00  
+)00  !
+.11 
+GreaterThan11 
+(11 
+$num11 
+)11 
+.22 
+WithErrorCode22 
+(22 
+nameof22 $
+(22$ %
+	Mensagens22% .
+.22. /#
+COBRANCA_VALOR_INVALIDO22/ F
+)22F G
+)22G H
+.33 
+WithMessage33 
+(33 
+	Mensagens33 %
+.33% &#
+COBRANCA_VALOR_INVALIDO33& =
+)33= >
+.44 
+When44 
+(44 
+c44 
+=>44 
+c44 
+.44 
+Valor44 !
+!=44" $
+$num44% &
+)44& '
+;44' (
+}66 	
+}77 
+}88 û
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Application %
+.% &
+	ViewModel& /
+{ 
+public
+
+ 
+
+class
+
+ #
+BuscarCobrancaViewModel
+
+ (
+{ 
+public 
+int 
+Pagina 
+{ 
+get 
+;  
+set! $
+;$ %
+}& '
+=( )
+$num* +
+;+ ,
+public 
+int 
+
+Quantidade 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+=, -
+$num. 0
+;0 1
+public 
+string 
+CPF 
+{ 
+get 
+;  
+set! $
+;$ %
+}& '
+=( )
+null* .
+;. /
+public 
+int 
+? 
+Ano 
+{ 
+get 
+; 
+set "
+;" #
+}$ %
+=& '
+null( ,
+;, -
+public## 
+int## 
+?## 
+Mes## 
+{## 
+get## 
+;## 
+set## "
+;##" #
+}##$ %
+=##& '
+null##( ,
+;##, -
+}$$ 
+}%% ﬁ
+wC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\CobrancaViewModel.cs
+	namespace 	
+Stone
+ 
+. 
+	Cobrancas 
+. 
+Application %
+.% &
+	ViewModel& /
+{ 
+public
+
+ 
+
+class
+
+ 
+CobrancaViewModel
+
+ "
+{ 
+public 
+DateTime 
+Data 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+CPF 
+{ 
+get 
+;  
+set! $
+;$ %
+}& '
+public 
+decimal 
+Valor 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+} 
+} 

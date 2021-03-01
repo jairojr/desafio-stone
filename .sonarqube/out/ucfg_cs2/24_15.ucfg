@@ -1,73 +1,30 @@
 
-ÇStone.Clientes.Domain.Services.ClienteService.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs# (-"0*ì
-
-0v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs  (≈
+oStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, long)m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs' '("1*w
+1m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs)	 )(	*
+0*ø
+0m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs'J '(q≈
 ¬
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs& (6>
-%08Stone.Clientes.Domain.Validation.ClienteInsertValidation"__id*Å*/
--Stone.Clientes.Domain.Services.ClienteService"L
-validationInsert8Stone.Clientes.Domain.Validation.ClienteInsertValidation‘
-—
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs& (H/
-%1)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*@
->
-%08Stone.Clientes.Domain.Validation.ClienteInsertValidation*1
-/
-cliente$Stone.Clientes.Domain.Models.ClienteÈ
-Ê
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs (H3
-result)FluentValidation.Results.ValidationResult"__id*1
-/
-%1)FluentValidation.Results.ValidationResultÇˇ
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs   (
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs'J '(r
 
-%2bool"5FluentValidation.Results.ValidationResult.IsValid.get*5
-3
-result)FluentValidation.Results.ValidationResult2IsValid.get*
-1
-2*¿
-1v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs! !(,Ω
-∫
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs! !(,
-
-%3void"[Stone.Utils.ServiceOperation.ThrowErrosValidacao(FluentValidation.Results.ValidationResult)* "
-Stone.Utils.ServiceOperation*5
-3
-result)FluentValidation.Results.ValidationResult*
-2*˙
-2v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs# #(Pø
-º
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs# #(*;
-%45Stone.Clientes.Domain.Repositories.IClienteRepository"__id**}/
--Stone.Clientes.Domain.Services.ClienteService"J
-clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository∑¥
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs# #(Q*
-%5$System.Threading.Tasks.Task<TResult>"äStone.Clientes.Domain.Repositories.IClienteRepository.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)*=
-;
-%45Stone.Clientes.Domain.Repositories.IClienteRepository*1
-/
-cliente$Stone.Clientes.Domain.Models.Cliente*9
-7
-cancellationToken"System.Threading.CancellationToken2TCriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)"Ä
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs# #(R
-""*ã
-3v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs$	 $(	"ç
-v
-lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs$ $(	
-implicit return:/
-cliente$Stone.Clientes.Domain.Models.Cliente:7
-cancellationToken"System.Threading.CancellationTokenB1/
--Stone.Clientes.Domain.Services.ClienteService
+%0void"qStone.Clientes.Domain.Models.Cliente.Cliente(System.Guid, string, Stone.Clientes.Domain.Enums.EstadoEnum, string)*(&
+$Stone.Clientes.Domain.Models.Cliente*
+""*
+
+nomestring*
+""*
+""*
+2*˘
+2m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs)	 )(	"Ñ
+m
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs) )(	
+implicit return:
+idSystem.Guid:
+nomestring:0
+estado&Stone.Clientes.Domain.Enums.EstadoEnum:
+cPFlongB(&
+$Stone.Clientes.Domain.Models.Cliente

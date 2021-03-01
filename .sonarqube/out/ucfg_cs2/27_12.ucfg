@@ -1,26 +1,18 @@
 
--Stone.Cobrancas.Domain.Models.Cobranca.Id.setp
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs
- 
-(!"0*Ä
-0p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs
-" 
-("“
-œ
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs
- 
-("=(
-&Stone.Cobrancas.Domain.Models.Cobranca"
-IdSystem.Guid"__id*
-
-valueSystem.Guid"≥
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs
- 
-("?*=(
-&Stone.Cobrancas.Domain.Models.Cobranca"
-IdSystem.Guid:
-valueSystem.GuidB*(
-&Stone.Cobrancas.Domain.Models.Cobranca
+EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.setá
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (""0*ç
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs# (#ê
+ç
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+AnoSystem.Nullable<T>"__id*
+
+valueSystem.Nullable<T>"Í
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (#^*\?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject"
+AnoSystem.Nullable<T>:
+valueSystem.Nullable<T>BA?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject

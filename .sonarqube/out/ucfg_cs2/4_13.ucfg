@@ -1,59 +1,26 @@
 
-éStone.Cobrancas.Worker.Services.CobrancaService.CobrancaService(System.Net.Http.HttpClient, Microsoft.Extensions.Configuration.IConfiguration)y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs ("1*É
-1y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs	 (	*
-0*«
-
-0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs ($«ƒ
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs- (W
-%0string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-StoneApiCobrancas:BaseUrl2this[string].getúô
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs% (X
-%1
-System.Uri"
-System.Uri∆
-√
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs) (,
-
-%2void"System.Uri.Uri(string)*
-
-%1
-System.Uri*
-
-%0string¸
-˘
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (X
-%3
-System.Uri"*System.Net.Http.HttpClient.BaseAddress.set**
-(
-
-httpClientSystem.Net.Http.HttpClient*
-
-%1
-System.Uriê
-ç
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs ($^1
-/Stone.Cobrancas.Worker.Services.CobrancaService")
-_httpClientSystem.Net.Http.HttpClient"__id**
-(
-
-httpClientSystem.Net.Http.HttpClient*
-2*ë
-2y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs	 (	"ê
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs (	
-implicit return:(
-
-httpClientSystem.Net.Http.HttpClient:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB31
-/Stone.Cobrancas.Worker.Services.CobrancaService
+1Stone.Clientes.Data.Models.ClienteEntity.Nome.setq
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs
+* 
+(-"0*¸
+0q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs
+. 
+(.Õ
+ 
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs
+" 
+(.<*
+(Stone.Clientes.Data.Models.ClienteEntity"
+Nomestring"__id*
+
+valuestring"≥
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs
+" 
+(.>*<*
+(Stone.Clientes.Data.Models.ClienteEntity"
+Nomestring:
+valuestringB,*
+(Stone.Clientes.Data.Models.ClienteEntity

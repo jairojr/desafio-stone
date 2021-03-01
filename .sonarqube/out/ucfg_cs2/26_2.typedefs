@@ -1,8 +1,14 @@
-≠	
-2Stone.Clientes.Data.Repositories.ClienteRepositoryobject£
-6ClienteRepository(Stone.Clientes.Data.ClientesContext)iStone.Clientes.Data.Repositories.ClienteRepository.ClienteRepository(Stone.Clientes.Data.ClientesContext)‡
-TCriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)áStone.Clientes.Data.Repositories.ClienteRepository.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)´
-:ObterPorCpfAsync(long, System.Threading.CancellationToken)mStone.Clientes.Data.Repositories.ClienteRepository.ObterPorCpfAsync(long, System.Threading.CancellationToken)∑
-@ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)sStone.Clientes.Data.Repositories.ClienteRepository.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)√
-FVerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)yStone.Clientes.Data.Repositories.ClienteRepository.VerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)∑
-@BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)sStone.Clientes.Data.Repositories.ClienteRepository.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)
+É
+(Stone.Clientes.Data.Models.ClienteEntityobjectK
+ClienteEntity()8Stone.Clientes.Data.Models.ClienteEntity.ClienteEntity()ç
+0ClienteEntity(System.Guid, string, string, long)YStone.Clientes.Data.Models.ClienteEntity.ClienteEntity(System.Guid, string, string, long)9
+Id.get/Stone.Clientes.Data.Models.ClienteEntity.Id.get9
+Id.set/Stone.Clientes.Data.Models.ClienteEntity.Id.set=
+Nome.get1Stone.Clientes.Data.Models.ClienteEntity.Nome.get=
+Nome.set1Stone.Clientes.Data.Models.ClienteEntity.Nome.setA
+
+Estado.get3Stone.Clientes.Data.Models.ClienteEntity.Estado.getA
+
+Estado.set3Stone.Clientes.Data.Models.ClienteEntity.Estado.set;
+CPF.get0Stone.Clientes.Data.Models.ClienteEntity.CPF.get;
+CPF.set0Stone.Clientes.Data.Models.ClienteEntity.CPF.set

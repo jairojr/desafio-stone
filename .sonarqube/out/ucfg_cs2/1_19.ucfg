@@ -1,23 +1,65 @@
 
-xStone.Cobrancas.Domain.Services.CobrancaService.CobrancaService(Stone.Cobrancas.Domain.Repositories.ICobrancaRepository)y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs ("1*É
-1y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs	 (	*
-0*‡
-0y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (8⁄
-◊
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (8Ç1
-/Stone.Cobrancas.Domain.Services.CobrancaService"M
-cobrancaRepository7Stone.Cobrancas.Domain.Repositories.ICobrancaRepository"__id*O
-M
-cobrancaRepository7Stone.Cobrancas.Domain.Repositories.ICobrancaRepository*
-2*ë
-2y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs	 (	"ê
-y
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Services\CobrancaService.cs (	
-implicit return:M
-cobrancaRepository7Stone.Cobrancas.Domain.Repositories.ICobrancaRepositoryB31
-/Stone.Cobrancas.Domain.Services.CobrancaService
+hStone.Clientes.Domain.Services.ClienteService.ObterPorCpfAsync(long, System.Threading.CancellationToken)v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs&# &(3"0*«
+0v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs( *(Ø
+¨
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs( ((,$
+cpfStone.Utils.CpfExtensions.Cpf"__id*
+""è
+å
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs* *(
+%0"__id*
+""*
+1
+2*–
+1v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs+ +(s¸
+˘
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs+U +(s
+%1string"BStone.Clientes.Domain.Resources.Mensagens.CLIENTE_CPF_INVALIDO.get*-"+
+)Stone.Clientes.Domain.Resources.Mensagens¡æ
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs+ +(t$
+%2Stone.Utils.ValidacaoException"Stone.Utils.ValidacaoExceptionä
+á
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs+ +(,
+
+%3void"AStone.Utils.ValidacaoException.ValidacaoException(string, string)*&
+$
+%2Stone.Utils.ValidacaoException*
+""*
+
+%1string*
+3*ö
+2v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs- -(Zø
+º
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs- -(*;
+%45Stone.Clientes.Domain.Repositories.IClienteRepository"__id**}/
+-Stone.Clientes.Domain.Services.ClienteService"J
+clienteRepository5Stone.Clientes.Domain.Repositories.IClienteRepository◊‘
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs- -([*
+%5$System.Threading.Tasks.Task<TResult>"pStone.Clientes.Domain.Repositories.IClienteRepository.ObterPorCpfAsync(long, System.Threading.CancellationToken)*=
+;
+%45Stone.Clientes.Domain.Repositories.IClienteRepository*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken2:ObterPorCpfAsync(long, System.Threading.CancellationToken)"Ä
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs- -(\
+""*ã
+3v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs.	 .(	"ç
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Services\ClienteService.cs. .(	
+implicit return:
+cpfPesquisalong:7
+cancellationToken"System.Threading.CancellationTokenB1/
+-Stone.Clientes.Domain.Services.ClienteService

@@ -1,9 +1,16 @@
 
-HStone.Clientes.Data.Mappings.ClienteEntityMapping.ClienteEntityMapping()z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs	 	('"0*“
-0z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs ("‘
-z
-pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs	 (
-implicit returnB53
-1Stone.Clientes.Data.Mappings.ClienteEntityMapping
+5Stone.Clientes.Data.ClientesContext.ClientesContext()l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs ("1*è
+1l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	p
+n
+
+%0void"3Microsoft.EntityFrameworkCore.DbContext.DbContext()*+)
+'Microsoft.EntityFrameworkCore.DbContext*
+0*÷
+0l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	"ƒ
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (	
+implicit returnB'%
+#Stone.Clientes.Data.ClientesContext

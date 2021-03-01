@@ -1,41 +1,21 @@
 
-jStone.Cobrancas.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs& &(%"0*Û
-0e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs( ,($‘
-—
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs( ((%:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionË
-Â
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs*  *(#6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironment"#Stone.Cobrancas.API.Startup.Env.get*
-Stone.Cobrancas.API.Startup°
-û
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs* *($A
-%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Stone.Cobrancas.API.Configuration.SwaggerConfiguration.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)*:"8
-6Stone.Cobrancas.API.Configuration.SwaggerConfiguration*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*8
-6
-%10Microsoft.AspNetCore.Hosting.IWebHostEnvironmentõ
-ò
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs, ,($A
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"sStone.Cobrancas.Application.IocExtension.ConfigurarIoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*,"*
-(Stone.Cobrancas.Application.IocExtension*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*Ë
-1e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs-	 -(	"|
-e
-[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs- -(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-Stone.Cobrancas.API.Startup
+iStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StopAsync(System.Threading.CancellationToken)Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs, ,("0*º
+0Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs- -(!˛
+˚
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs- -(!!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"≠
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs- -(!#
+!
+%0System.Threading.Tasks.Task*´
+1Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs-" -(""ù
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs-! -("
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB?=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService

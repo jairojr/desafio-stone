@@ -1,54 +1,31 @@
-£
-{C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\CustomWebApplicationFactory.cs
+Ã
+mC:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\ClientesControllerTest.cs
 
- ,
-- 5O W_ g
+ 'F
+3 > : E'' << KK pp <
+, 6 **$ .??$ .NN$ .rr$ .
 
-  0
-A H " )
-* 2 &
-  
+ %
 
-( 9
-      #´
-vC:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\Models\BuscaClienteDTO.cs
+1 d(
+!! (''5 @''h s**9 D
+''# $''( )
+** ++  &
+++ .. (//6 C
 
-  
+331 \
+66 $<<n u
+<<# $<<( )
+?? @@ !
+@@ CC #DD1 9
 
-		 
+HH1 j
+KK# $KK( )
+NN OO! '
+OO RR )SS7 E
 
-
-
- 
-
-  
-
- £
-qC:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\Models\ClienteDTO.cs
-
- 
-
-		 
-
- 
-
- ƒ
-}C:\Users\jairo\source\repos\DesafioStone\tests\2.Integrados\Stone.Clientes.Integration.Tests\StoneClientesIntegrationTests.cs
-
- .2
-$ ( ))! %..4 8CC! %
-  88 '
-
- ,
-V ]  
-
-1 y
-!! ))G R11 $
-)) ,,1 9--% -
--- "..V h
-.. +00 611* E
-
-551 k
-88 ::  %2
-:: << == >> ?? 
-CC FF #GG $
+YY1 c
+\\ ppi u
+pp# $pp( )
+rr ss !
+ss vv #ww1 9

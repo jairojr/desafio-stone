@@ -1,45 +1,54 @@
 
-uStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.Guid, System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs ("1*z
-1p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs	 (	*
-0*˝
-0p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (Î
-Ë
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (
-%0System.Guid"-Stone.Cobrancas.Domain.Models.Cobranca.Id.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*
-""Ñ
-Å
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (
-%1System.DateTime"/Stone.Cobrancas.Domain.Models.Cobranca.Data.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*
-
-dataSystem.DateTimeû
-õ
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (#
-%2Stone.Utils.CpfExtensions.Cpf".Stone.Cobrancas.Domain.Models.Cobranca.CPF.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*&
-$
-cPFStone.Utils.CpfExtensions.CpfÍ
-Á
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (
-%3decimal"0Stone.Cobrancas.Domain.Models.Cobranca.Valor.set**(
-&Stone.Cobrancas.Domain.Models.Cobranca*
-""*
-2*ˇ
-2p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs	 (	"á
-p
-fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs (	
-implicit return:
-idSystem.Guid:
-dataSystem.DateTime:$
-cPFStone.Utils.CpfExtensions.Cpf:
-valordecimalB*(
-&Stone.Cobrancas.Domain.Models.Cobranca
+çStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.BuscarCobrancaValueObject(int, int, Stone.Utils.CpfExtensions.Cpf?, int?, int?)á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (("1*í
+1á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs	 (	*
+0*È
+0á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (≠
+™
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs ( 	
+%0int"HStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Pagina.set*A?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
+""±
+Æ
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs ((	
+%1int"LStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Quantidade.set*A?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
+""Œ
+À
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
+%2System.Nullable<T>"EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.CPF.set*A?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
+
+CPFSystem.Nullable<T>Œ
+À
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
+%3System.Nullable<T>"EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Ano.set*A?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
+
+AnoSystem.Nullable<T>Œ
+À
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (
+%4System.Nullable<T>"EStone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject.Mes.set*A?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject*
+
+MesSystem.Nullable<T>*
+2*Ø
+2á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs	 (	"ü
+á
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\ValueObjects\BuscarCobrancaValueObject.cs (	
+implicit return:
+Paginaint:
+
+Quantidadeint:
+CPFSystem.Nullable<T>:
+AnoSystem.Nullable<T>:
+MesSystem.Nullable<T>BA?
+=Stone.Cobrancas.Domain.ValueObjects.BuscarCobrancaValueObject

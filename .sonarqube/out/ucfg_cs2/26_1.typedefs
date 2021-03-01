@@ -1,14 +1,4 @@
-É
-(Stone.Clientes.Data.Models.ClienteEntityobjectK
-ClienteEntity()8Stone.Clientes.Data.Models.ClienteEntity.ClienteEntity()ç
-0ClienteEntity(System.Guid, string, string, long)YStone.Clientes.Data.Models.ClienteEntity.ClienteEntity(System.Guid, string, string, long)9
-Id.get/Stone.Clientes.Data.Models.ClienteEntity.Id.get9
-Id.set/Stone.Clientes.Data.Models.ClienteEntity.Id.set=
-Nome.get1Stone.Clientes.Data.Models.ClienteEntity.Nome.get=
-Nome.set1Stone.Clientes.Data.Models.ClienteEntity.Nome.setA
-
-Estado.get3Stone.Clientes.Data.Models.ClienteEntity.Estado.getA
-
-Estado.set3Stone.Clientes.Data.Models.ClienteEntity.Estado.set;
-CPF.get0Stone.Clientes.Data.Models.ClienteEntity.CPF.get;
-CPF.set0Stone.Clientes.Data.Models.ClienteEntity.CPF.set
+≈
+1Stone.Clientes.Data.Mappings.ClienteEntityMappingobject£
+vConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)®Stone.Clientes.Data.Mappings.ClienteEntityMapping.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)b
+ClienteEntityMapping()HStone.Clientes.Data.Mappings.ClienteEntityMapping.ClienteEntityMapping()

@@ -1,33 +1,46 @@
 
--Stone.Cobrancas.Worker.Program.Main(string[])h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs ("0*‰
-0h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs ("í
-è
-h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder":Stone.Cobrancas.Worker.Program.CreateHostBuilder(string[])*"" 
-Stone.Cobrancas.Worker.Program*
+YStone.Clientes.Data.Models.ClienteEntity.ClienteEntity(System.Guid, string, string, long)q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs ("1*{
+1q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs	 (	*
+0*”
+0q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (
+Ì
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (
+%0System.Guid"/Stone.Clientes.Data.Models.ClienteEntity.Id.set*,*
+(Stone.Clientes.Data.Models.ClienteEntity*
+""˜
+Ù
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (
+%1string"1Stone.Clientes.Data.Models.ClienteEntity.Nome.set*,*
+(Stone.Clientes.Data.Models.ClienteEntity*
+
+nomestring˚
+¯
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (
+%2string"3Stone.Clientes.Data.Models.ClienteEntity.Estado.set*,*
+(Stone.Clientes.Data.Models.ClienteEntity*
 
-argsstring[]ÜÉ
-h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()—
-Œ
-h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs (1
+estadostringÍ
+Á
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (
 
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*Ó
-1h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs	 (	"
-h
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs (	
-implicit return:
-argsstring[]B"" 
-Stone.Cobrancas.Worker.Program
+%3long"0Stone.Clientes.Data.Models.ClienteEntity.CPF.set*,*
+(Stone.Clientes.Data.Models.ClienteEntity*
+""*
+2*Å
+2q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs	 (	"à
+q
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (	
+implicit return:
+idSystem.Guid:
+nomestring:
+estadostring:
+cPFlongB,*
+(Stone.Clientes.Data.Models.ClienteEntity

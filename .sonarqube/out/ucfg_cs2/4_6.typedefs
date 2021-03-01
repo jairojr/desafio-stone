@@ -1,9 +1,8 @@
-¹
-/Stone.Cobrancas.Worker.Models.CobrancaViewModelobjectZ
-CobrancaViewModel()CStone.Cobrancas.Worker.Models.CobrancaViewModel.CobrancaViewModel()D
-Data.get8Stone.Cobrancas.Worker.Models.CobrancaViewModel.Data.getD
-Data.set8Stone.Cobrancas.Worker.Models.CobrancaViewModel.Data.setB
-CPF.get7Stone.Cobrancas.Worker.Models.CobrancaViewModel.CPF.getB
-CPF.set7Stone.Cobrancas.Worker.Models.CobrancaViewModel.CPF.setF
-	Valor.get9Stone.Cobrancas.Worker.Models.CobrancaViewModel.Valor.getF
-	Valor.set9Stone.Cobrancas.Worker.Models.CobrancaViewModel.Valor.set
+­	
+2Stone.Clientes.Data.Repositories.ClienteRepositoryobject£
+6ClienteRepository(Stone.Clientes.Data.ClientesContext)iStone.Clientes.Data.Repositories.ClienteRepository.ClienteRepository(Stone.Clientes.Data.ClientesContext)à
+TCriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)‡Stone.Clientes.Data.Repositories.ClienteRepository.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)«
+:ObterPorCpfAsync(long, System.Threading.CancellationToken)mStone.Clientes.Data.Repositories.ClienteRepository.ObterPorCpfAsync(long, System.Threading.CancellationToken)·
+@ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)sStone.Clientes.Data.Repositories.ClienteRepository.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)Ã
+FVerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)yStone.Clientes.Data.Repositories.ClienteRepository.VerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)·
+@BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)sStone.Clientes.Data.Repositories.ClienteRepository.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)

@@ -1,89 +1,20 @@
 
-˝Stone.Cobrancas.Worker.Worker.Worker(Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.Worker.Worker>, Stone.Cobrancas.Worker.Services.ClienteService, Stone.Cobrancas.Worker.Services.CobrancaService, Microsoft.Extensions.Configuration.IConfiguration)g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs ("1*˚
-1g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs'	 '(	á
-Ñ
-
-%0void"BMicrosoft.Extensions.Hosting.BackgroundService.BackgroundService()*20
-.Microsoft.Extensions.Hosting.BackgroundService*
-0*Ç
-0g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs  &(\ñ
-ì
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs   (a
-Stone.Cobrancas.Worker.Worker">
-_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>õ
-ò
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs! !(0c
-Stone.Cobrancas.Worker.Worker"@
-clienteService.Stone.Cobrancas.Worker.Services.ClienteService"__id*B
-@
-clienteService.Stone.Cobrancas.Worker.Services.ClienteServiceü
-ú
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs" "(2e
-Stone.Cobrancas.Worker.Worker"B
-cobrancaService/Stone.Cobrancas.Worker.Services.CobrancaService"__id*D
-B
-cobrancaService/Stone.Cobrancas.Worker.Services.CobrancaServiceû
-õ
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs$4 $(s	
-%1int"}Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue<T>(Microsoft.Extensions.Configuration.IConfiguration, string)*:"8
-6Microsoft.Extensions.Configuration.ConfigurationBinder*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*$"
- IntervaloEntreCobrancasEmMinutosÀ
-»
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs$ $(sJ
-Stone.Cobrancas.Worker.Worker"'
- intervaloEntreCobrancasEmMinutosint"__id*
-	
-%1int®
-•
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs%+ %(t	
-%2int"}Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue<T>(Microsoft.Extensions.Configuration.IConfiguration, string)*:"8
-6Microsoft.Extensions.Configuration.ConfigurationBinder*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*.,
-*StoneApiClientes:Paginacao.QuantidadeBusca¬
-ø
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs% %(tA
-Stone.Cobrancas.Worker.Worker"
-clientesQuantidadeBuscaint"__id*
-	
-%2intì
-ê
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs&) &(]	
-%3int"}Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue<T>(Microsoft.Extensions.Configuration.IConfiguration, string)*:"8
-6Microsoft.Extensions.Configuration.ConfigurationBinder*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-DelayInicioEmSegundos¿
-Ω
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs& &(]?
-Stone.Cobrancas.Worker.Worker"
-delayInicioEmSegundosint"__id*
-	
-%3int*
-2*Ï
-2g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs'	 '(	"~
-g
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs' '(	
-implicit return:=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>:@
-clienteService.Stone.Cobrancas.Worker.Services.ClienteService:B
-cobrancaService/Stone.Cobrancas.Worker.Services.CobrancaService:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB!
-Stone.Cobrancas.Worker.Worker
+_Stone.Clientes.Data.ClientesContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs  (/"0*–
+0l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (Y◊‘
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (Z0
+%0*Microsoft.EntityFrameworkCore.ModelBuilder"ÜMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""*
+""2[ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>)*
+1*˜
+1l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs	 (	"É
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs (	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB'%
+#Stone.Clientes.Data.ClientesContext

@@ -1,42 +1,32 @@
 
-UStone.Clientes.Application.Validation.ClienteViewModelValidation.EstadoValido(string)â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs3 3(!"0*Ï
-0â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 7(1®
-•
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 5(G1
-%0+Stone.Clientes.Application.Enums.EstadoEnum".Stone.Utils.EnumExtension.ObterEnum<T>(string)*"
-Stone.Utils.EnumExtension*
-
-	strEstadostringÅ
-˛
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs5 5(G5
-estado+Stone.Clientes.Application.Enums.EstadoEnum"__id*3
-1
-%0+Stone.Clientes.Application.Enums.EstadoEnum£
-†
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs7 7(1
-%1"__id*
-""*
-1
-2*¶
-1â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs8 8("î
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs8 8(
-""*¶
-2â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs: :("î
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs: :(
-""*≥
-3â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs;	 ;(	"°
-â
-C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Validation\ClienteViewModelValidation.cs; ;(	
-implicit return:
-	strEstadostringBDB
-@Stone.Clientes.Application.Validation.ClienteViewModelValidation
+VStone.Clientes.Application.Mapping.ViewModelToDomainProfile.ViewModelToDomainProfile()Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs ('"1*’
+1Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs	 (	D
+B
+
+%0void"AutoMapper.Profile.Profile()*
+AutoMapper.Profile*
+0*»
+0Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs ({ï
+í
+Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs (2:
+%14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
+AutoMapper.Profileûõ
+Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs (|:
+%24AutoMapper.IMappingExpression<TSource, TDestination>"ßAutoMapper.IMappingExpressionBase<TSource, TDestination, TMappingExpression>.ForCtorParam(string, System.Action<AutoMapper.ICtorParamConfigurationExpression<TSource>>)*<
+:
+%14AutoMapper.IMappingExpression<TSource, TDestination>*
+
+estado*
+""2ZForCtorParam(string, System.Action<AutoMapper.ICtorParamConfigurationExpression<TSource>>)*
+2*©
+2Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs	 (	"ú
+Ñ
+zC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\ViewModelToDomainProfile.cs (	
+implicit returnB?=
+;Stone.Clientes.Application.Mapping.ViewModelToDomainProfile

@@ -1,20 +1,28 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Next.setV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +("0*ç
-0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +(™
-ß
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +(4"
- Stone.Utils.ResultadoPaginado<T>"
-nextstring"__id*
+UStone.Utils.CpfExtensions.Cpf.implicit operator Stone.Utils.CpfExtensions.Cpf(string)R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csk# k(+"0*Ω
+0R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l( õò
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(!#
+%0Stone.Utils.CpfExtensions.Cpf"Stone.Utils.CpfExtensions.Cpf»
+≈
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(
+
+%1void")Stone.Utils.CpfExtensions.Cpf.Cpf(string)*%
+#
+%0Stone.Utils.CpfExtensions.Cpf*
 
-valuestring*
-1* 
-1V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+  +( "m
-V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +( 
+valuestring"{
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl l(!%
+#
+%0Stone.Utils.CpfExtensions.Cpf*¬
+1R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl" l(""i
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csl! l("
 implicit return:
-valuestringB$"
- Stone.Utils.ResultadoPaginado<T>
+valuestringB!"
+Stone.Utils.CpfExtensions.Cpf

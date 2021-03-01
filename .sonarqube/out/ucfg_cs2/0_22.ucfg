@@ -1,18 +1,20 @@
 
-)Stone.Utils.ResultadoPaginado<T>.Data.setV
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (""0*í
+)Stone.Utils.ResultadoPaginado<T>.Next.setV
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +("0*ç
 0V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs# (#§
-°
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +(™
+ß
 V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#1"
- Stone.Utils.ResultadoPaginado<T>"
-DataT[]"__id*
-
-valueT[]"ç
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +(4"
+ Stone.Utils.ResultadoPaginado<T>"
+nextstring"__id*
+
+valuestring*
+1* 
+1V
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+  +( "m
 V
-LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs (#3*1"
- Stone.Utils.ResultadoPaginado<T>"
-DataT[]:
-valueT[]B$"
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.cs+ +( 
+implicit return:
+valuestringB$"
  Stone.Utils.ResultadoPaginado<T>

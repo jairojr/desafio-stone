@@ -1,14 +1,15 @@
-Ç
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\ClienteViewModel.cs 8r
-	
-í
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Models\CobrancaViewModel.cs 8j	r
-ç
-^C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Program.cs 8r	
-Çõ
-nC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\ClienteService.cs 8r	
- !Çû
-oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Services\CobrancaService.cs 8r	
- !Çﬂ
-]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs 8rR	
- !"$%&')*+,-./123456789:;<=>?ABCDEFHIJLMNOPQSUXYZ[^_`xÇ !"$%&+,-/4678:;=?ABCDJNOPSUXY[
+ç
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs 8r	
+Çï
+pC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Mappings\ClienteEntityMapping.cs 8r	
+ÇØ
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Migrations\20210227213204_Initial.cs 8r"	
+ !"#$%Ç
+
+!ë
+gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs 
+8
+r	
+Çÿ
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs 8	rA	
+!"#%&()*+,./01345679:;<=?@BCDEGHIJKLMxÇ#%*+0679:?DEGHIJ

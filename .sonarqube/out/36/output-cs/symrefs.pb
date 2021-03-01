@@ -1,80 +1,96 @@
-£
-{C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\CustomWebApplicationFactory.cs
+‹
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Configuration\SwaggerConfiguration.cs
 
- ,
-- 5O W_ g
+		 .
 
-  0
-A H " )
-* 2 &
-  
++ 5
+N V  
 
-( 9
-      #Ü
-vC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Fixture\ClienteFixture.cs
+l o2
+# $    (
+ 2 72 72 7
 
- 
+  , ;
+  U X""0 3(( 
+## "%% Ô
+rC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Controllers\CobrancaController.cs
 
- /
-% &* +
+ #(
+. A $11& 9QQ( ;
 
-1 2
+ !
+7 J' :
 
-4 5
-% &* +
-3 4< =
+//@ I
+//\ h11E Q
+	//| ç11S d2
+11 55 66 77 :: 
 
-6 7
-% &* +
-2 3* +
+OO@ Cd
+OOh mQQH MSS #TT YY ]] ^^ __ `` "aa! &
 
-5 6
-$ '' *
-% &* +
-5 6> ?
+OOÅ íQQO `
+QQ XX !
+SS ZZ "∆
+vC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Middleware\ErrorHandlingMiddleware.cs
 
-8 9
+ (
+) - %% 
 
- )
-  % &  * +
-  3 4  < =
+ &
+7 ; 
 
-  6 7
-!!% &!!* +
-!!2 3!!; <
+!!  
+!!- 4%% "))+ 2
+'' ))4 6
+-- ))) *(
+--6 =JJ KK LL 2
+--I K22 44 77D F@@> @2
+// ":: AA FF IIC H(
+00 $66 ?? KK/ 8
+77 %88( 5
+88! $::1 4::= @
+@@ 'AA- <AAE T
+II LL/ 5„
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Program.cs
 
-!!5 6
-""% &""* +
-""5 6""J K
+ 
 
-""8 9
-%% )""> I
-%%0 1** (
-'' )) ** ,, £
-qC:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\Models\ClienteDTO.cs
+ 
+) - "
+!!# 4 
+!!> B""& *
+##* 4%% 
+''  ()) Ÿ
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs
+ /! ?W u
+) 8  '' !(
+A G && (( 
 
- 
+ -
+> M# 2
+w }  
 
-		 
+$$ $
+$$7 H''6 G
 
- 
+,, 
 
- €
-}C:\Users\jairo\source\repos\DesafioStone\tests\3.Performance\Stone.Clientes.Performance.Test\StoneClientesIntegrationTests.cs
+,,0 AÉ
+[C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Startup.cs
 
- .
-$ ( ++% )
-( 6 ))" 0
+ 
+ , 
+$ ' **  #
 
- ,
-V ] 
-n |" 0
+ 
+& 3 )
+I L 
 
-""1 f
-$$ ''  .33M [
-%% // 22 !(
-&& ** ,, 33& -
-'' '' ''0 1
-)) ++K V
-++ .. 
-33 "44 *
+&& %(
+&&9 A(( ** ,, 
+
+44 <
+442 588 ;; == ?? AA 
+44K N66 
+AA &CC 

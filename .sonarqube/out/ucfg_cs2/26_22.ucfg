@@ -1,45 +1,100 @@
 
-mStone.Clientes.Data.Repositories.ClienteRepository.ObterPorCpfAsync(long, System.Threading.CancellationToken){
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs!# !(3"0*î
+áStone.Clientes.Data.Repositories.ClienteRepository.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken){
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs# (-"0*ä
 0{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs# %(1µ
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (µ
 ≤
 {
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs#" #(62
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (!2
 %0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*y*w4
 2Stone.Clientes.Data.Repositories.ClienteRepository"?
-clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>–
-Õ
+clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>Û
+
 {
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs#" #(p*
-%1$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs= (G
+%1System.Guid"+Stone.Clientes.Domain.Models.Cliente.Id.get*1
+/
+cliente$Stone.Clientes.Domain.Models.Cliente
+Ì
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csI (U
+%2string"-Stone.Clientes.Domain.Models.Cliente.Nome.get*1
+/
+cliente$Stone.Clientes.Domain.Models.Clienteí
+è
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csW (e,
+%3&Stone.Clientes.Domain.Enums.EstadoEnum"/Stone.Clientes.Domain.Models.Cliente.Estado.get*1
+/
+cliente$Stone.Clientes.Domain.Models.Cliente‚ﬂ
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csW (p
+%4string"System.Enum.ToString()*.
+,
+%3&Stone.Clientes.Domain.Enums.EstadoEnum2
+ToString()Ü
+É
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csr (}#
+%5Stone.Utils.CpfExtensions.Cpf",Stone.Clientes.Domain.Models.Cliente.CPF.get*1
+/
+cliente$Stone.Clientes.Domain.Models.ClienteË
+Â
+|
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.csr (í
+
+%6long"2Stone.Utils.CpfExtensions.Cpf.ObterApenasNumeros()*%
+#
+%5Stone.Utils.CpfExtensions.Cpf€ÿ
+|
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs+ (ì.
+%7(Stone.Clientes.Data.Models.ClienteEntity"(Stone.Clientes.Data.Models.ClienteEntity‹
+Ÿ
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs/ (<
+
+%8void"YStone.Clientes.Data.Models.ClienteEntity.ClienteEntity(System.Guid, string, string, long)*0
+.
+%7(Stone.Clientes.Data.Models.ClienteEntity*
+
+%1System.Guid*
+
+%2string*
+
+%4string*
+
+
+%6longÔÏ
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (>/
+%9)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
 2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""*9
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*0
+.
+%7(Stone.Clientes.Data.Models.ClienteEntity*9
 7
-cancellationToken"System.Threading.CancellationToken≈
-¬
+cancellationToken"System.Threading.CancellationToken25AddAsync(TEntity, System.Threading.CancellationToken)ú
+ô
 {
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs# #(p5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"__id*
-""ê
-ç
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (*
+%10#Stone.Clientes.Data.ClientesContext"__id*h*f4
+2Stone.Clientes.Data.Repositories.ClienteRepository".
+context#Stone.Clientes.Data.ClientesContext˜Ù
 {
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs% %(2*
-%2$Stone.Clientes.Domain.Models.Cliente"qStone.Clientes.Data.Repositories.ClienteRepository.RetornaClienteDomain(Stone.Clientes.Data.Models.ClienteEntity)*6"4
-2Stone.Clientes.Data.Repositories.ClienteRepository*7
-5
-	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"´
-{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs% %(3,
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (,+
+%11$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*,
 *
-%2$Stone.Clientes.Domain.Models.Cliente*ï
-1{
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs&	 &(	"í
+%10#Stone.Clientes.Data.ClientesContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)"∞
 {
-qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs& &(	
-implicit return:
-cpflong:7
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (1
+/
+cliente$Stone.Clientes.Domain.Models.Cliente*ï
+1{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs	 (	"í
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs (	
+implicit return:/
+cliente$Stone.Clientes.Domain.Models.Cliente:7
 cancellationToken"System.Threading.CancellationTokenB64
 2Stone.Clientes.Data.Repositories.ClienteRepository

@@ -1,33 +1,17 @@
 
-)Stone.Clientes.API.Program.Main(string[])c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs ("0*È
-0c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs ("…
-‚
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"6Stone.Clientes.API.Program.CreateHostBuilder(string[])*"
-Stone.Clientes.API.Program*
-
-argsstring[]þ
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Ì
-É
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs (1
+LStone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel.Quantidade.get‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs  (#"0* 
+0‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs$ ($ö
+ó
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs  ($	
+%0int"__id*V*T?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel"
 
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*ä
-1c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs	 (	"z
-c
-YC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.API\Program.cs (	
-implicit return:
-argsstring[]B"
-Stone.Clientes.API.Program
+Quantidadeint"—
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\ViewModel\BuscarCobrancaViewModel.cs  ($
+	
+%0intBA?
+=Stone.Cobrancas.Application.ViewModel.BuscarCobrancaViewModel

@@ -1,26 +1,18 @@
 
--Stone.Clientes.Domain.Models.Cliente.Nome.setm
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs
-* 
-(-"0*è
+,Stone.Clientes.Domain.Models.Cliente.CPF.setm
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs& ()"0*«
 0m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs
-. 
-(.Å
-Â
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs* (*ò
+ï
 m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs
-" 
-(.8&
-$Stone.Clientes.Domain.Models.Cliente"
-Nomestring"__id*
-
-valuestring"«
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs (*N&
+$Stone.Clientes.Domain.Models.Cliente"$
+CPFStone.Utils.CpfExtensions.Cpf"__id*(
+&
+valueStone.Utils.CpfExtensions.Cpf"Á
 m
-cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs
-" 
-(.:*8&
-$Stone.Clientes.Domain.Models.Cliente"
-Nomestring:
-valuestringB(&
+cC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Domain\Models\Cliente.cs (*P*N&
+$Stone.Clientes.Domain.Models.Cliente"$
+CPFStone.Utils.CpfExtensions.Cpf:&
+valueStone.Utils.CpfExtensions.CpfB(&
 $Stone.Clientes.Domain.Models.Cliente

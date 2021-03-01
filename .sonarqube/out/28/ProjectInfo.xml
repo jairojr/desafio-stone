@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>Stone.Clientes.Data.Tests</ProjectName>
+  <ProjectName>Stone.Cobrancas.Domain.Tests</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Test</ProjectType>
-  <ProjectGuid>f6e37762-0fca-4dee-bd36-1d53f85dd712</ProjectGuid>
-  <FullPath>C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\Stone.Clientes.Data.Tests.csproj</FullPath>
+  <ProjectGuid>1847c789-cc0c-456b-a4dd-fe4f38c35735</ProjectGuid>
+  <FullPath>C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\Stone.Cobrancas.Domain.Tests.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\jairo\source\repos\DesafioStone\.sonarqube\out\28\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\bin\Debug\netcoreapp3.1\Stone.Clientes.Data.Tests.dll.RoslynCA.json|C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.Data.Tests\bin\Debug\netcoreapp3.1\Stone.Clientes.Data.Tests.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\bin\Debug\netcoreapp3.1\Stone.Cobrancas.Domain.Tests.dll.RoslynCA.json|C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Cobrancas.Domain.Tests\bin\Debug\netcoreapp3.1\Stone.Cobrancas.Domain.Tests.dll.RoslynCA.json</Property>
     <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\jairo\source\repos\DesafioStone\.sonarqube\out\28</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>

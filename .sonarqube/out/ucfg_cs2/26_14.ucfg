@@ -1,12 +1,16 @@
 
-8Stone.Clientes.Data.Models.ClienteEntity.ClienteEntity()q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs ("1*{
-1q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs	 (	*
-0*Å
-0q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs	 (	"à
-q
-gC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Models\ClienteEntity.cs (	
-implicit returnB,*
-(Stone.Clientes.Data.Models.ClienteEntity
+0Stone.Clientes.Data.ClientesContext.Clientes.getl
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs/ (2"0*´
+0l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs3 (3ê
+ç
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs/ (32
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*c*a%
+#Stone.Clientes.Data.ClientesContext"8
+Clientes,Microsoft.EntityFrameworkCore.DbSet<TEntity>"§
+l
+bC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\ClientesContext.cs/ (34
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B'%
+#Stone.Clientes.Data.ClientesContext

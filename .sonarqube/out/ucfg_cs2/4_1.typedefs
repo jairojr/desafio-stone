@@ -1,5 +1,4 @@
-—
-.Stone.Cobrancas.Worker.Models.ClienteViewModelobjectW
-ClienteViewModel()AStone.Cobrancas.Worker.Models.ClienteViewModel.ClienteViewModel()A
-CPF.get6Stone.Cobrancas.Worker.Models.ClienteViewModel.CPF.getA
-CPF.set6Stone.Cobrancas.Worker.Models.ClienteViewModel.CPF.set
+Å
+1Stone.Clientes.Data.Mappings.ClienteEntityMappingobject£
+vConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)¨Stone.Clientes.Data.Mappings.ClienteEntityMapping.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Stone.Clientes.Data.Models.ClienteEntity>)b
+ClienteEntityMapping()HStone.Clientes.Data.Mappings.ClienteEntityMapping.ClienteEntityMapping()
