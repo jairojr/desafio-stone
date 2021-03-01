@@ -5,9 +5,18 @@ using System.Text;
 
 namespace Stone.Utils
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class EnumExtension
     {
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="valor"></param>
+        /// <returns></returns>
         public static T ObterEnum<T>(string valor) where T : struct
         {
             T valorEnum;

@@ -41,6 +41,11 @@ namespace Stone.Cobrancas.API.Services
         }
 
 
+        /// <summary>
+        /// Stop
+        /// </summary>
+        /// <param name="cancellationToken"></param>
+        /// <returns></returns>
         public Task StopAsync(CancellationToken cancellationToken)
             => Task.CompletedTask;
     }

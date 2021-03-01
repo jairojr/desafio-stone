@@ -13,8 +13,16 @@ using System.Text;
 
 namespace Stone.Clientes.Application
 {
+    /// <summary>
+    /// Extensão para IoC
+    /// </summary>
     public static class IocExtension
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="service"></param>
+        /// <returns></returns>
         public static IServiceCollection ConfigurarIoc(this IServiceCollection service)
         {
             service.AddSingleton(p => new MapperConfiguration(cfg =>
