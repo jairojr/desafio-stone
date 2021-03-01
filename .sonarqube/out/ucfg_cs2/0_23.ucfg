@@ -1,0 +1,156 @@
+
+.Stone.Utils.EnumExtension.ObterEnum<T>(string)R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (!"0*¶
+0R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (@‹
+ˆ
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs! (1
+%0string"string.ToString()*
+
+valorstringÆ
+Ã
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (A
+
+%1bool".System.Enum.TryParse<TEnum>(string, out TEnum)*"
+System.Enum*
+
+%0string*
+
+	valorEnumT*
+1
+2*¿
+1R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs ( "f
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (!
+
+	valorEnumT*\
+2R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs" (7*
+3*_
+3R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs#	 #(	*
+4
+5*š
+4R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (,…
+‚
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (-
+%2System.Attribute"NSystem.Attribute.GetCustomAttribute(System.Reflection.MemberInfo, System.Type)*"
+System.Attribute*&
+$
+fieldSystem.Reflection.FieldInfo*
+""°
+­
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (O7
+	attribute*System.ComponentModel.DescriptionAttribute"__id*
+
+%2System.Attribute*
+6
+7*œ
+6R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (Jíê
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (-
+%3string":System.ComponentModel.DescriptionAttribute.Description.get*9
+7
+	attribute*System.ComponentModel.DescriptionAttribute2Description.get‡
+„
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (7
+%4string"string.ToLower()*
+
+%3stringŠ
+‡
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs; (J
+%5string"string.ToLower()*
+
+valorstring³
+°
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (J
+
+%6bool""string.operator ==(string, string)*
+"
+string*
+
+%4string*
+
+%5string*
+8
+3*ï
+8R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (5Ã
+À
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs" (6
+%7object",System.Reflection.FieldInfo.GetValue(object)*&
+$
+fieldSystem.Reflection.FieldInfo*
+""r
+p
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (6
+%8"__id*
+
+%7object"\
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (7
+
+%8*Ð
+7R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (+´
+±
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs ("
+%9string"%System.Reflection.MemberInfo.Name.get*&
+$
+fieldSystem.Reflection.FieldInfo·
+´
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (+
+%10bool""string.operator ==(string, string)*
+"
+string*
+
+%9string*
+
+valorstring*
+9
+3*ó
+9R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (5Ä
+Á
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs" (6
+%11object",System.Reflection.FieldInfo.GetValue(object)*&
+$
+fieldSystem.Reflection.FieldInfo*
+""t
+r
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (6
+%12"__id*
+
+%11object"]
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs (7
+
+%12*µ
+5R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs" "("\
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs" "(
+""*Ã
+10R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs#	 #(	"i
+R
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.cs# #(	
+implicit return:
+valorstringB"
+Stone.Utils.EnumExtension

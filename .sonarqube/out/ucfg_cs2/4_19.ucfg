@@ -1,0 +1,208 @@
+
+ãStone.Cobrancas.Worker.Worker.EnviarCobrancaParaCliente(Stone.Cobrancas.Worker.Models.ClienteViewModel, System.Threading.CancellationToken)g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csH H(4"0*∫*
+0g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csJ X( Ô
+Ï
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csJ2 J(=
+%0string"6Stone.Cobrancas.Worker.Models.ClienteViewModel.CPF.get*;
+9
+cliente.Stone.Cobrancas.Worker.Models.ClienteViewModel´
+®
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csJ J(>,
+%1&Stone.Cobrancas.Domain.Models.Cobranca"SStone.Cobrancas.Domain.Models.Cobranca.CriarCobranca(Stone.Utils.CpfExtensions.Cpf)**"(
+&Stone.Cobrancas.Domain.Models.Cobranca*
+
+%0string÷
+”
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csJ J(>2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca"__id*.
+,
+%1&Stone.Cobrancas.Domain.Models.Cobranca‘—
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csL" Q(5
+%2/Stone.Cobrancas.Worker.Models.CobrancaViewModel"/Stone.Cobrancas.Worker.Models.CobrancaViewModelˆ
+Û
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csL& L(7
+
+%3void"CStone.Cobrancas.Worker.Models.CobrancaViewModel.CobrancaViewModel()*7
+5
+%2/Stone.Cobrancas.Worker.Models.CobrancaViewModel˜
+Ù
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csN N("#
+%4Stone.Utils.CpfExtensions.Cpf".Stone.Cobrancas.Domain.Models.Cobranca.CPF.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca“
+œ
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csN N(4
+%5string"/Stone.Utils.CpfExtensions.Cpf.ObterComMascara()*%
+#
+%4Stone.Utils.CpfExtensions.Cpf¸
+˘
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csN N(4
+%6string"7Stone.Cobrancas.Worker.Models.CobrancaViewModel.CPF.set*7
+5
+%2/Stone.Cobrancas.Worker.Models.CobrancaViewModel*
+
+%5stringÍ
+Á
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csO O($
+%7System.DateTime"/Stone.Cobrancas.Domain.Models.Cobranca.Data.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobrancaè
+å
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csO O($
+%8System.DateTime"8Stone.Cobrancas.Worker.Models.CobrancaViewModel.Data.set*7
+5
+%2/Stone.Cobrancas.Worker.Models.CobrancaViewModel*
+
+%7System.DateTime„
+‡
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csP P(&
+%9decimal"0Stone.Cobrancas.Domain.Models.Cobranca.Valor.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.CobrancaÅ
+˛
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csP P(&
+%10decimal"9Stone.Cobrancas.Worker.Models.CobrancaViewModel.Valor.set*7
+5
+%2/Stone.Cobrancas.Worker.Models.CobrancaViewModel*
+
+%9decimalÔ
+Ï
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csL Q(B
+cobrancaInserir/Stone.Cobrancas.Worker.Models.CobrancaViewModel"__id*7
+5
+%2/Stone.Cobrancas.Worker.Models.CobrancaViewModelì
+ê
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csS S(:
+%113Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*c*a
+Stone.Cobrancas.Worker.Worker">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>
+Ì
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csS[ S(f
+%12string"6Stone.Cobrancas.Worker.Models.ClienteViewModel.CPF.get*;
+9
+cliente.Stone.Cobrancas.Worker.Models.ClienteViewModel‰
+·
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csSh S(v
+%13decimal"0Stone.Cobrancas.Domain.Models.Cobranca.Valor.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca∆
+√
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csS S(w
+%14void"{Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*<
+:
+%113Microsoft.Extensions.Logging.ILogger<TCategoryName>*:8
+6Worker cobran√ßa - Inserindo cobran√ßa para cpf: {cpf}*
+
+%12string*
+
+%13decimalì
+ê
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csU) U(=6
+%15/Stone.Cobrancas.Worker.Services.CobrancaService"__id*g*e
+Stone.Cobrancas.Worker.Worker"B
+cobrancaService/Stone.Cobrancas.Worker.Services.CobrancaServiceÎ
+Ë
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csU) U(q+
+%16$System.Threading.Tasks.Task<TResult>"îStone.Cobrancas.Worker.Services.CobrancaService.InserirCobranca(Stone.Cobrancas.Worker.Models.CobrancaViewModel, System.Threading.CancellationToken)*8
+6
+%15/Stone.Cobrancas.Worker.Services.CobrancaService*D
+B
+cobrancaInserir/Stone.Cobrancas.Worker.Models.CobrancaViewModel*9
+7
+cancellationToken"System.Threading.CancellationTokenî
+ë
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csU U(q
+cobrancaInseridabool"__id*
+""*
+1
+2*∫
+
+1h
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csY Y(àì
+ê
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csY Y(:
+%173Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*c*a
+Stone.Cobrancas.Worker.Worker">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>
+Ì
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csYm Y(x
+%18string"6Stone.Cobrancas.Worker.Models.ClienteViewModel.CPF.get*;
+9
+cliente.Stone.Cobrancas.Worker.Models.ClienteViewModelÂ
+‚
+h
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csYz Y(à
+%19decimal"0Stone.Cobrancas.Domain.Models.Cobranca.Valor.get*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca‘
+—
+h
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.csY Y(â
+%20void"{Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*<
+:
+%173Microsoft.Extensions.Logging.ILogger<TCategoryName>*GE
+CWorker cobran√ßa - Cobranca inserida para cpf: {cpf} valor: {valor}*
+
+%18string*
+
+%19decimal*
+3*≥
+2g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs[ [(lì
+ê
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs[ [(:
+%213Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*c*a
+Stone.Cobrancas.Worker.Worker">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>
+Ì
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs[a [(l
+%22string"6Stone.Cobrancas.Worker.Models.ClienteViewModel.CPF.get*;
+9
+cliente.Stone.Cobrancas.Worker.Models.ClienteViewModel∂
+≥
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs[ [(m
+%23void"uMicrosoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*<
+:
+%213Microsoft.Extensions.Logging.ILogger<TCategoryName>*B@
+>Worker cobran√ßa - Erro ao inserir cobran√ßa para o cpf: {cpf}*
+
+%22string*
+3*Ï
+3g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs^	 ^(	"~
+g
+]C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Worker\Worker.cs^ ^(	
+implicit return:9
+cliente.Stone.Cobrancas.Worker.Models.ClienteViewModel:7
+cancellationToken"System.Threading.CancellationTokenB!
+Stone.Cobrancas.Worker.Worker

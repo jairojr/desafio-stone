@@ -1,0 +1,59 @@
+
+jStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StartAsync(System.Threading.CancellationToken)Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs$ $($"0*¬
+0Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs& ((;œ
+Ã
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs& &(9
+%03Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*Ä*~=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>´
+®
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs& &(>
+
+%1void"{Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*;
+9
+%03Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+MongoDb - Criando indexes*
+""π
+∂
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs' '(!*
+%2$Stone.Cobrancas.Data.CobrancaContext"__id*z*x=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"7
+cobrancaContext$Stone.Cobrancas.Data.CobrancaContextı
+Ú
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs' '(H!
+%3System.Threading.Tasks.Task"\Stone.Cobrancas.Data.CobrancaContext.ConfigureMongoIndex(System.Threading.CancellationToken)*,
+*
+%2$Stone.Cobrancas.Data.CobrancaContext*9
+7
+cancellationToken"System.Threading.CancellationTokenœ
+Ã
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs( ((9
+%43Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*Ä*~=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService"=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>©
+¶
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs( ((<
+
+%5void"{Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*;
+9
+%43Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+MongoDb - Index criados*
+""*
+1*´
+1Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs)	 )(	"ù
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs) )(	
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB?=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService

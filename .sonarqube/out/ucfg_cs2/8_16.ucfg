@@ -1,0 +1,91 @@
+
+vStone.Cobrancas.Data.Repositories.CobrancaRepository.RetornaCobrancaDomain(Stone.Cobrancas.Data.Models.CobrancaEntity)~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs8  8(5"0*‘
+0~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs: :("ƒ
+€
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs: :("
+
+%0bool""object.operator ==(object, object)*
+"
+object*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity*
+""*
+1
+2*Ž
+1~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs; ;("ˆ
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs; ;(
+""*ì
+2~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(k…
+‚
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=  =(-
+%1System.Guid"1Stone.Cobrancas.Data.Models.CobrancaEntity.Id.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity‹
+ˆ
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=/ =(>
+%2System.DateTime"3Stone.Cobrancas.Data.Models.CobrancaEntity.Data.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityÿ
+ü
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=@ =(N
+
+%3long"2Stone.Cobrancas.Data.Models.CobrancaEntity.CPF.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntity°
+­
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=@ =(Y
+%4string"long.ToString()*
+
+
+%3long„
+
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs=[ =(k
+%5decimal"4Stone.Cobrancas.Data.Models.CobrancaEntity.Valor.get*:
+8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityÙÖ
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(l,
+%6&Stone.Cobrancas.Domain.Models.Cobranca"&Stone.Cobrancas.Domain.Models.Cobranca…
+‚
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(
+
+%7void"uStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.Guid, System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)*.
+,
+%6&Stone.Cobrancas.Domain.Models.Cobranca*
+
+%1System.Guid*
+
+%2System.DateTime*
+
+%4string*
+
+%5decimal"°
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs= =(m.
+,
+%6&Stone.Cobrancas.Domain.Models.Cobranca*›
+3~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs>	 >(	"•
+~
+tC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Data\Repositories\CobrancaRepository.cs> >(	
+implicit return:8
+
+CobrancaDb*Stone.Cobrancas.Data.Models.CobrancaEntityB8"6
+4Stone.Cobrancas.Data.Repositories.CobrancaRepository

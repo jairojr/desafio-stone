@@ -1,0 +1,49 @@
+
+hStone.Clientes.Application.ClienteApplication.ObterPorCpfAsync(long, System.Threading.CancellationToken)v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csB, B(<"0*∑
+0v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD F(<Æ
+´
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD  D(.4
+%0.Stone.Clientes.Domain.Services.IClienteService"__id*u*s/
+-Stone.Clientes.Application.ClienteApplication"@
+clienteService.Stone.Clientes.Domain.Services.IClienteService…∆
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD  D(W*
+%1$System.Threading.Tasks.Task<TResult>"iStone.Clientes.Domain.Services.IClienteService.ObterPorCpfAsync(long, System.Threading.CancellationToken)*6
+4
+%0.Stone.Clientes.Domain.Services.IClienteService*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken2:ObterPorCpfAsync(long, System.Threading.CancellationToken)∫
+∑
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csD D(W/
+cliente$Stone.Clientes.Domain.Models.Cliente"__id*
+""Ó
+Î
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csF F(
+%2AutoMapper.IMapper"__id*Q*O/
+-Stone.Clientes.Application.ClienteApplication"
+mapperAutoMapper.IMapper‘—
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csF F(=;
+%35Stone.Clientes.Application.ViewModel.ClienteViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%2AutoMapper.IMapper*1
+/
+cliente$Stone.Clientes.Domain.Models.Cliente2Map<TDestination>(object)"∑
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csF F(>=
+;
+%35Stone.Clientes.Application.ViewModel.ClienteViewModel*ã
+1v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csG	 G(	"ç
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.csG G(	
+implicit return:
+cpflong:7
+cancellationToken"System.Threading.CancellationTokenB1/
+-Stone.Clientes.Application.ClienteApplication

@@ -1,0 +1,8 @@
+­	
+2Stone.Clientes.Data.Repositories.ClienteRepositoryobject£
+6ClienteRepository(Stone.Clientes.Data.ClientesContext)iStone.Clientes.Data.Repositories.ClienteRepository.ClienteRepository(Stone.Clientes.Data.ClientesContext)à
+TCriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)‡Stone.Clientes.Data.Repositories.ClienteRepository.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)«
+:ObterPorCpfAsync(long, System.Threading.CancellationToken)mStone.Clientes.Data.Repositories.ClienteRepository.ObterPorCpfAsync(long, System.Threading.CancellationToken)·
+@ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)sStone.Clientes.Data.Repositories.ClienteRepository.ObterPorIdAsync(System.Guid, System.Threading.CancellationToken)Ã
+FVerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)yStone.Clientes.Data.Repositories.ClienteRepository.VerificaSeClienteExisteAsync(long, System.Threading.CancellationToken)·
+@BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)sStone.Clientes.Data.Repositories.ClienteRepository.BuscaPaginadaAsync(int, int, System.Threading.CancellationToken)

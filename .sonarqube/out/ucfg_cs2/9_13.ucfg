@@ -1,0 +1,31 @@
+
+ZStone.Clientes.Application.Mapping.DomainToViewModelToProfile.DomainToViewModelToProfile()‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs ()"1*Ø
+1‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs	 (	D
+B
+
+%0void"AutoMapper.Profile.Profile()*
+AutoMapper.Profile*
+0*ê
+0‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs ([˜
+•
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs (2:
+%14AutoMapper.IMappingExpression<TSource, TDestination>"5AutoMapper.Profile.CreateMap<TSource, TDestination>()*
+AutoMapper.Profileº·
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs (\:
+%24AutoMapper.IMappingExpression<TSource, TDestination>"éAutoMapper.IMappingExpression<TSource, TDestination>.ForMember<TMember>(System.Linq.Expressions.Expression<System.Func<TDestination, TMember>>, System.Action<AutoMapper.IMemberConfigurationExpression<TSource, TDestination, TMember>>)*<
+:
+%14AutoMapper.IMappingExpression<TSource, TDestination>*
+""*
+""2´ForMember<TMember>(System.Linq.Expressions.Expression<System.Func<TDestination, TMember>>, System.Action<AutoMapper.IMemberConfigurationExpression<TSource, TDestination, TMember>>)*
+2*¯
+2‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs	 (	"Ÿ
+‡
+}C:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\Mapping\DomainToViewModelToProfile .cs (	
+implicit returnBA?
+=Stone.Clientes.Application.Mapping.DomainToViewModelToProfile

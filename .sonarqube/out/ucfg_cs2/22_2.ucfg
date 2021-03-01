@@ -1,0 +1,30 @@
+
+‚Stone.Utils.MultiplaValidacaoException.MultiplaValidacaoException(System.Collections.Generic.List<Stone.Utils.ValidacaoException>)_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs ()"1*Ò
+1_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs	 (	g
+e
+
+%0void"3Stone.Utils.ValidacaoException.ValidacaoException()*" 
+Stone.Utils.ValidacaoException*
+0*è
+0_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs ((ü
+ù
+_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs ((\(
+&Stone.Utils.MultiplaValidacaoException"0
+
+Validacoes"System.Collections.Generic.List<T>"__id*2
+0
+
+validacoes"System.Collections.Generic.List<T>*
+2*Ü
+2_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs	 (	"v
+_
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.cs (	
+implicit return:0
+
+validacoes"System.Collections.Generic.List<T>B*(
+&Stone.Utils.MultiplaValidacaoException

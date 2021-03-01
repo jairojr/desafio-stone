@@ -1,0 +1,7 @@
+»
+#Stone.Clientes.Data.ClientesContext'Microsoft.EntityFrameworkCore.DbContextobjectJ
+ClientesContext()5Stone.Clientes.Data.ClientesContext.ClientesContext()ñ
+dClientesContext(Microsoft.EntityFrameworkCore.DbContextOptions<Stone.Clientes.Data.ClientesContext>)ˆStone.Clientes.Data.ClientesContext.ClientesContext(Microsoft.EntityFrameworkCore.DbContextOptions<Stone.Clientes.Data.ClientesContext>)ž
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)_Stone.Clientes.Data.ClientesContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)@
+Clientes.get0Stone.Clientes.Data.ClientesContext.Clientes.get@
+Clientes.set0Stone.Clientes.Data.ClientesContext.Clientes.set

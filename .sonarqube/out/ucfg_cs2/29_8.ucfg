@@ -1,0 +1,42 @@
+
+∆Stone.Clientes.Application.ClienteApplication.ClienteApplication(AutoMapper.IMapper, Stone.Clientes.Domain.Services.IClienteService, Stone.Clientes.Application.Validation.ClienteViewModelValidation)v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs   (!"1*Ä
+1v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs'	 '(	*
+0*å
+0v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs$ &((Ú
+Ô
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs$ $( O/
+-Stone.Clientes.Application.ClienteApplication"
+mapperAutoMapper.IMapper"__id*
+
+mapperAutoMapper.IMapper∫
+∑
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs% %(0s/
+-Stone.Clientes.Application.ClienteApplication"@
+clienteService.Stone.Clientes.Domain.Services.IClienteService"__id*B
+@
+clienteService.Stone.Clientes.Domain.Services.IClienteService◊
+‘
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs& &((Å/
+-Stone.Clientes.Application.ClienteApplication"N
+
+validation@Stone.Clientes.Application.Validation.ClienteViewModelValidation"__id*P
+N
+
+validation@Stone.Clientes.Application.Validation.ClienteViewModelValidation*
+2*ã
+2v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs'	 '(	"ç
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs' '(	
+implicit return:
+mapperAutoMapper.IMapper:@
+clienteService.Stone.Clientes.Domain.Services.IClienteService:N
+
+validation@Stone.Clientes.Application.Validation.ClienteViewModelValidationB1/
+-Stone.Clientes.Application.ClienteApplication

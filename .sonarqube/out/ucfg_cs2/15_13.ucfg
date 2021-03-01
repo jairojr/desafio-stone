@@ -1,0 +1,21 @@
+
+iStone.Cobrancas.API.Services.ConfigureMongoDbIndexesService.StopAsync(System.Threading.CancellationToken)Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs, ,("0*º
+0Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs- -(!˛
+˚
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs- -(!!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"≠
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs- -(!#
+!
+%0System.Threading.Tasks.Task*´
+1Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs-" -(""ù
+Ö
+{C:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.API\Services\ConfigureMongoDbIndexesService.cs-! -("
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB?=
+;Stone.Cobrancas.API.Services.ConfigureMongoDbIndexesService

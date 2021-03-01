@@ -1,0 +1,59 @@
+
+rStone.Clientes.Application.IocExtension.ConfigurarIoc(Microsoft.Extensions.DependencyInjection.IServiceCollection)p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs) (6"0*à
+0p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs !(­
+ª
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÏMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""ƒ
+€
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (HA
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollectionƒ
+€
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (@A
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollectionƒ
+€
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (FA
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"­Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollectionò
+ï
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (8A
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollectionò
+ï
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs (;A
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollection"¼
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs! !(H
+F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollection*ÿ
+1p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs"	 "(	"‡
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\IocExtension.cs" "(	
+implicit return:F
+service;Microsoft.Extensions.DependencyInjection.IServiceCollectionB+")
+'Stone.Clientes.Application.IocExtension

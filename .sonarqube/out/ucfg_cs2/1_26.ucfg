@@ -1,0 +1,77 @@
+
+dStone.Cobrancas.Domain.Models.Cobranca.CriarCobranca(Stone.Utils.CpfExtensions.Cpf, System.DateTime)p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs   (,"0*◊
+0p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs" ((B‹
+Ÿ
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs" "(.
+%0string"/Stone.Utils.CpfExtensions.Cpf.ObterComMascara()*&
+$
+cPFStone.Utils.CpfExtensions.Cpfù
+ö
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs" "(.
+strCpfstring"__id*
+
+%0stringß
+§
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs$& $(3	
+%1int"string.Length.get*
+
+strCpfstringæ
+ª
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs$ $(8
+%2string"string.Remove(int, int)*
+
+strCpfstring*2*
+""ù
+ö
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs$ $(8
+strCpfstring"__id*
+
+%2string†
+ù
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs& &(!
+valorstring"__id*
+
+strCpfstringÕ
+ 
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs(+ ((C
+%3decimal" System.Convert.ToDecimal(string)*"
+System.Convert*
+
+valorstringÀ»
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs( ((D,
+%4&Stone.Cobrancas.Domain.Models.Cobranca"&Stone.Cobrancas.Domain.Models.CobrancaÔ
+Ï
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs( ((
+
+%5void"hStone.Cobrancas.Domain.Models.Cobranca.Cobranca(System.DateTime, Stone.Utils.CpfExtensions.Cpf, decimal)*.
+,
+%4&Stone.Cobrancas.Domain.Models.Cobranca*
+
+dataSystem.DateTime*&
+$
+cPFStone.Utils.CpfExtensions.Cpf*
+
+%3decimal"¢
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs( ((E.
+,
+%4&Stone.Cobrancas.Domain.Models.Cobranca*ˇ
+1p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs)	 )(	"á
+p
+fC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Domain\Models\Cobranca.cs) )(	
+implicit return:$
+cPFStone.Utils.CpfExtensions.Cpf:
+dataSystem.DateTimeB*"(
+&Stone.Cobrancas.Domain.Models.Cobranca

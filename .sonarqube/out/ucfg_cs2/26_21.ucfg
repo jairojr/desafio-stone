@@ -1,0 +1,33 @@
+
+yStone.Clientes.Data.Repositories.ClienteRepository.VerificaSeClienteExisteAsync(long, System.Threading.CancellationToken){
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs. .(6"0*®	
+0{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs0 0(Uµ
+²
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs0 0('2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*y*w4
+2Stone.Clientes.Data.Repositories.ClienteRepository"?
+clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>Å
+Â
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs0 0(V*
+%1$System.Threading.Tasks.Task<TResult>"×Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken"«
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs0 0(W,
+*
+%1$System.Threading.Tasks.Task<TResult>*•
+1{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs1	 1(	"’
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs1 1(	
+implicit return:
+cpflong:7
+cancellationToken"System.Threading.CancellationTokenB64
+2Stone.Clientes.Data.Repositories.ClienteRepository

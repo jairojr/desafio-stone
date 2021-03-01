@@ -1,0 +1,5 @@
+Á
+Stone.Cobrancas.Worker.Worker.Microsoft.Extensions.Hosting.BackgroundServiceobjectâ
+ßWorker(Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.Worker.Worker>, Stone.Cobrancas.Worker.Services.ClienteService, Stone.Cobrancas.Worker.Services.CobrancaService, Microsoft.Extensions.Configuration.IConfiguration)ýStone.Cobrancas.Worker.Worker.Worker(Microsoft.Extensions.Logging.ILogger<Stone.Cobrancas.Worker.Worker>, Stone.Cobrancas.Worker.Services.ClienteService, Stone.Cobrancas.Worker.Services.CobrancaService, Microsoft.Extensions.Configuration.IConfiguration)‚
+0ExecuteAsync(System.Threading.CancellationToken)NStone.Cobrancas.Worker.Worker.ExecuteAsync(System.Threading.CancellationToken)ý
+mEnviarCobrancaParaCliente(Stone.Cobrancas.Worker.Models.ClienteViewModel, System.Threading.CancellationToken)‹Stone.Cobrancas.Worker.Worker.EnviarCobrancaParaCliente(Stone.Cobrancas.Worker.Models.ClienteViewModel, System.Threading.CancellationToken)

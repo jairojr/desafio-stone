@@ -1,0 +1,106 @@
+
+ìStone.Clientes.Application.ClienteApplication.CriarAsync(Stone.Clientes.Application.ViewModel.ClienteViewModel, System.Threading.CancellationToken)v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs0, 0(6"0*¿
+
+0v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs2 4(–
+Õ
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs2& 2(5F
+%0@Stone.Clientes.Application.Validation.ClienteViewModelValidation"__id*Ñ*Å/
+-Stone.Clientes.Application.ClienteApplication"N
+
+validation@Stone.Clientes.Application.Validation.ClienteViewModelValidationˆ
+Û
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs2& 2(P/
+%1)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*H
+F
+%0@Stone.Clientes.Application.Validation.ClienteViewModelValidation*K
+I
+clienteViewModel5Stone.Clientes.Application.ViewModel.ClienteViewModelÈ
+Ê
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs2 2(P3
+result)FluentValidation.Results.ValidationResult"__id*1
+/
+%1)FluentValidation.Results.ValidationResultÇˇ
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs4 4(
+
+%2bool"5FluentValidation.Results.ValidationResult.IsValid.get*5
+3
+result)FluentValidation.Results.ValidationResult2IsValid.get*
+1
+2*¿
+1v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs5 5(,Ω
+∫
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs5 5(,
+
+%3void"[Stone.Utils.ServiceOperation.ThrowErrosValidacao(FluentValidation.Results.ValidationResult)* "
+Stone.Utils.ServiceOperation*5
+3
+result)FluentValidation.Results.ValidationResult*
+2*ı
+2v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs7 9(DÆ
+´
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs7( 7(64
+%4.Stone.Clientes.Domain.Services.IClienteService"__id*u*s/
+-Stone.Clientes.Application.ClienteApplication"@
+clienteService.Stone.Clientes.Domain.Services.IClienteServiceÓ
+Î
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs7B 7(M
+%5AutoMapper.IMapper"__id*Q*O/
+-Stone.Clientes.Application.ClienteApplication"
+mapperAutoMapper.IMapper›⁄
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs7B 7(l*
+%6$Stone.Clientes.Domain.Models.Cliente"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%5AutoMapper.IMapper*K
+I
+clienteViewModel5Stone.Clientes.Application.ViewModel.ClienteViewModel2Map<TDestination>(object)•¢
+w
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs7( 7(Ä*
+%7$System.Threading.Tasks.Task<TResult>"ÉStone.Clientes.Domain.Services.IClienteService.CriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)*6
+4
+%4.Stone.Clientes.Domain.Services.IClienteService*,
+*
+%6$Stone.Clientes.Domain.Models.Cliente*9
+7
+cancellationToken"System.Threading.CancellationToken2TCriarAsync(Stone.Clientes.Domain.Models.Cliente, System.Threading.CancellationToken)√
+¿
+w
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs7 7(Ä7
+clienteInserido$Stone.Clientes.Domain.Models.Cliente"__id*
+""Ó
+Î
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs9 9(
+%8AutoMapper.IMapper"__id*Q*O/
+-Stone.Clientes.Application.ClienteApplication"
+mapperAutoMapper.IMapper‹Ÿ
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs9 9(E;
+%95Stone.Clientes.Application.ViewModel.ClienteViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%8AutoMapper.IMapper*9
+7
+clienteInserido$Stone.Clientes.Domain.Models.Cliente2Map<TDestination>(object)"∑
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs9 9(F=
+;
+%95Stone.Clientes.Application.ViewModel.ClienteViewModel*ã
+3v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs:	 :(	"ç
+v
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Application\ClienteApplication.cs: :(	
+implicit return:I
+clienteViewModel5Stone.Clientes.Application.ViewModel.ClienteViewModel:7
+cancellationToken"System.Threading.CancellationTokenB1/
+-Stone.Clientes.Application.ClienteApplication

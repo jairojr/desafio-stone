@@ -1,0 +1,35 @@
+
+AStone.Utils.ValidacaoException.ValidacaoException(string, string)W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs	 	(!"1*¥
+1W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs	 (	B
+@
+
+%0void"System.Exception.Exception()*
+System.Exception*
+0*…
+0W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs (Í
+Ê
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs (
+%1string")Stone.Utils.ValidacaoException.Codigo.set*" 
+Stone.Utils.ValidacaoException*
+
+codigostringÑ
+Î
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs (
+%2string"+Stone.Utils.ValidacaoException.Mensagem.set*" 
+Stone.Utils.ValidacaoException*
+
+mensagemstring*
+2*Ì
+2W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs	 (	"n
+W
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.cs (	
+implicit return:
+codigostring:
+mensagemstringB" 
+Stone.Utils.ValidacaoException

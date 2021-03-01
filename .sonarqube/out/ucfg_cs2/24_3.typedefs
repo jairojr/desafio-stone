@@ -1,0 +1,4 @@
+≥
+8Stone.Clientes.Domain.Validation.ClienteInsertValidation%FluentValidation.AbstractValidator<T>object⁄
+NClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)áStone.Clientes.Domain.Validation.ClienteInsertValidation.ClienteInsertValidation(Stone.Clientes.Domain.Repositories.IClienteRepository)Í
+VValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)èStone.Clientes.Domain.Validation.ClienteInsertValidation.ValidaSeCpfJaExiste(Stone.Utils.CpfExtensions.Cpf, System.Threading.CancellationToken)

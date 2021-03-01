@@ -1,0 +1,110 @@
+
+óStone.Cobrancas.Application.CobrancaApplication.CriarAsync(Stone.Cobrancas.Application.ViewModel.CobrancaViewModel, System.Threading.CancellationToken)y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csH- H(7"0*ﬂ
+
+0y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ L(ﬂ
+‹
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ& J(;H
+%0BStone.Cobrancas.Application.Validation.CobrancaViewModelValidation"__id*é*ã1
+/Stone.Cobrancas.Application.CobrancaApplication"V
+validationInsertBStone.Cobrancas.Application.Validation.CobrancaViewModelValidation˝
+˙
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ& J(V/
+%1)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*J
+H
+%0BStone.Cobrancas.Application.Validation.CobrancaViewModelValidation*M
+K
+cobrancaVewModel7Stone.Cobrancas.Application.ViewModel.CobrancaViewModelÏ
+È
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csJ J(V3
+result)FluentValidation.Results.ValidationResult"__id*1
+/
+%1)FluentValidation.Results.ValidationResultÖÇ
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csL L(
+
+%2bool"5FluentValidation.Results.ValidationResult.IsValid.get*5
+3
+result)FluentValidation.Results.ValidationResult2IsValid.get*
+1
+2*∆
+1y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csM M(,¿
+Ω
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csM M(,
+
+%3void"[Stone.Utils.ServiceOperation.ThrowErrosValidacao(FluentValidation.Results.ValidationResult)* "
+Stone.Utils.ServiceOperation*5
+3
+result)FluentValidation.Results.ValidationResult*
+2*í
+2y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO R(FÛ
+
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO O(&
+%4AutoMapper.IMapper"__id*S*Q1
+/Stone.Cobrancas.Application.CobrancaApplication"
+mapperAutoMapper.IMapper‰·
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO O(F,
+%5&Stone.Cobrancas.Domain.Models.Cobranca"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%4AutoMapper.IMapper*M
+K
+cobrancaVewModel7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel2Map<TDestination>(object)Ë
+Â
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csO O(F2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca"__id*.
+,
+%5&Stone.Cobrancas.Domain.Models.Cobranca®
+•
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csP) P(56
+%60Stone.Cobrancas.Domain.Services.ICobrancaService";Stone.Cobrancas.Application.CobrancaApplication.service.get*31
+/Stone.Cobrancas.Application.CobrancaApplication∑¥
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csP) P(]*
+%7$System.Threading.Tasks.Task<TResult>"áStone.Cobrancas.Domain.Services.ICobrancaService.CriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)*8
+6
+%60Stone.Cobrancas.Domain.Services.ICobrancaService*4
+2
+cobranca&Stone.Cobrancas.Domain.Models.Cobranca*9
+7
+cancellationToken"System.Threading.CancellationToken2VCriarAsync(Stone.Cobrancas.Domain.Models.Cobranca, System.Threading.CancellationToken)»
+≈
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csP P(]:
+cobrancaInserida&Stone.Cobrancas.Domain.Models.Cobranca"__id*
+""Û
+
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csR R(
+%8AutoMapper.IMapper"__id*S*Q1
+/Stone.Cobrancas.Application.CobrancaApplication"
+mapperAutoMapper.IMapper‰·
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csR R(G=
+%97Stone.Cobrancas.Application.ViewModel.CobrancaViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%8AutoMapper.IMapper*<
+:
+cobrancaInserida&Stone.Cobrancas.Domain.Models.Cobranca2Map<TDestination>(object)"º
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csR R(H?
+=
+%97Stone.Cobrancas.Application.ViewModel.CobrancaViewModel*ë
+3y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csS	 S(	"ê
+y
+oC:\Users\jairo\source\repos\DesafioStone\src\Stone.Cobrancas\Stone.Cobrancas.Application\CobrancaApplication.csS S(	
+implicit return:K
+cobrancaVewModel7Stone.Cobrancas.Application.ViewModel.CobrancaViewModel:7
+cancellationToken"System.Threading.CancellationTokenB31
+/Stone.Cobrancas.Application.CobrancaApplication

@@ -1,0 +1,9 @@
+‰
+Stone.Clientes.API.Startupobjectø
+lStartup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‡Stone.Clientes.API.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)»
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)iStone.Clientes.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Å
+’Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Stone.Clientes.Data.ClientesContext)­Stone.Clientes.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Stone.Clientes.Data.ClientesContext)A
+Configuration.get,Stone.Clientes.API.Startup.Configuration.getA
+Configuration.set,Stone.Clientes.API.Startup.Configuration.set-
+Env.get"Stone.Clientes.API.Startup.Env.get-
+Env.set"Stone.Clientes.API.Startup.Env.set

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Stone.Clientes.API.Tests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>d11e6606-0d88-45d5-9193-387f127d0f27</ProjectGuid>
+  <FullPath>C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\Stone.Clientes.API.Tests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\jairo\source\repos\DesafioStone\.sonarqube\out\18\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\bin\Debug\netcoreapp3.1\Stone.Clientes.API.Tests.dll.RoslynCA.json|C:\Users\jairo\source\repos\DesafioStone\tests\1.Unitarios\Stone.Clientes.API.Tests\bin\Debug\netcoreapp3.1\Stone.Clientes.API.Tests.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\jairo\source\repos\DesafioStone\.sonarqube\out\18</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+</ProjectInfo>

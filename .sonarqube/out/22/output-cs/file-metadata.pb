@@ -1,0 +1,10 @@
+Q
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\CpfExtensions.csutf-8Q
+HC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\EnumExtension.csutf-8N
+EC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ErrorModel.csutf-8^
+UC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\MultiplaValidacaoException.csutf-8U
+LC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ResultadoPaginado.csutf-8T
+KC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ServiceOperation.csutf-8V
+MC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\ValidacaoException.csutf-8Œ
+€C:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8w
+lC:\Users\jairo\source\repos\DesafioStone\src\Stone.Util\obj\Debug\netstandard2.1\Stone.Utils.AssemblyInfo.csutf-8

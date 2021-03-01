@@ -1,0 +1,45 @@
+
+mStone.Clientes.Data.Repositories.ClienteRepository.ObterPorCpfAsync(long, System.Threading.CancellationToken){
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs!# !(3"0*î
+0{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs# %(1µ
+≤
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs#" #(62
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*y*w4
+2Stone.Clientes.Data.Repositories.ClienteRepository"?
+clientesContext,Microsoft.EntityFrameworkCore.DbSet<TEntity>–
+Õ
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs#" #(p*
+%1$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*9
+7
+cancellationToken"System.Threading.CancellationToken≈
+¬
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs# #(p5
+	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"__id*
+""ê
+ç
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs% %(2*
+%2$Stone.Clientes.Domain.Models.Cliente"qStone.Clientes.Data.Repositories.ClienteRepository.RetornaClienteDomain(Stone.Clientes.Data.Models.ClienteEntity)*6"4
+2Stone.Clientes.Data.Repositories.ClienteRepository*7
+5
+	clienteDb(Stone.Clientes.Data.Models.ClienteEntity"´
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs% %(3,
+*
+%2$Stone.Clientes.Domain.Models.Cliente*ï
+1{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs&	 &(	"í
+{
+qC:\Users\jairo\source\repos\DesafioStone\src\Stone.Clientes\Stone.Clientes.Data\Repositories\ClienteRepository.cs& &(	
+implicit return:
+cpflong:7
+cancellationToken"System.Threading.CancellationTokenB64
+2Stone.Clientes.Data.Repositories.ClienteRepository
