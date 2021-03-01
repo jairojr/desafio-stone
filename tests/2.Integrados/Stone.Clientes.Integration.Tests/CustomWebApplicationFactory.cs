@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.AspNetCore.TestHost;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Stone.Clientes.Data;
 using System;
 using System.Collections.Generic;
@@ -24,8 +26,10 @@ namespace Stone.Clientes.Integration.Tests
             base.ConfigureWebHost(builder);
         }
 
-        protected override IWebHostBuilder CreateWebHostBuilder() =>
-            base.CreateWebHostBuilder().UseEnvironment("IntegrationTests");
+        protected override IHostBuilder CreateHostBuilder() =>
+           base.CreateHostBuilder().UseEnvironment("IntegrationTests")
+               .ConfigureHostConfiguration(
+                   config => config.AddEnvironmentVariables("ASPNETCORE"));
 
     }
 }
