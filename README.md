@@ -39,3 +39,4 @@ Ao iniciar o Stone.Cobrancas.Worker, ele irá aguardar 10s para iniciar e então
 
 Após finalizado a inserção de cobranças para todos clientes, o woker aguardará 5 minutos para executar o processo novamente.
 As configurações de tempo do worker estão disponíveis para personalização dentro do appsettings de Stone.Cobrancas.Worker.
+
