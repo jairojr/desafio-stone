@@ -40,8 +40,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"jairojr_desafio-stone" /o:"jairojr-desafio" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-            - uses: actions/checkout@v2
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"jairojr_desafio-stone" /o:"jairojr-desafio" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"      
       - name: Setup .NET
         uses: actions/setup-dotnet@v1
         with:
