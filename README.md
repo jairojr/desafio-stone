@@ -1,3 +1,5 @@
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=jairojr_desafio-stone)
+
 # DESAFIO - Processamento de Cobrança
 O objetivo do desafio é avaliar a capacidade de construir um cenário de processamento de cobrança
 baseada em micro serviços. Será levado em conta na avaliação os padrões de projeto aplicados, a
@@ -28,6 +30,9 @@ dígitos do CPF concatenados aos 2 últimos dígitos do CPF do cliente. Por exem
 
 # Projeto Desenvolvido
 [![Build status](https://dev.azure.com/jairojr-desafio-stone/DesafioStone/_apis/build/status/DesafioStone-.NET%20Core%20with%20SonarCloud-CI)](https://dev.azure.com/jairojr-desafio-stone/DesafioStone/_build/latest?definitionId=2)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jairojr_desafio-stone&metric=alert_status)](https://sonarcloud.io/dashboard?id=jairojr_desafio-stone)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jairojr_desafio-stone&metric=coverage)](https://sonarcloud.io/dashboard?id=jairojr_desafio-stone)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jairojr_desafio-stone&metric=code_smells)](https://sonarcloud.io/dashboard?id=jairojr_desafio-stone)
 
 O Desafio foi desenvolvido criando API Stone.Clientes, API Stone.Cobrancas e um WorkerServices StoneCobrancas que utiliza o domain da Stone.Cobrancas.
 
