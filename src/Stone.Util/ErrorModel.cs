@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Stone.Utils
@@ -7,6 +8,7 @@ namespace Stone.Utils
     /// <summary>
     /// 
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public class ErrorModel
     {
         /// <summary>

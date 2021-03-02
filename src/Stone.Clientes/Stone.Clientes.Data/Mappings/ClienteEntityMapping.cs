@@ -2,10 +2,12 @@
 using Stone.Clientes.Data.Models;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Stone.Clientes.Data.Mappings
 {
+    [ExcludeFromCodeCoverage]
     internal class ClienteEntityMapping : IEntityTypeConfiguration<ClienteEntity>
     {
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<ClienteEntity> builder)

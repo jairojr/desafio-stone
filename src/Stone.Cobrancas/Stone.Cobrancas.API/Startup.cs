@@ -9,12 +9,14 @@ using Stone.Cobrancas.API.Middleware;
 using Stone.Cobrancas.API.Services;
 using Stone.Cobrancas.Application;
 using Stone.Cobrancas.Data;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Stone.Cobrancas.API
 {
     /// <summary>
     /// Startup com configurações da API
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
         private IConfiguration Configuration { get; }

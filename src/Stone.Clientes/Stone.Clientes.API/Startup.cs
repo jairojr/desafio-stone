@@ -8,12 +8,14 @@ using Stone.Clientes.API.Configuration;
 using Stone.Clientes.API.Middleware;
 using Stone.Clientes.Application;
 using Stone.Clientes.Data;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Stone.Clientes.API
 {
     /// <summary>
     /// Startup com configurações da API
     /// </summary>
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
         private IConfiguration Configuration { get; }
